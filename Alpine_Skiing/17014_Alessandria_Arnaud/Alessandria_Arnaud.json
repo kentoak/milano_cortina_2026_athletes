@@ -1,0 +1,446 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "17014",
+      "GivenName": "Arnaud",
+      "FamilyName": "Alessandria",
+      "PrintName": "ALESSANDRIA Arnaud",
+      "PrintInitialName": "ALESSANDRIA A",
+      "TVName": "Arnaud ALESSANDRIA",
+      "TVInitialName": "A. ALESSANDRIA",
+      "TVFamilyName": "ALESSANDRIA",
+      "OrganisationCode": "MON",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1993-07-15",
+      "PlaceofBirth": "Monaco",
+      "CountryofBirth": "MON",
+      "Age": 32,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 1,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/alessandria.arnaud/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/arnaud_alessandria/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TIKTOK",
+          "Value": "https://www.tiktok.com/@arnaudalessandria"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TWITTER",
+          "Value": "https://x.com/arnaud_ski"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men&amp;apos;s Combined</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >2:44.20</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Men&amp;apos;s Downhill</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >1:46.25</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Men&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >1:24.68</td> </tr> <tr> <td class=\"text-start text-end\" >39</td> <td class=\"text-start\" >Men&amp;apos;s Downhill</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> <td class=\"text-start text-end\" >2:12.71</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Combined</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> <td class=\"text-start text-end\" >DNF</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s Combined</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >2:05.50</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Men&amp;apos;s Downhill</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >1:41.57</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Men&amp;apos;s Combined</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >2:43.48</td> </tr> <tr> <td class=\"text-start text-end\" >37</td> <td class=\"text-start\" >Men&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >1:19.41</td> </tr> <tr> <td class=\"text-start text-end\" >39</td> <td class=\"text-start\" >Men&amp;apos;s Downhill</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >1:47.75</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Combined</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" >DSQ</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>Downhill</b></th> <th class=\"text-start px-4\"><b>Super-G</b></th> <th class=\"text-start px-4\"><b>Alpine Combined</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\">1 x 58th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start px-4\">1 x 56th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start px-4\">1 x 60th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start px-4\">1 x 45th</td> <td class=\"text-start px-4\">1 x 55th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-start px-4\">1 x 47th</td> <td class=\"text-start px-4\">2 x DNS</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2015/2016</td> <td class=\"text-start px-4\">1 x 57th</td> <td class=\"text-start px-4\">1 x 54th</td> <td class=\"text-start px-4\">1 x 51st</td> </tr> <tr> <td class=\"text-end\">2014/2015</td> <td class=\"text-start px-4\">1 x 52nd</td> <td class=\"text-start px-4\">1 x 59th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-start px-4\">1 x 64th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x DNF</td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr><tr><td class=\"text-start\"><b>DSQ</b></td><td class=\"text-start\">Disqualified</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMDH----------------TRNO000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Downhill 1st Official Training",
+          "UnitLongDescription": "Men's Downhill 1st Official Training",
+          "UnitPrintDescription": "1st Official Training",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "DH----------------",
+          "PhaseCode": "TRNO",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-04T11:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMDH----------------TRNO000200--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Downhill 2nd Official Training",
+          "UnitLongDescription": "Men's Downhill 2nd Official Training",
+          "UnitPrintDescription": "2nd Official Training",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "DH----------------",
+          "PhaseCode": "TRNO",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-05T11:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMDH----------------TRNO000300--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Downhill 3rd Official Training",
+          "UnitLongDescription": "Men's Downhill 3rd Official Training",
+          "UnitPrintDescription": "3rd Official Training",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "DH----------------",
+          "PhaseCode": "TRNO",
+          "UnitCode": "000300--",
+          "StartDate": "2026-02-06T11:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMDH----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Downhill",
+          "UnitLongDescription": "Men's Downhill",
+          "UnitPrintDescription": "Men's Downhill",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "DH----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-07T11:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMSG----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Super-G",
+          "UnitLongDescription": "Men's Super-G",
+          "UnitPrintDescription": "Men's Super-G",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "SG----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T11:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "ALP",
+          "Description": "Alpine Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "M",
+          "EventCode": "DH----------------",
+          "EventDescription": "Men's Downhill",
+          "EventLongDescription": "Men's Downhill",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Rank": 31,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMDH----------------TRNO000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Downhill 1st Official Training",
+              "UnitLongDescription": "Men's Downhill 1st Official Training",
+              "UnitPrintDescription": "1st Official Training",
+              "IsFinal": false,
+              "PhaseCode": "TRNO",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-04T11:29:59+01:00",
+              "Result": "2:00.26",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMDH----------------TRNO000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Downhill 2nd Official Training",
+              "UnitLongDescription": "Men's Downhill 2nd Official Training",
+              "UnitPrintDescription": "2nd Official Training",
+              "IsFinal": false,
+              "PhaseCode": "TRNO",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-05T11:29:58+01:00",
+              "Result": "1:56.86",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMDH----------------TRNO000300--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Downhill 3rd Official Training",
+              "UnitLongDescription": "Men's Downhill 3rd Official Training",
+              "UnitPrintDescription": "3rd Official Training",
+              "IsFinal": false,
+              "PhaseCode": "TRNO",
+              "UnitCode": "000300--",
+              "UnitDateTime": "2026-02-06T11:29:57+01:00",
+              "Result": "1:59.33",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMDH----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Downhill",
+              "UnitLongDescription": "Men's Downhill",
+              "UnitPrintDescription": "Men's Downhill",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-07T11:29:58+01:00",
+              "Result": "1:57.15",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "188"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "173"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "39.48"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "M",
+          "EventCode": "SG----------------",
+          "EventDescription": "Men's Super-G",
+          "EventLongDescription": "Men's Super-G",
+          "EventSortOrder": 9,
+          "ParticipantType": "INDV",
+          "Rank": 30,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMSG----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Super-G",
+              "UnitLongDescription": "Men's Super-G",
+              "UnitPrintDescription": "Men's Super-G",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T11:30:01+01:00",
+              "Result": "1:30.13",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "188"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "451"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "64.95"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/17014_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/17014_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/17014"
+}

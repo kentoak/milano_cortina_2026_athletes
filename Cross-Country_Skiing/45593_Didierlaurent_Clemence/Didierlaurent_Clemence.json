@@ -1,0 +1,165 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "45593",
+      "GivenName": "Clemence",
+      "FamilyName": "Didierlaurent",
+      "PrintName": "DIDIERLAURENT Clemence",
+      "PrintInitialName": "DIDIERLAURENT C",
+      "TVName": "Clemence DIDIERLAURENT",
+      "TVInitialName": "C. DIDIERLAURENT",
+      "TVFamilyName": "DIDIERLAURENT",
+      "OrganisationCode": "FRA",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2002-06-20",
+      "PlaceofBirth": "Remiremont",
+      "CountryofBirth": "FRA",
+      "Age": 23,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/clemence_ddl/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup Rankings Overview</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Sprint</b></th> <th class=\"text-end\"><b>Distance</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 88 </td> <td class=\"text-end\"> 83 </td> <td class=\"text-end\"> 111 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 138 </td> <td class=\"text-end\"> 96 </td> <td class=\"text-end\"> 128 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS U21 World Ski Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s Sprint Free</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Planica, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s 10km Interval Start Free</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Whistler, BC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Women&amp;apos;s Sprint Classic</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Schilpario, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Women&amp;apos;s 20km Mass Start Classic</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Whistler, BC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s Sprint Classic</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Whistler, BC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Women&amp;apos;s 10km Interval Start Classic</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Planica, SLO</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Best performances per season in World Cup events from 2018/2019 - Individual events until 10km</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>SP C</b></th> <th class=\"text-start px-4\"><b>SP F</b></th> <th class=\"text-start px-4\"><b>10km C</b></th> <th class=\"text-start px-4\"><b>10km F</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start px-4\">1 x 20th</td> <td class=\"text-start px-4\">1 x 65th</td> <td class=\"text-start px-4\">1 x 77th</td> <td class=\"text-start px-4\">1 x 35th</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start px-4\">1 x 37th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 42nd</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 20 </td> <td class=\"text-start\" > Sprint Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val Di Fiemme, ITA </td> </tr> <tr> <td class=\"text-start text-end\" > 35 </td> <td class=\"text-start\" > 10km Mass Start Free </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val Di Fiemme, ITA </td> </tr> <tr> <td class=\"text-start text-end\" > 45 </td> <td class=\"text-start\" > 10km Interval Start Free </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Davos, SUI </td> </tr> <tr> <td class=\"text-start text-end\" > 49 </td> <td class=\"text-start\" > Sprint Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Goms, SUI </td> </tr> <tr> <td class=\"text-start text-end\" > 65 </td> <td class=\"text-start\" > Sprint Free </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Toblach, ITA </td> </tr> <tr> <td class=\"text-start text-end\" > 77 </td> <td class=\"text-start\" > 10km Interval Start Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Toblach, ITA </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "TCC",
+          "VenueDescription": "Tesero Cross-Country",
+          "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationCode": "TCC",
+          "LocationDescription": "Tesero Cross-Country Stadium",
+          "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationShortDescription": "Tesero Cross-Country Stadium",
+          "EventUnitCode": "CCSWSPRINT------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Sprint Classic Qualification",
+          "UnitLongDescription": "Women's Sprint Classic Qualification",
+          "UnitPrintDescription": "Qualification",
+          "IsFinal": false,
+          "DisciplineCode": "CCS",
+          "GenderCode": "W",
+          "EventCode": "SPRINT------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T09:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "CCS",
+          "Description": "Cross-Country Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "CCS",
+          "DisciplineDescription": "Cross-Country Skiing",
+          "GenderCode": "W",
+          "EventCode": "SPRINT------------",
+          "EventDescription": "Women's Sprint Classic",
+          "EventLongDescription": "Women's Sprint Classic",
+          "EventSortOrder": 9,
+          "ParticipantType": "INDV",
+          "Rank": 38,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "TCC",
+              "VenueDescription": "Tesero Cross-Country",
+              "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationCode": "TCC",
+              "LocationDescription": "Tesero Cross-Country Stadium",
+              "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationShortDescription": "Tesero Cross-Country Stadium",
+              "EventUnitCode": "CCSWSPRINT------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Sprint Classic Qualification",
+              "UnitLongDescription": "Women's Sprint Classic Qualification",
+              "UnitPrintDescription": "Qualification",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T09:15:00+01:00",
+              "Result": "3:51.93",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "SPRINT",
+              "Value": "122.26"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "SPRINT",
+              "Value": "131"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/45593_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/45593_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/45593"
+}

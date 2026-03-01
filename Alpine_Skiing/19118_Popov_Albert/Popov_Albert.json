@@ -1,0 +1,193 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "19118",
+      "GivenName": "Albert",
+      "FamilyName": "Popov",
+      "PrintName": "POPOV Albert",
+      "PrintInitialName": "POPOV A",
+      "TVName": "Albert POPOV",
+      "TVInitialName": "A. POPOV",
+      "TVFamilyName": "POPOV",
+      "OrganisationCode": "BUL",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1997-08-08",
+      "PlaceofBirth": "Sofia",
+      "CountryofBirth": "BUL",
+      "Age": 28,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 1,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/albertpopovskibg/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/albertpopov/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >1:45.15</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >2:14.94</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> <td class=\"text-start text-end\" >2:23.60</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> <td class=\"text-start text-end\" >DNF</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >1:56.52</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >2:45.95</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >St. Moritz, SUI</td> <td class=\"text-start text-end\" >1:39.08</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" >2:26.58</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >St. Moritz, SUI</td> <td class=\"text-start text-end\" >2:18.21</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >2:47.17</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >DNF</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Slalom</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 59 </td> <td class=\"text-end\"> 20 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 40 </td> <td class=\"text-end\"> 12 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 62 </td> <td class=\"text-end\"> 24 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 44 </td> <td class=\"text-end\"> 15 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 57 </td> <td class=\"text-end\"> 21 </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> 72 </td> <td class=\"text-end\"> 26 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> 90 </td> <td class=\"text-end\"> 31 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 66 </td> <td class=\"text-end\"> 23 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>Slalom</b></th> <th class=\"text-start px-4\"><b>Giant Slalom</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start px-4\">1 x 9th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start px-4\">1 x 1st</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\">1 x 10th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start px-4\">1 x 3rd</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start px-4\">1 x 4th</td> <td class=\"text-start px-4\">1 x DNQ</td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start px-4\">1 x 6th</td> <td class=\"text-start px-4\">1 x DNQ</td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-start px-4\">1 x 12th</td> <td class=\"text-start px-4\">4 x DNQ</td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start px-4\">1 x 6th</td> <td class=\"text-start px-4\">7 x DNQ</td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-start px-4\">1 x DNS</td> <td class=\"text-start px-4\">1 x DNF</td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-start px-4\">1 x DNQ</td> <td class=\"text-start px-4\">2 x DNQ</td> </tr> <tr> <td class=\"text-end\">2015/2016</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x DNF</td> </tr> <tr> <td class=\"text-end\">2014/2015</td> <td class=\"text-start px-4\">1 x DNQ</td> <td class=\"text-start px-4\">1 x DNQ</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 9 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Gurgl, AUT </td> <td class=\"text-start text-end\" > 1:45.43 </td> </tr> <tr> <td class=\"text-start text-end\" > 11 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Adelboden, SUI </td> <td class=\"text-start text-end\" > 1:52.41 </td> </tr> <tr> <td class=\"text-start text-end\" > 18 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Schladming, AUT </td> <td class=\"text-start text-end\" > 1:57.82 </td> </tr> <tr> <td class=\"text-start text-end\" > 19 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val d&amp;apos;Isere, FRA </td> <td class=\"text-start text-end\" > 1:39.88 </td> </tr> <tr> <td class=\"text-start text-end\" > 22 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Kitzbuehel, AUT </td> <td class=\"text-start text-end\" > 1:43.11 </td> </tr> <tr> <td class=\"text-start text-end\" > 23 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Levi, FIN </td> <td class=\"text-start text-end\" > 1:53.01 </td> </tr> <tr> <td class=\"text-start text-end\" > 23 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Alta Badia, ITA </td> <td class=\"text-start text-end\" > 1:46.10 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNQ</b></td><td class=\"text-start\">Did Not Qualify</td></tr><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMSL----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Slalom Run 1",
+          "UnitLongDescription": "Men's Slalom Run 1",
+          "UnitPrintDescription": "Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "SL----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-16T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "ALP",
+          "Description": "Alpine Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "M",
+          "EventCode": "SL----------------",
+          "EventDescription": "Men's Slalom",
+          "EventLongDescription": "Men's Slalom",
+          "EventSortOrder": 7,
+          "ParticipantType": "INDV",
+          "IRM": "DNF",
+          "ResultType": "IRM",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMSL----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Slalom Run 1",
+              "UnitLongDescription": "Men's Slalom Run 1",
+              "UnitPrintDescription": "Run 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-16T10:00:05+01:00",
+              "IRM": "DNF",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Value": "18"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "160.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "57"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "160.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "11"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "2.31"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/19118_HEADSHOT_2.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/19118_2.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/19118"
+}

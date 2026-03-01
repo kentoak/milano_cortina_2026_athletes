@@ -1,0 +1,508 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "44675",
+      "GivenName": "Fabien",
+      "FamilyName": "Claude",
+      "PrintName": "CLAUDE Fabien",
+      "PrintInitialName": "CLAUDE F",
+      "TVName": "Fabien CLAUDE",
+      "TVInitialName": "F. CLAUDE",
+      "TVFamilyName": "F. CLAUDE",
+      "OrganisationCode": "FRA",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1994-12-22",
+      "CountryofBirth": "FRA",
+      "Age": 31,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "BTHM4X7.5KM-FRA01",
+          "Name": "France",
+          "ShortName": "France",
+          "TVTeamName": "France",
+          "TeamType": "ORG",
+          "OrganisationCode": "FRA",
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "4X7.5KM-----------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/profile.php?id=100057776901530"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/fabien_claude1/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TWITTER",
+          "Value": "https://x.com/fabien_claude1"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 15km Mass Start</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Winter Youth Olympic Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>IBU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 15km Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Single Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s 15km Mass Start</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s 15km Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >37</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >41</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>IBU World Cup - Overall Standing</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Season</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >44</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >44</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >46</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >47</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >47</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >55</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >63</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >78</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >78</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >85</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >92</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM20KMIS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 20km Individual",
+          "UnitLongDescription": "Men's 20km Individual",
+          "UnitPrintDescription": "Men's 20km Individual",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "20KMIS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T13:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM10KMSP------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 10km Sprint",
+          "UnitLongDescription": "Men's 10km Sprint",
+          "UnitPrintDescription": "Men's 10km Sprint",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "10KMSP------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-13T14:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM12.5KMPU----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 12.5km Pursuit",
+          "UnitLongDescription": "Men's 12.5km Pursuit",
+          "UnitPrintDescription": "Men's 12.5km Pursuit",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "12.5KMPU----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-15T11:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM4X7.5KM-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 4 x 7.5km Relay",
+          "UnitLongDescription": "Men's 4 x 7.5km Relay",
+          "UnitPrintDescription": "Men's 4 x 7.5km Relay",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "4X7.5KM-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-17T14:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM15KMMS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 15km Mass Start",
+          "UnitLongDescription": "Men's 15km Mass Start",
+          "UnitPrintDescription": "Men's 15km Mass Start",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "15KMMS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-20T14:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "10KMSP------------",
+          "EventDescription": "Men's 10km Sprint",
+          "EventLongDescription": "Men's 10km Sprint",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 41,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM10KMSP------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 10km Sprint",
+              "UnitLongDescription": "Men's 10km Sprint",
+              "UnitPrintDescription": "Men's 10km Sprint",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-13T14:00:00+01:00",
+              "Result": "25:23.2",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "28.30"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "16"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "12.5KMPU----------",
+          "EventDescription": "Men's 12.5km Pursuit",
+          "EventLongDescription": "Men's 12.5km Pursuit",
+          "EventSortOrder": 5,
+          "ParticipantType": "INDV",
+          "Rank": 24,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM12.5KMPU----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 12.5km Pursuit",
+              "UnitLongDescription": "Men's 12.5km Pursuit",
+              "UnitPrintDescription": "Men's 12.5km Pursuit",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T11:15:00+01:00",
+              "Result": "34:22.4",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "28.30"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "16"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "15KMMS------------",
+          "EventDescription": "Men's 15km Mass Start",
+          "EventLongDescription": "Men's 15km Mass Start",
+          "EventSortOrder": 7,
+          "ParticipantType": "INDV",
+          "Rank": 27,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM15KMMS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 15km Mass Start",
+              "UnitLongDescription": "Men's 15km Mass Start",
+              "UnitPrintDescription": "Men's 15km Mass Start",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-20T14:14:58+01:00",
+              "Result": "45:13.7",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "28.30"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "16"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "20KMIS------------",
+          "EventDescription": "Men's 20km Individual",
+          "EventLongDescription": "Men's 20km Individual",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 17,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM20KMIS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 20km Individual",
+              "UnitLongDescription": "Men's 20km Individual",
+              "UnitPrintDescription": "Men's 20km Individual",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T13:30:00+01:00",
+              "Result": "55:46.9",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "28.30"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "16"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "4X7.5KM-----------",
+          "EventDescription": "Men's 4 x 7.5km Relay",
+          "EventLongDescription": "Men's 4 x 7.5km Relay",
+          "EventSortOrder": 9,
+          "ParticipantType": "TEAM",
+          "Rank": 1,
+          "MedalType": "GOLD",
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM4X7.5KM-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 4 x 7.5km Relay",
+              "UnitLongDescription": "Men's 4 x 7.5km Relay",
+              "UnitPrintDescription": "Men's 4 x 7.5km Relay",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-17T14:30:00+01:00",
+              "Result": "1:19:55.2",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/44675_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/44675_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "MedalType": "GOLD",
+          "MedalDate": "2026-02-17",
+          "MedalUnitCode": "BTHM4X7.5KM-----------FNL-000100--",
+          "UnitDescription": "Men's 4 x 7.5km Relay",
+          "UnitLongDescription": "Men's 4 x 7.5km Relay",
+          "UnitPrintDescription": "Men's 4 x 7.5km Relay",
+          "UnitDateTime": "2026-02-17T14:30:00+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/44675"
+}

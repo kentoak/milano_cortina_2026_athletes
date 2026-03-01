@@ -1,0 +1,381 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "18212",
+      "GivenName": "Marko",
+      "FamilyName": "Sljivic",
+      "PrintName": "SLJIVIC Marko",
+      "PrintInitialName": "SLJIVIC M",
+      "TVName": "Marko SLJIVIC",
+      "TVInitialName": "M. SLJIVIC",
+      "TVFamilyName": "SLJIVIC",
+      "OrganisationCode": "BIH",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1996-05-12",
+      "PlaceofBirth": "Pale",
+      "CountryofBirth": "BIH",
+      "Age": 29,
+      "FlagBearer": 1,
+      "OlympicSolidarity": 1,
+      "YouthOlympian": 0,
+      "FlagbearerEvents": [
+        {
+          "Code": "CERGOPENING-----------------------",
+          "EventDescription": "Opening Ceremony",
+          "OrganisationCode": "BIH"
+        }
+      ],
+      "University": {},
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Winter Youth Olympic Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> <td class=\"text-start text-end\" >DNF</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >48</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNQ</td> </tr> <tr> <td class=\"text-start text-end\" >67</td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" >DNQ</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >St. Moritz, SUI</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >St. Moritz, SUI</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Men&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Vail / Beaver Creek, CO, USA</td> <td class=\"text-start text-end\" >DSQ</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>Slalom</b></th> <th class=\"text-start px-4\"><b>Giant Slalom</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-start px-4\">1 x DNQ</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-start px-4\">1 x DNF</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2015/2016</td> <td class=\"text-start px-4\">1 x DNQ</td> <td class=\"text-start px-4\">1 x DSQ</td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNQ</b></td><td class=\"text-start\">Did Not Qualify</td></tr><tr><td class=\"text-start\"><b>DSQ</b></td><td class=\"text-start\">Disqualified</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMGS----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Giant Slalom Run 1",
+          "UnitLongDescription": "Men's Giant Slalom Run 1",
+          "UnitPrintDescription": "Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "GS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-14T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMGS----------------FNL-000200--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Giant Slalom Run 2",
+          "UnitLongDescription": "Men's Giant Slalom Run 2",
+          "UnitPrintDescription": "Run 2",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "GS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-14T13:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMSL----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Slalom Run 1",
+          "UnitLongDescription": "Men's Slalom Run 1",
+          "UnitPrintDescription": "Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "SL----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-16T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "SSC",
+          "VenueDescription": "Stelvio Ski Centre",
+          "VenueLongDescription": "Stelvio Ski Centre",
+          "LocationCode": "SAL",
+          "LocationDescription": "Stelvio Ski Centre-ALP Course",
+          "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+          "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+          "EventUnitCode": "ALPMSL----------------FNL-000200--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Slalom Run 2",
+          "UnitLongDescription": "Men's Slalom Run 2",
+          "UnitPrintDescription": "Run 2",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "M",
+          "EventCode": "SL----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-16T13:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "ALP",
+          "Description": "Alpine Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "M",
+          "EventCode": "GS----------------",
+          "EventDescription": "Men's Giant Slalom",
+          "EventLongDescription": "Men's Giant Slalom",
+          "EventSortOrder": 8,
+          "ParticipantType": "INDV",
+          "Rank": 39,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMGS----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Giant Slalom Run 1",
+              "UnitLongDescription": "Men's Giant Slalom Run 1",
+              "UnitPrintDescription": "Run 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-14T09:59:59+01:00",
+              "Result": "1:22.76",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMGS----------------FNL-000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Giant Slalom Run 2",
+              "UnitLongDescription": "Men's Giant Slalom Run 2",
+              "UnitPrintDescription": "Run 2",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-14T13:29:59+01:00",
+              "Result": "1:17.45",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "188"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "1143"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "48.89"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "M",
+          "EventCode": "SL----------------",
+          "EventDescription": "Men's Slalom",
+          "EventLongDescription": "Men's Slalom",
+          "EventSortOrder": 7,
+          "ParticipantType": "INDV",
+          "Rank": 23,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMSL----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Slalom Run 1",
+              "UnitLongDescription": "Men's Slalom Run 1",
+              "UnitPrintDescription": "Run 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-16T10:00:05+01:00",
+              "Result": "1:03.05",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "SSC",
+              "VenueDescription": "Stelvio Ski Centre",
+              "VenueLongDescription": "Stelvio Ski Centre",
+              "LocationCode": "SAL",
+              "LocationDescription": "Stelvio Ski Centre-ALP Course",
+              "LocationLongDescription": "Stelvio Ski Centre-Alpine Skiing Course",
+              "LocationShortDescription": "Stelvio Ski Centre-ALP Course",
+              "EventUnitCode": "ALPMSL----------------FNL-000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Slalom Run 2",
+              "UnitLongDescription": "Men's Slalom Run 2",
+              "UnitPrintDescription": "Run 2",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-16T13:30:08+01:00",
+              "Result": "59.91",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "187"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPM------------------------------",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "276"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "25.66"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/18212_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/18212_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/18212"
+}

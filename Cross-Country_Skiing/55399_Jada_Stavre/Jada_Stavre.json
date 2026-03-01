@@ -1,0 +1,255 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "55399",
+      "GivenName": "Stavre",
+      "FamilyName": "Jada",
+      "PrintName": "JADA Stavre",
+      "PrintInitialName": "JADA S",
+      "TVName": "Stavre JADA",
+      "TVInitialName": "S. JADA",
+      "TVFamilyName": "JADA",
+      "OrganisationCode": "MKD",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1998-05-18",
+      "PlaceofBirth": "Skopje",
+      "CountryofBirth": "MKD",
+      "Age": 27,
+      "FlagBearer": 1,
+      "OlympicSolidarity": 1,
+      "YouthOlympian": 0,
+      "FlagbearerEvents": [
+        {
+          "Code": "CERGOPENING-----------------------",
+          "EventDescription": "Opening Ceremony",
+          "OrganisationCode": "MKD"
+        }
+      ],
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/StavreJada98/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/stavre.jada/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "ScheduledUnits": [
+        {
+          "VenueCode": "TCC",
+          "VenueDescription": "Tesero Cross-Country",
+          "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationCode": "TCC",
+          "LocationDescription": "Tesero Cross-Country Stadium",
+          "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationShortDescription": "Tesero Cross-Country Stadium",
+          "EventUnitCode": "CCSMSPRINT------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Sprint Classic Qualification",
+          "UnitLongDescription": "Men's Sprint Classic Qualification",
+          "UnitPrintDescription": "Qualification",
+          "IsFinal": false,
+          "DisciplineCode": "CCS",
+          "GenderCode": "M",
+          "EventCode": "SPRINT------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T09:57:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "TCC",
+          "VenueDescription": "Tesero Cross-Country",
+          "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationCode": "TCC",
+          "LocationDescription": "Tesero Cross-Country Stadium",
+          "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationShortDescription": "Tesero Cross-Country Stadium",
+          "EventUnitCode": "CCSM10KMIS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 10km Interval Start Free",
+          "UnitLongDescription": "Men's 10km Interval Start Free",
+          "UnitPrintDescription": "Men's 10km Interval Start Free",
+          "IsFinal": true,
+          "DisciplineCode": "CCS",
+          "GenderCode": "M",
+          "EventCode": "10KMIS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-13T11:45:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "CCS",
+          "Description": "Cross-Country Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "CCS",
+          "DisciplineDescription": "Cross-Country Skiing",
+          "GenderCode": "M",
+          "EventCode": "10KMIS------------",
+          "EventDescription": "Men's 10km Interval Start Free",
+          "EventLongDescription": "Men's 10km Interval Start Free",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "Rank": 83,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "TCC",
+              "VenueDescription": "Tesero Cross-Country",
+              "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationCode": "TCC",
+              "LocationDescription": "Tesero Cross-Country Stadium",
+              "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationShortDescription": "Tesero Cross-Country Stadium",
+              "EventUnitCode": "CCSM10KMIS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 10km Interval Start Free",
+              "UnitLongDescription": "Men's 10km Interval Start Free",
+              "UnitPrintDescription": "Men's 10km Interval Start Free",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-13T11:45:00+01:00",
+              "Result": "25:28.9",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "DISTANCE",
+              "Value": "123.26"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "DISTANCE",
+              "Value": "782"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "CCS",
+          "DisciplineDescription": "Cross-Country Skiing",
+          "GenderCode": "M",
+          "EventCode": "SPRINT------------",
+          "EventDescription": "Men's Sprint Classic",
+          "EventLongDescription": "Men's Sprint Classic",
+          "EventSortOrder": 10,
+          "ParticipantType": "INDV",
+          "Rank": 89,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "TCC",
+              "VenueDescription": "Tesero Cross-Country",
+              "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationCode": "TCC",
+              "LocationDescription": "Tesero Cross-Country Stadium",
+              "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationShortDescription": "Tesero Cross-Country Stadium",
+              "EventUnitCode": "CCSMSPRINT------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Sprint Classic Qualification",
+              "UnitLongDescription": "Men's Sprint Classic Qualification",
+              "UnitPrintDescription": "Qualification",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T09:57:00+01:00",
+              "Result": "3:59.56",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "SPRINT",
+              "Value": "315.62"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "SPRINT",
+              "Value": "1227"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/55399_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/55399_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/55399"
+}

@@ -1,0 +1,84 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "22483",
+      "GivenName": "Rebecca",
+      "FamilyName": "Passler",
+      "PrintName": "PASSLER Rebecca",
+      "PrintInitialName": "PASSLER R",
+      "TVName": "Rebecca PASSLER",
+      "TVInitialName": "R. PASSLER",
+      "TVFamilyName": "PASSLER",
+      "OrganisationCode": "ITA",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2001-08-31",
+      "CountryofBirth": "ITA",
+      "Age": 24,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/rebeccapassler/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<p> </p>\n<table>\n<thead>\n<tr class=\"border-0\"><th class=\"text-start border-0\" colspan=\"4\"><strong>IBU World Championships</strong></th></tr>\n<tr><th class=\"text-start text-end\">Rank</th><th class=\"text-start\">Event</th><th class=\"text-start text-end\">Year</th><th class=\"text-start\">Location</th></tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"text-start text-end\">11</td>\n<td class=\"text-start\">Women's 4x6km Relay</td>\n<td class=\"text-start text-end\">2024</td>\n<td class=\"text-start\">Nove Mesto na Morave, CZE</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">28</td>\n<td class=\"text-start\">Women's 15km Individual</td>\n<td class=\"text-start text-end\">2023</td>\n<td class=\"text-start\">Oberhof, GER</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">34</td>\n<td class=\"text-start\">Women's 7.5km Sprint</td>\n<td class=\"text-start text-end\">2023</td>\n<td class=\"text-start\">Oberhof, GER</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">45</td>\n<td class=\"text-start\">Women's 10km Pursuit</td>\n<td class=\"text-start text-end\">2023</td>\n<td class=\"text-start\">Oberhof, GER</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">75</td>\n<td class=\"text-start\">Women's 15km Individual</td>\n<td class=\"text-start text-end\">2024</td>\n<td class=\"text-start\">Nove Mesto na Morave, CZE</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr class=\"border-0\"><th class=\"text-start border-0\" colspan=\"3\"><strong>IBU World Cup - Overall Standing</strong></th></tr>\n<tr><th class=\"text-start text-end\">Rank</th><th class=\"text-start\">Event</th><th class=\"text-start text-end\">Season</th></tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"text-start text-end\">23</td>\n<td class=\"text-start\">Women's Mass Start</td>\n<td class=\"text-start text-end\">2025/2026</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">29</td>\n<td class=\"text-start\">Women's Individual</td>\n<td class=\"text-start text-end\">2023/2024</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">30</td>\n<td class=\"text-start\">Women's Pursuit</td>\n<td class=\"text-start text-end\">2025/2026</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">32</td>\n<td class=\"text-start\">Women's Pursuit</td>\n<td class=\"text-start text-end\">2022/2023</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">33</td>\n<td class=\"text-start\">Women's Overall</td>\n<td class=\"text-start text-end\">2025/2026</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">36</td>\n<td class=\"text-start\">Women's Sprint</td>\n<td class=\"text-start text-end\">2022/2023</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">39</td>\n<td class=\"text-start\">Women's Overall</td>\n<td class=\"text-start text-end\">2022/2023</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">41</td>\n<td class=\"text-start\">Women's Sprint</td>\n<td class=\"text-start text-end\">2025/2026</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">47</td>\n<td class=\"text-start\">Women's Overall</td>\n<td class=\"text-start text-end\">2023/2024</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">51</td>\n<td class=\"text-start\">Women's Sprint</td>\n<td class=\"text-start text-end\">2023/2024</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">53</td>\n<td class=\"text-start\">Women's Individual</td>\n<td class=\"text-start text-end\">2022/2023</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">56</td>\n<td class=\"text-start\">Women's Pursuit</td>\n<td class=\"text-start text-end\">2023/2024</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">65</td>\n<td class=\"text-start\">Women's Pursuit</td>\n<td class=\"text-start text-end\">2024/2025</td>\n</tr>\n<tr>\n<td class=\"text-start text-end\">88</td>\n<td class=\"text-start\">Women's Overall</td>\n<td class=\"text-start text-end\">2024/2025</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><em>Data provided by Sports Data Warehouse</em></p>",
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/22483_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/22483_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/22483"
+}

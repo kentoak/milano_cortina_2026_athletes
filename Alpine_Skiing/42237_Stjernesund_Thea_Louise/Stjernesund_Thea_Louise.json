@@ -1,0 +1,359 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "42237",
+      "GivenName": "Thea Louise",
+      "FamilyName": "Stjernesund",
+      "PrintName": "STJERNESUND Thea Louise",
+      "PrintInitialName": "STJERNESUND TL",
+      "TVName": "Thea Louise STJERNESUND",
+      "TVInitialName": "T.L. STJERNESUND",
+      "TVFamilyName": "STJERNESUND",
+      "OrganisationCode": "NOR",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1996-11-24",
+      "PlaceofBirth": "Nor",
+      "CountryofBirth": "NOR",
+      "Age": 29,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/thea.stjernesund/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/theastjernesund/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >1:56.89</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Women&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >1:47.48</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Parallel</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >2:25.34</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >2:08.39</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Courchevel Meribel, FRA</td> <td class=\"text-start text-end\" >1:44.49</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Are, SWE</td> <td class=\"text-start text-end\" >2:04.84</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >1:44.24</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Women&amp;apos;s Slalom</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Women&amp;apos;s Parallel</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNQ</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Slalom</b></th> <th class=\"text-end\"><b>Giant Slalom</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 22 </td> <td class=\"text-end\"> 35 </td> <td class=\"text-end\"> 7 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 20 </td> <td class=\"text-end\"> 43 </td> <td class=\"text-end\"> 4 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 25 </td> <td class=\"text-end\"> 33 </td> <td class=\"text-end\"> 7 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 20 </td> <td class=\"text-end\"> 14 </td> <td class=\"text-end\"> 10 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 35 </td> <td class=\"text-end\"> 27 </td> <td class=\"text-end\"> 17 </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> 54 </td> <td class=\"text-end\"> 26 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> 44 </td> <td class=\"text-end\"> 27 </td> <td class=\"text-end\"> 24 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 49 </td> <td class=\"text-end\"> 52 </td> <td class=\"text-end\"> 13 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>Slalom</b></th> <th class=\"text-start px-4\"><b>Giant Slalom</b></th> <th class=\"text-start px-4\"><b>Mixed Team Parallel</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start px-4\">1 x 14th</td> <td class=\"text-start px-4\">1 x 3rd</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start px-4\">1 x 22nd</td> <td class=\"text-start px-4\">1 x 3rd</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\">1 x 13th</td> <td class=\"text-start px-4\">1 x 3rd</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start px-4\">1 x 8th</td> <td class=\"text-start px-4\">1 x 2nd</td> <td class=\"text-start px-4\">1 x 1st</td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start px-4\">1 x 10th</td> <td class=\"text-start px-4\">1 x 6th</td> <td class=\"text-start px-4\">1 x 4th</td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start px-4\">1 x 13th</td> <td class=\"text-start px-4\">2 x DNQ</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-start px-4\">1 x 12th</td> <td class=\"text-start px-4\">1 x 15th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start px-4\">1 x 23rd</td> <td class=\"text-start px-4\">1 x 9th</td> <td class=\"text-start px-4\">1 x 2nd</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 3 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Copper Mountain, CO, USA </td> <td class=\"text-start text-end\" > 1:59.99 </td> </tr> <tr> <td class=\"text-start text-end\" > 5 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Soelden, AUT </td> <td class=\"text-start text-end\" > 2:18.04 </td> </tr> <tr> <td class=\"text-start text-end\" > 7 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Kronplatz, ITA </td> <td class=\"text-start text-end\" > 2:21.33 </td> </tr> <tr> <td class=\"text-start text-end\" > 8 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Tremblant, QC, CAN </td> <td class=\"text-start text-end\" > 2:15.06 </td> </tr> <tr> <td class=\"text-start text-end\" > 9 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Semmering, AUT </td> <td class=\"text-start text-end\" > 1:58.36 </td> </tr> <tr> <td class=\"text-start text-end\" > 14 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Copper Mountain, CO, USA </td> <td class=\"text-start text-end\" > 1:52.90 </td> </tr> <tr> <td class=\"text-start text-end\" > 15 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Kranjska Gora, SLO </td> <td class=\"text-start text-end\" > 2:03.38 </td> </tr> <tr> <td class=\"text-start text-end\" > 24 </td> <td class=\"text-start\" > Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Spindleruv Mlyn, CZE </td> <td class=\"text-start text-end\" > 1:42.86 </td> </tr> <tr> <td class=\"text-start text-end\" > 25 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Spindleruv Mlyn, CZE </td> <td class=\"text-start text-end\" > 2:29.41 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNQ</b></td><td class=\"text-start\">Did Not Qualify</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWGS----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Giant Slalom Run 1",
+          "UnitLongDescription": "Women's Giant Slalom Run 1",
+          "UnitPrintDescription": "Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "GS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-15T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWGS----------------FNL-000200--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Giant Slalom Run 2",
+          "UnitLongDescription": "Women's Giant Slalom Run 2",
+          "UnitPrintDescription": "Run 2",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "GS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-15T13:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWSL----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Slalom Run 1",
+          "UnitLongDescription": "Women's Slalom Run 1",
+          "UnitPrintDescription": "Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "SL----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-18T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "ALP",
+          "Description": "Alpine Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "W",
+          "EventCode": "GS----------------",
+          "EventDescription": "Women's Giant Slalom",
+          "EventLongDescription": "Women's Giant Slalom",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 2,
+          "RankEqual": "Y",
+          "MedalType": "SILVER",
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWGS----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Giant Slalom Run 1",
+              "UnitLongDescription": "Women's Giant Slalom Run 1",
+              "UnitPrintDescription": "Run 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T10:04:58+01:00",
+              "Result": "1:03.97",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWGS----------------FNL-000200--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Giant Slalom Run 2",
+              "UnitLongDescription": "Women's Giant Slalom Run 2",
+              "UnitPrintDescription": "Run 2",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-15T13:29:58+01:00",
+              "Result": "1:10.15",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Value": "7"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "342.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "25"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "372.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "13"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "9.86"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "W",
+          "EventCode": "SL----------------",
+          "EventDescription": "Women's Slalom",
+          "EventLongDescription": "Women's Slalom",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "IRM": "DNF",
+          "ResultType": "IRM",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWSL----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Slalom Run 1",
+              "UnitLongDescription": "Women's Slalom Run 1",
+              "UnitPrintDescription": "Run 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-18T10:00:05+01:00",
+              "IRM": "DNF",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Value": "41"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "30.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "24"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "412.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "116"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "22.34"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/42237_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/42237_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "MedalType": "SILVER",
+          "MedalDate": "2026-02-15",
+          "MedalUnitCode": "ALPWGS----------------FNL-000200--",
+          "UnitDescription": "Women's Giant Slalom Run 2",
+          "UnitLongDescription": "Women's Giant Slalom Run 2",
+          "UnitPrintDescription": "Run 2",
+          "UnitDateTime": "2026-02-15T13:29:58+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/42237"
+}

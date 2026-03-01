@@ -1,0 +1,246 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "36917",
+      "GivenName": "Jacques",
+      "FamilyName": "Jefferies",
+      "PrintName": "JEFFERIES Jacques",
+      "PrintInitialName": "JEFFERIES J",
+      "TVName": "Jacques JEFFERIES",
+      "TVInitialName": "J. JEFFERIES",
+      "TVFamilyName": "JEFFERIES",
+      "OrganisationCode": "GBR",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "2002-04-18",
+      "PlaceofBirth": "Thonon Les Bains",
+      "CountryofBirth": "FRA",
+      "Age": 23,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/TeamJJefferies/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/jacques_jeff/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TWITTER",
+          "Value": "https://x.com/Jacquesjeff_/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "ScheduledUnits": [
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM20KMIS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 20km Individual",
+          "UnitLongDescription": "Men's 20km Individual",
+          "UnitPrintDescription": "Men's 20km Individual",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "20KMIS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T13:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM10KMSP------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 10km Sprint",
+          "UnitLongDescription": "Men's 10km Sprint",
+          "UnitPrintDescription": "Men's 10km Sprint",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "10KMSP------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-13T14:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "10KMSP------------",
+          "EventDescription": "Men's 10km Sprint",
+          "EventLongDescription": "Men's 10km Sprint",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 81,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM10KMSP------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 10km Sprint",
+              "UnitLongDescription": "Men's 10km Sprint",
+              "UnitPrintDescription": "Men's 10km Sprint",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-13T14:00:00+01:00",
+              "Result": "27:02.5",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "61.61"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "20KMIS------------",
+          "EventDescription": "Men's 20km Individual",
+          "EventLongDescription": "Men's 20km Individual",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 79,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM20KMIS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 20km Individual",
+              "UnitLongDescription": "Men's 20km Individual",
+              "UnitPrintDescription": "Men's 20km Individual",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T13:30:00+01:00",
+              "Result": "1:02:11.0",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "61.61"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/36917_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/36917_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/36917"
+}

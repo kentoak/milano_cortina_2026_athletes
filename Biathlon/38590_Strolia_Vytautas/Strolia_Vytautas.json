@@ -1,0 +1,490 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "38590",
+      "GivenName": "Vytautas",
+      "FamilyName": "Strolia",
+      "PrintName": "STROLIA Vytautas",
+      "PrintInitialName": "STROLIA V",
+      "TVName": "Vytautas STROLIA",
+      "TVInitialName": "V. STROLIA",
+      "TVFamilyName": "STROLIA",
+      "OrganisationCode": "LTU",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1992-11-28",
+      "PlaceofBirth": "Vilnius",
+      "CountryofBirth": "LTU",
+      "Age": 33,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 1,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "BTHM4X7.5KM-LTU01",
+          "Name": "Lithuania",
+          "ShortName": "Lithuania",
+          "TVTeamName": "Lithuania",
+          "TeamType": "ORG",
+          "OrganisationCode": "LTU",
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "4X7.5KM-----------"
+        },
+        {
+          "Code": "BTHXRELAY4--LTU01",
+          "Name": "Lithuania",
+          "ShortName": "Lithuania",
+          "TVTeamName": "Lithuania",
+          "TeamType": "ORG",
+          "OrganisationCode": "LTU",
+          "DisciplineCode": "BTH",
+          "GenderCode": "X",
+          "EventCode": "RELAY4------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/vytautas.strolia/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/vytautas_strolia_/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<br><table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Biathlon<br><br>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >43</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >43</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >49</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >58</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >82</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >DNF</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>IBU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Mixed 4x7.5km Relay</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Kontiolahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Single Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s 4x7.5km Relay</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >42</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >44</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >49</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >54</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >55</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >56</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >56</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >61</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >62</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >65</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >66</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Kontiolahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >69</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Kontiolahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >72</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >73</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >87</td> <td class=\"text-start\" >Men&amp;apos;s 10km Sprint</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >87</td> <td class=\"text-start\" >Men&amp;apos;s 20km Individual</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >DNS</td> <td class=\"text-start\" >Men&amp;apos;s 12.5km Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>IBU World Cup - Overall Standing</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Season</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >43</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >43</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >45</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >47</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >49</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >52</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >54</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >55</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >56</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >61</td> <td class=\"text-start\" >Men&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >69</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >76</td> <td class=\"text-start\" >Men&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >88</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >97</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> </tbody> </table><br> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Cross-Country Skiing<br><br>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >66</td> <td class=\"text-start\" >Men&amp;apos;s 15km + 15km Skiathlon</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >70</td> <td class=\"text-start\" >Men&amp;apos;s 15km Interval Start Classic</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >70</td> <td class=\"text-start\" >Men&amp;apos;s Sprint Free</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS Nordic World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >70</td> <td class=\"text-start\" >Men&amp;apos;s 15km + 15km Skiathlon</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >81</td> <td class=\"text-start\" >Men&amp;apos;s Sprint Classic</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >89</td> <td class=\"text-start\" >Men&amp;apos;s 15km Interval Start Free</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >91</td> <td class=\"text-start\" >Men&amp;apos;s 15km Interval Start Classic</td> <td class=\"text-start text-end\" >2011</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >98</td> <td class=\"text-start\" >Men&amp;apos;s Sprint Free</td> <td class=\"text-start text-end\" >2011</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS U21 World Ski Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Men&amp;apos;s 15km Interval Start Free</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Liberec, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >43</td> <td class=\"text-start\" >Men&amp;apos;s 15km + 15km Skiathlon</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Liberec, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >50</td> <td class=\"text-start\" >Men&amp;apos;s Sprint Classic</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Liberec, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >57</td> <td class=\"text-start\" >Men&amp;apos;s Sprint Free</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >59</td> <td class=\"text-start\" >Men&amp;apos;s 15km Interval Start Classic</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS Junior World Ski Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Men&amp;apos;s 10km + 10km Skiathlon</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >50</td> <td class=\"text-start\" >Men&amp;apos;s Sprint Free</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >56</td> <td class=\"text-start\" >Men&amp;apos;s 10km Interval Start Classic</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >58</td> <td class=\"text-start\" >Men&amp;apos;s 20km Pursuit</td> <td class=\"text-start text-end\" >2011</td> <td class=\"text-start\" >Otepaa, EST</td> </tr> <tr> <td class=\"text-start text-end\" >61</td> <td class=\"text-start\" >Men&amp;apos;s 20km Pursuit</td> <td class=\"text-start text-end\" >2010</td> <td class=\"text-start\" >Hinterzarten, GER</td> </tr> <tr> <td class=\"text-start text-end\" >71</td> <td class=\"text-start\" >Men&amp;apos;s 10km Interval Start Classic</td> <td class=\"text-start text-end\" >2010</td> <td class=\"text-start\" >Hinterzarten, GER</td> </tr> <tr> <td class=\"text-start text-end\" >80</td> <td class=\"text-start\" >Men&amp;apos;s 10km Interval Start Free</td> <td class=\"text-start text-end\" >2011</td> <td class=\"text-start\" >Otepaa, EST</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"7\" class=\"text-start border-0\"><b>Best performances per season in World Cup events from 2018/2019 - Individual events until 15km</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>SP C</b></th> <th class=\"text-start\"><b>SP F</b></th> <th class=\"text-start\"><b>10km C</b></th> <th class=\"text-start\"><b>10km F</b></th> <th class=\"text-start\"><b>15km C</b></th> <th class=\"text-start\"><b>15km P</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-start\">1 x 80th</td> <td class=\"text-start\"></td> <td class=\"text-start\">1 x 112th</td> <td class=\"text-start\"></td> <td class=\"text-start\"></td> <td class=\"text-start\">1 x DNS</td> </tr> <tr> <td class=\"text-end\">2012/2013</td> <td class=\"text-start\">1 x 66th</td> <td class=\"text-start\">1 x 82nd</td> <td class=\"text-start\"></td> <td class=\"text-start\">1 x 86th</td> <td class=\"text-start\"></td> <td class=\"text-start\">1 x DNS</td> </tr> <tr> <td class=\"text-end\">2011/2012</td> <td class=\"text-start\">1 x 69th</td> <td class=\"text-start\"></td> <td class=\"text-start\"></td> <td class=\"text-start\">1 x 116th</td> <td class=\"text-start\">1 x 61st</td> <td class=\"text-start\"></td> </tr> </tbody> </table> <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr></table> <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHXRELAY4------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitLongDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitPrintDescription": "Mixed Relay 4 x 6km (M+W)",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "X",
+          "EventCode": "RELAY4------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-08T14:05:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM20KMIS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 20km Individual",
+          "UnitLongDescription": "Men's 20km Individual",
+          "UnitPrintDescription": "Men's 20km Individual",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "20KMIS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T13:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM10KMSP------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 10km Sprint",
+          "UnitLongDescription": "Men's 10km Sprint",
+          "UnitPrintDescription": "Men's 10km Sprint",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "10KMSP------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-13T14:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM12.5KMPU----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 12.5km Pursuit",
+          "UnitLongDescription": "Men's 12.5km Pursuit",
+          "UnitPrintDescription": "Men's 12.5km Pursuit",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "12.5KMPU----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-15T11:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHM4X7.5KM-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 4 x 7.5km Relay",
+          "UnitLongDescription": "Men's 4 x 7.5km Relay",
+          "UnitPrintDescription": "Men's 4 x 7.5km Relay",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "M",
+          "EventCode": "4X7.5KM-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-17T14:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "10KMSP------------",
+          "EventDescription": "Men's 10km Sprint",
+          "EventLongDescription": "Men's 10km Sprint",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 49,
+          "RankEqual": "Y",
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM10KMSP------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 10km Sprint",
+              "UnitLongDescription": "Men's 10km Sprint",
+              "UnitPrintDescription": "Men's 10km Sprint",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-13T14:00:00+01:00",
+              "Result": "25:37.4",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "38.54"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "12.5KMPU----------",
+          "EventDescription": "Men's 12.5km Pursuit",
+          "EventLongDescription": "Men's 12.5km Pursuit",
+          "EventSortOrder": 5,
+          "ParticipantType": "INDV",
+          "Rank": 39,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM12.5KMPU----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 12.5km Pursuit",
+              "UnitLongDescription": "Men's 12.5km Pursuit",
+              "UnitPrintDescription": "Men's 12.5km Pursuit",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T11:15:00+01:00",
+              "Result": "35:38.4",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "38.54"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "20KMIS------------",
+          "EventDescription": "Men's 20km Individual",
+          "EventLongDescription": "Men's 20km Individual",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 19,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM20KMIS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 20km Individual",
+              "UnitLongDescription": "Men's 20km Individual",
+              "UnitPrintDescription": "Men's 20km Individual",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T13:30:00+01:00",
+              "Result": "56:15.0",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "38.54"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "30"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "M",
+          "EventCode": "4X7.5KM-----------",
+          "EventDescription": "Men's 4 x 7.5km Relay",
+          "EventLongDescription": "Men's 4 x 7.5km Relay",
+          "EventSortOrder": 9,
+          "ParticipantType": "TEAM",
+          "Rank": 15,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHM4X7.5KM-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 4 x 7.5km Relay",
+              "UnitLongDescription": "Men's 4 x 7.5km Relay",
+              "UnitPrintDescription": "Men's 4 x 7.5km Relay",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-17T14:30:00+01:00",
+              "Result": "1:24:40.3",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "X",
+          "EventCode": "RELAY4------------",
+          "EventDescription": "Mixed Relay 4 x 6km (M+W)",
+          "EventLongDescription": "Mixed Relay 4 x 6km (M+W)",
+          "EventSortOrder": 11,
+          "ParticipantType": "TEAM",
+          "Rank": 20,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHXRELAY4------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Relay 4 x 6km (M+W)",
+              "UnitLongDescription": "Mixed Relay 4 x 6km (M+W)",
+              "UnitPrintDescription": "Mixed Relay 4 x 6km (M+W)",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-08T14:05:00+01:00",
+              "Result": "1:11:29.1",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/38590_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/38590_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/38590"
+}

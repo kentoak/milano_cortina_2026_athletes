@@ -1,0 +1,606 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "22484",
+      "GivenName": "Lisa",
+      "FamilyName": "Vittozzi",
+      "PrintName": "VITTOZZI Lisa",
+      "PrintInitialName": "VITTOZZI L",
+      "TVName": "Lisa VITTOZZI",
+      "TVInitialName": "L. VITTOZZI",
+      "TVFamilyName": "VITTOZZI",
+      "OrganisationCode": "ITA",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1995-02-04",
+      "PlaceofBirth": "Pieve di Cadore",
+      "CountryofBirth": "ITA",
+      "Age": 31,
+      "FlagBearer": 2,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "FlagbearerEvents": [
+        {
+          "Code": "CERGCLOSING-----------------------",
+          "EventDescription": "Closing Ceremony",
+          "OrganisationCode": "ITA"
+        }
+      ],
+      "University": {},
+      "Teams": [
+        {
+          "Code": "BTHW4X6KM---ITA01",
+          "Name": "Italy",
+          "ShortName": "Italy",
+          "TVTeamName": "Italy",
+          "TeamType": "ORG",
+          "OrganisationCode": "ITA",
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "4X6KM-------------"
+        },
+        {
+          "Code": "BTHXRELAY4--ITA01",
+          "Name": "Italy",
+          "ShortName": "Italy",
+          "TVTeamName": "Italy",
+          "TeamType": "ORG",
+          "OrganisationCode": "ITA",
+          "DisciplineCode": "BTH",
+          "GenderCode": "X",
+          "EventCode": "RELAY4------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/VittozziLisa/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/lisa_vittozzi/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TWITTER",
+          "Value": "https://x.com/lisa_vittozzi"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >76</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Winter Youth Olympic Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Pursuit</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s 6km Sprint</td> <td class=\"text-start text-end\" >2012</td> <td class=\"text-start\" >Innsbruck, AUT</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>IBU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Single Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Single Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Kontiolahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Mixed 2x6km + 2x7.5km Relay</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Mixed 4x7.5km Relay</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Mixed 4x6km Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Nove Mesto na Morave, CZE</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Oslo, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Ostersund, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Women&amp;apos;s 12.5km Mass Start</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Hochfilzen, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >38</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Kontiolahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >48</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Pokljuka, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >59</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km Sprint</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Kontiolahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >71</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Antholz-Anterselva, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >DNS</td> <td class=\"text-start\" >Women&amp;apos;s 10km Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>IBU World Cup - Overall Standing</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Season</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2023/2024</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2019/2020</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2017/2018</td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2015/2016</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> <tr> <td class=\"text-start text-end\" >39</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2015/2016</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2015/2016</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2015/2016</td> </tr> <tr> <td class=\"text-start text-end\" >58</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2014/2015</td> </tr> <tr> <td class=\"text-start text-end\" >59</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2014/2015</td> </tr> <tr> <td class=\"text-start text-end\" >64</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2014/2015</td> </tr> <tr> <td class=\"text-start text-end\" >67</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2016/2017</td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHXRELAY4------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitLongDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitPrintDescription": "Mixed Relay 4 x 6km (M+W)",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "X",
+          "EventCode": "RELAY4------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-08T14:05:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW15KMIS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 15km Individual",
+          "UnitLongDescription": "Women's 15km Individual",
+          "UnitPrintDescription": "Women's 15km Individual",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "15KMIS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T14:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW7.5KMSP-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 7.5km Sprint",
+          "UnitLongDescription": "Women's 7.5km Sprint",
+          "UnitPrintDescription": "Women's 7.5km Sprint",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "7.5KMSP-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-14T14:45:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW10KMPU------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 10km Pursuit",
+          "UnitLongDescription": "Women's 10km Pursuit",
+          "UnitPrintDescription": "Women's 10km Pursuit",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "10KMPU------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-15T14:45:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW4X6KM-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 4 x 6km Relay",
+          "UnitLongDescription": "Women's 4 x 6km Relay",
+          "UnitPrintDescription": "Women's 4 x 6km Relay",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "4X6KM-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-18T14:45:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW12.5KMMS----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 12.5km Mass Start",
+          "UnitLongDescription": "Women's 12.5km Mass Start",
+          "UnitPrintDescription": "Women's 12.5km Mass Start",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "12.5KMMS----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-21T14:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "10KMPU------------",
+          "EventDescription": "Women's 10km Pursuit",
+          "EventLongDescription": "Women's 10km Pursuit",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Rank": 1,
+          "MedalType": "GOLD",
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW10KMPU------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 10km Pursuit",
+              "UnitLongDescription": "Women's 10km Pursuit",
+              "UnitPrintDescription": "Women's 10km Pursuit",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T14:45:00+01:00",
+              "Result": "30:11.8",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "12.59"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "7"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "12.5KMMS----------",
+          "EventDescription": "Women's 12.5km Mass Start",
+          "EventLongDescription": "Women's 12.5km Mass Start",
+          "EventSortOrder": 8,
+          "ParticipantType": "INDV",
+          "Rank": 18,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW12.5KMMS----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 12.5km Mass Start",
+              "UnitLongDescription": "Women's 12.5km Mass Start",
+              "UnitPrintDescription": "Women's 12.5km Mass Start",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T14:14:58+01:00",
+              "Result": "39:01.6",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "12.59"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "7"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "15KMIS------------",
+          "EventDescription": "Women's 15km Individual",
+          "EventLongDescription": "Women's 15km Individual",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "Rank": 37,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW15KMIS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 15km Individual",
+              "UnitLongDescription": "Women's 15km Individual",
+              "UnitPrintDescription": "Women's 15km Individual",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T14:15:00+01:00",
+              "Result": "45:09.3",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "12.59"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "7"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "4X6KM-------------",
+          "EventDescription": "Women's 4 x 6km Relay",
+          "EventLongDescription": "Women's 4 x 6km Relay",
+          "EventSortOrder": 10,
+          "ParticipantType": "TEAM",
+          "Rank": 11,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW4X6KM-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 4 x 6km Relay",
+              "UnitLongDescription": "Women's 4 x 6km Relay",
+              "UnitPrintDescription": "Women's 4 x 6km Relay",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-18T14:44:59+01:00",
+              "Result": "1:14:17.4",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "7.5KMSP-----------",
+          "EventDescription": "Women's 7.5km Sprint",
+          "EventLongDescription": "Women's 7.5km Sprint",
+          "EventSortOrder": 4,
+          "ParticipantType": "INDV",
+          "Rank": 5,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW7.5KMSP-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 7.5km Sprint",
+              "UnitLongDescription": "Women's 7.5km Sprint",
+              "UnitPrintDescription": "Women's 7.5km Sprint",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-14T14:45:00+01:00",
+              "Result": "21:21.4",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "12.59"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "7"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "X",
+          "EventCode": "RELAY4------------",
+          "EventDescription": "Mixed Relay 4 x 6km (M+W)",
+          "EventLongDescription": "Mixed Relay 4 x 6km (M+W)",
+          "EventSortOrder": 11,
+          "ParticipantType": "TEAM",
+          "Rank": 2,
+          "MedalType": "SILVER",
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHXRELAY4------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Relay 4 x 6km (M+W)",
+              "UnitLongDescription": "Mixed Relay 4 x 6km (M+W)",
+              "UnitPrintDescription": "Mixed Relay 4 x 6km (M+W)",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-08T14:05:00+01:00",
+              "Result": "1:04:41.3",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/22484_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/22484_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "MedalType": "GOLD",
+          "MedalDate": "2026-02-15",
+          "MedalUnitCode": "BTHW10KMPU------------FNL-000100--",
+          "UnitDescription": "Women's 10km Pursuit",
+          "UnitLongDescription": "Women's 10km Pursuit",
+          "UnitPrintDescription": "Women's 10km Pursuit",
+          "UnitDateTime": "2026-02-15T14:45:00+01:00"
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "MedalType": "SILVER",
+          "MedalDate": "2026-02-08",
+          "MedalUnitCode": "BTHXRELAY4------------FNL-000100--",
+          "UnitDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitLongDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitPrintDescription": "Mixed Relay 4 x 6km (M+W)",
+          "UnitDateTime": "2026-02-08T14:05:00+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/22484"
+}

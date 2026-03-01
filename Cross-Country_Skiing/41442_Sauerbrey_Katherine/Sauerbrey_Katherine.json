@@ -1,0 +1,328 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "41442",
+      "GivenName": "Katherine",
+      "FamilyName": "Sauerbrey",
+      "PrintName": "SAUERBREY Katherine",
+      "PrintInitialName": "SAUERBREY K",
+      "TVName": "Katherine SAUERBREY",
+      "TVInitialName": "K. SAUERBREY",
+      "TVFamilyName": "SAUERBREY",
+      "OrganisationCode": "GER",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1997-05-05",
+      "PlaceofBirth": "Suhl",
+      "CountryofBirth": "GER",
+      "Age": 28,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/katherine.sauerbrey/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/katherinesby"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s 4 x 5km Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 10km Interval Start Classic</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km + 7.5km Skiathlon</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS Nordic World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Women&amp;apos;s 10km Interval Start Classic</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Trondheim, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Women&amp;apos;s 10km + 10km Skiathlon</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Trondheim, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km + 7.5km Skiathlon</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Planica, SLO</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s 30km Mass Start Classic</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Planica, SLO</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup Rankings Overview</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Sprint</b></th> <th class=\"text-end\"><b>Distance</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 35 </td> <td class=\"text-end\"> 102 </td> <td class=\"text-end\"> 27 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 51 </td> <td class=\"text-end\"> 116 </td> <td class=\"text-end\"> 26 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 43 </td> <td class=\"text-end\"> 85 </td> <td class=\"text-end\"> 28 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 84 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 55 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 46 </td> <td class=\"text-end\"> 76 </td> <td class=\"text-end\"> 42 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS U21 World Ski Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Women&amp;apos;s 7.5km + 7.5km Skiathlon</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Goms, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Women&amp;apos;s 15km Mass Start Classic</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Lahti, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >42</td> <td class=\"text-start\" >Women&amp;apos;s Sprint Classic</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Lahti, FIN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>FIS Junior World Ski Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s 4 x 2.5km Relay</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Rasnov, ROU</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s 4 x 3.3km Relay</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 10km Interval Start Free</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Rasnov, ROU</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s 4 x 3.3km Relay</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Park City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s 5km + 5km Skiathlon</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Park City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 5km Interval Start Classic</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Predazzo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s 5km Interval Start Classic</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Rasnov, ROU</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"6\" class=\"text-start border-0\"><b>Best performances per season in World Cup events from 2018/2019 - Individual events until 10km</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>SP C</b></th> <th class=\"text-start px-4\"><b>SP F</b></th> <th class=\"text-start px-4\"><b>10km C</b></th> <th class=\"text-start px-4\"><b>10km F</b></th> <th class=\"text-start px-4\"><b>10km P</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start px-4\">1 x 48th</td> <td class=\"text-start px-4\">1 x 69th</td> <td class=\"text-start px-4\">1 x 14th</td> <td class=\"text-start px-4\">1 x 17th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start px-4\">1 x 25th</td> <td class=\"text-start px-4\">1 x 59th</td> <td class=\"text-start px-4\">1 x 15th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\">1 x 35th</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 31st</td> <td class=\"text-start px-4\">1 x 29th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 65th</td> <td class=\"text-start px-4\">1 x 25th</td> <td class=\"text-start px-4\">1 x 29th</td> <td class=\"text-start px-4\">1 x 46th</td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start px-4\">1 x 29th</td> <td class=\"text-start px-4\">1 x 61st</td> <td class=\"text-start px-4\">1 x 12th</td> <td class=\"text-start px-4\">1 x 18th</td> <td class=\"text-start px-4\"></td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Best performances per season in World Cup events from 2018/2019 - Individual events longer than 10km</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>15km C</b></th> <th class=\"text-start px-4\"><b>15km F</b></th> <th class=\"text-start px-4\"><b>20km C</b></th> <th class=\"text-start px-4\"><b>30km C</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start px-4\">1 x 23rd</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 12th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 24th</td> <td class=\"text-start px-4\">1 x 16th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 13th</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x DNF</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"2\" class=\"text-start border-0\"><b>Best performances in World Cup races from 2018/2019 - Team events</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>4x5km R</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\">1 x 8th</td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-start px-4\">1 x 8th</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 14 </td> <td class=\"text-start\" > 10km Interval Start Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 16 </td> <td class=\"text-start\" > 10km Interval Start Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Toblach, ITA </td> </tr> <tr> <td class=\"text-start text-end\" > 17 </td> <td class=\"text-start\" > 10km Mass Start Free </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val Di Fiemme, ITA </td> </tr> <tr> <td class=\"text-start text-end\" > 24 </td> <td class=\"text-start\" > 10km Interval Start Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Oberhof, GER </td> </tr> <tr> <td class=\"text-start text-end\" > 33 </td> <td class=\"text-start\" > 10km + 10km Skiathlon </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Trondheim, NOR </td> </tr> <tr> <td class=\"text-start text-end\" > 41 </td> <td class=\"text-start\" > 10km Interval Start Free </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Trondheim, NOR </td> </tr> <tr> <td class=\"text-start text-end\" > 48 </td> <td class=\"text-start\" > Sprint Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Trondheim, NOR </td> </tr> <tr> <td class=\"text-start text-end\" > 53 </td> <td class=\"text-start\" > Sprint Classic </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val Di Fiemme, ITA </td> </tr> <tr> <td class=\"text-start text-end\" > 69 </td> <td class=\"text-start\" > Sprint Free </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Toblach, ITA </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "TCC",
+          "VenueDescription": "Tesero Cross-Country",
+          "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationCode": "TCC",
+          "LocationDescription": "Tesero Cross-Country Stadium",
+          "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationShortDescription": "Tesero Cross-Country Stadium",
+          "EventUnitCode": "CCSWSKIATHLN----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 10km + 10km Skiathlon",
+          "UnitLongDescription": "Women's 10km + 10km Skiathlon",
+          "UnitPrintDescription": "Women's 10km + 10km Skiathlon",
+          "IsFinal": true,
+          "DisciplineCode": "CCS",
+          "GenderCode": "W",
+          "EventCode": "SKIATHLN----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-07T13:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "TCC",
+          "VenueDescription": "Tesero Cross-Country",
+          "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationCode": "TCC",
+          "LocationDescription": "Tesero Cross-Country Stadium",
+          "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationShortDescription": "Tesero Cross-Country Stadium",
+          "EventUnitCode": "CCSWSPRINT------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Sprint Classic Qualification",
+          "UnitLongDescription": "Women's Sprint Classic Qualification",
+          "UnitPrintDescription": "Qualification",
+          "IsFinal": false,
+          "DisciplineCode": "CCS",
+          "GenderCode": "W",
+          "EventCode": "SPRINT------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T09:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "TCC",
+          "VenueDescription": "Tesero Cross-Country",
+          "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationCode": "TCC",
+          "LocationDescription": "Tesero Cross-Country Stadium",
+          "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+          "LocationShortDescription": "Tesero Cross-Country Stadium",
+          "EventUnitCode": "CCSW50KMMS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 50km Mass Start Classic",
+          "UnitLongDescription": "Women's 50km Mass Start Classic",
+          "UnitPrintDescription": "Women's 50km Mass Start Classic",
+          "IsFinal": true,
+          "DisciplineCode": "CCS",
+          "GenderCode": "W",
+          "EventCode": "50KMMS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-22T10:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "CCS",
+          "Description": "Cross-Country Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "CCS",
+          "DisciplineDescription": "Cross-Country Skiing",
+          "GenderCode": "W",
+          "EventCode": "50KMMS------------",
+          "EventDescription": "Women's 50km Mass Start Classic",
+          "EventLongDescription": "Women's 50km Mass Start Classic",
+          "EventSortOrder": 7,
+          "ParticipantType": "INDV",
+          "IRM": "DNS",
+          "ResultType": "IRM",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "TCC",
+              "VenueDescription": "Tesero Cross-Country",
+              "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationCode": "TCC",
+              "LocationDescription": "Tesero Cross-Country Stadium",
+              "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationShortDescription": "Tesero Cross-Country Stadium",
+              "EventUnitCode": "CCSW50KMMS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 50km Mass Start Classic",
+              "UnitLongDescription": "Women's 50km Mass Start Classic",
+              "UnitPrintDescription": "Women's 50km Mass Start Classic",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-22T10:00:00+01:00",
+              "IRM": "DNS",
+              "ResultType": "IRM",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "DISTANCE",
+              "Value": "35.20"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "DISTANCE",
+              "Value": "43"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "CCS",
+          "DisciplineDescription": "Cross-Country Skiing",
+          "GenderCode": "W",
+          "EventCode": "SKIATHLN----------",
+          "EventDescription": "Women's 10km + 10km Skiathlon",
+          "EventLongDescription": "Women's 10km + 10km Skiathlon",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 33,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "TCC",
+              "VenueDescription": "Tesero Cross-Country",
+              "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationCode": "TCC",
+              "LocationDescription": "Tesero Cross-Country Stadium",
+              "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationShortDescription": "Tesero Cross-Country Stadium",
+              "EventUnitCode": "CCSWSKIATHLN----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 10km + 10km Skiathlon",
+              "UnitLongDescription": "Women's 10km + 10km Skiathlon",
+              "UnitPrintDescription": "Women's 10km + 10km Skiathlon",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-07T13:00:00+01:00",
+              "Result": "59:26.9",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "DISTANCE",
+              "Value": "35.20"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "DISTANCE",
+              "Value": "43"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "CCS",
+          "DisciplineDescription": "Cross-Country Skiing",
+          "GenderCode": "W",
+          "EventCode": "SPRINT------------",
+          "EventDescription": "Women's Sprint Classic",
+          "EventLongDescription": "Women's Sprint Classic",
+          "EventSortOrder": 9,
+          "ParticipantType": "INDV",
+          "Rank": 39,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "TCC",
+              "VenueDescription": "Tesero Cross-Country",
+              "VenueLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationCode": "TCC",
+              "LocationDescription": "Tesero Cross-Country Stadium",
+              "LocationLongDescription": "Tesero Cross-Country Skiing Stadium",
+              "LocationShortDescription": "Tesero Cross-Country Stadium",
+              "EventUnitCode": "CCSWSPRINT------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Sprint Classic Qualification",
+              "UnitLongDescription": "Women's Sprint Classic Qualification",
+              "UnitPrintDescription": "Qualification",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T09:15:00+01:00",
+              "Result": "3:52.42",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "SPRINT",
+              "Value": "138.42"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "SPRINT",
+              "Value": "148"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/41442_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/41442_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/41442"
+}

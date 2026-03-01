@@ -1,0 +1,708 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "48923",
+      "GivenName": "Cassidy",
+      "FamilyName": "Gray",
+      "PrintName": "GRAY Cassidy",
+      "PrintInitialName": "GRAY C",
+      "TVName": "Cassidy GRAY",
+      "TVInitialName": "C. GRAY",
+      "TVFamilyName": "GRAY",
+      "OrganisationCode": "CAN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2001-01-25",
+      "PlaceofBirth": "Calgary",
+      "CountryofBirth": "CAN",
+      "Age": 25,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "ALPWTC-----CAN02",
+          "Name": "Canada 2",
+          "ShortName": "Canada 2",
+          "TVTeamName": "Canada 2",
+          "TeamType": "ORGN",
+          "OrganisationCode": "CAN",
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "TC----------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/_cassidy_gray/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >DNF</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Mixed Team Parallel</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" ></td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Women&amp;apos;s Team Combined</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >2:45.54</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Women&amp;apos;s Super-G</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >1:22.23</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >2:36.26</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Women&amp;apos;s Downhill</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >1:44.92</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Women&amp;apos;s Giant Slalom</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Saalbach, AUT</td> <td class=\"text-start text-end\" >DNF</td> </tr> <tr> <td class=\"text-start text-end\" ></td> <td class=\"text-start\" >Women&amp;apos;s Parallel</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Cortina d&amp;apos;Ampezzo, ITA</td> <td class=\"text-start text-end\" >DNQ</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Giant Slalom</b></th> <th class=\"text-end\"><b>Super-G</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 83 </td> <td class=\"text-end\"> 34 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 104 </td> <td class=\"text-end\"> 46 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 90 </td> <td class=\"text-end\"> 38 </td> <td class=\"text-end\"> 56 </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> 114 </td> <td class=\"text-end\"> 51 </td> <td class=\"text-end\"> </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start px-4\"><b>Downhill</b></th> <th class=\"text-start px-4\"><b>Giant Slalom</b></th> <th class=\"text-start px-4\"><b>Super-G</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start px-4\">1 x 42nd</td> <td class=\"text-start px-4\">1 x 14th</td> <td class=\"text-start px-4\">1 x 41st</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start px-4\">1 x 41st</td> <td class=\"text-start px-4\">1 x 20th</td> <td class=\"text-start px-4\">3 x DNF</td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 15th</td> <td class=\"text-start px-4\">1 x 29th</td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x DNQ</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">4 x DNQ</td> <td class=\"text-start px-4\"></td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start px-4\"></td> <td class=\"text-start px-4\">1 x 26th</td> <td class=\"text-start px-4\"></td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 14 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Spindleruv Mlyn, CZE </td> <td class=\"text-start text-end\" > 2:27.88 </td> </tr> <tr> <td class=\"text-start text-end\" > 16 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Kranjska Gora, SLO </td> <td class=\"text-start text-end\" > 2:03.40 </td> </tr> <tr> <td class=\"text-start text-end\" > 27 </td> <td class=\"text-start\" > Giant Slalom </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Tremblant, QC, CAN </td> <td class=\"text-start text-end\" > 2:20.33 </td> </tr> <tr> <td class=\"text-start text-end\" > 41 </td> <td class=\"text-start\" > Super-G </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val d&amp;apos;Isere, FRA </td> <td class=\"text-start text-end\" > 1:23.25 </td> </tr> <tr> <td class=\"text-start text-end\" > 42 </td> <td class=\"text-start\" > Downhill </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > St. Moritz, SUI </td> <td class=\"text-start text-end\" > 1:33.36 </td> </tr> <tr> <td class=\"text-start text-end\" > 46 </td> <td class=\"text-start\" > Downhill </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val d&amp;apos;Isere, FRA </td> <td class=\"text-start text-end\" > 1:46.09 </td> </tr> <tr> <td class=\"text-start text-end\" > 47 </td> <td class=\"text-start\" > Downhill </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > St. Moritz, SUI </td> <td class=\"text-start text-end\" > 1:33.57 </td> </tr> <tr> <td class=\"text-start text-end\" > 47 </td> <td class=\"text-start\" > Downhill </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Tarvisio, ITA </td> <td class=\"text-start text-end\" > 1:52.42 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DNQ</b></td><td class=\"text-start\">Did Not Qualify</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWDH----------------TRNO000200--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Downhill 2nd Official Training",
+          "UnitLongDescription": "Women's Downhill 2nd Official Training",
+          "UnitPrintDescription": "2nd Official Training",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "DH----------------",
+          "PhaseCode": "TRNO",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-06T11:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWDH----------------TRNO000300--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Downhill 3rd Official Training",
+          "UnitLongDescription": "Women's Downhill 3rd Official Training",
+          "UnitPrintDescription": "3rd Official Training",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "DH----------------",
+          "PhaseCode": "TRNO",
+          "UnitCode": "000300--",
+          "StartDate": "2026-02-07T11:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWDH----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Downhill",
+          "UnitLongDescription": "Women's Downhill",
+          "UnitPrintDescription": "Women's Downhill",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "DH----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-08T11:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWTC----------------TRNO000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's TC DH 1st Official Training",
+          "UnitLongDescription": "Women's Team Combined Downhill 1st Official Training",
+          "UnitPrintDescription": "Downhill 1st Official Training",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "TC----------------",
+          "PhaseCode": "TRNO",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-09T11:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWTC----------------FNL-0001DH--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Team Combined Downhill",
+          "UnitLongDescription": "Women's Team Combined Downhill",
+          "UnitPrintDescription": "Downhill",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "TC----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "0001DH--",
+          "StartDate": "2026-02-10T10:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWTC----------------FNL-0001SL--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Team Combined Slalom",
+          "UnitLongDescription": "Women's Team Combined Slalom",
+          "UnitPrintDescription": "Slalom",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "TC----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "0001SL--",
+          "StartDate": "2026-02-10T14:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWSG----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Super-G",
+          "UnitLongDescription": "Women's Super-G",
+          "UnitPrintDescription": "Women's Super-G",
+          "IsFinal": true,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "SG----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-12T11:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "CAL",
+          "VenueDescription": "Tofane Alpine Skiing Ctr.",
+          "VenueLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationCode": "CAL",
+          "LocationDescription": "Tofane Alpine Skiing Centre",
+          "LocationLongDescription": "Tofane Alpine Skiing Centre",
+          "LocationShortDescription": "Tofane Alpine Skiing Centre",
+          "EventUnitCode": "ALPWGS----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Giant Slalom Run 1",
+          "UnitLongDescription": "Women's Giant Slalom Run 1",
+          "UnitPrintDescription": "Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "ALP",
+          "GenderCode": "W",
+          "EventCode": "GS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-15T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "ALP",
+          "Description": "Alpine Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "W",
+          "EventCode": "DH----------------",
+          "EventDescription": "Women's Downhill",
+          "EventLongDescription": "Women's Downhill",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 26,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWDH----------------TRNO000200--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Downhill 2nd Official Training",
+              "UnitLongDescription": "Women's Downhill 2nd Official Training",
+              "UnitPrintDescription": "2nd Official Training",
+              "IsFinal": false,
+              "PhaseCode": "TRNO",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-06T11:31:57+01:00",
+              "Result": "1:41.97",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWDH----------------TRNO000300--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Downhill 3rd Official Training",
+              "UnitLongDescription": "Women's Downhill 3rd Official Training",
+              "UnitPrintDescription": "3rd Official Training",
+              "IsFinal": false,
+              "PhaseCode": "TRNO",
+              "UnitCode": "000300--",
+              "UnitDateTime": "2026-02-07T11:29:57+01:00",
+              "IRM": "DNS",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWDH----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Downhill",
+              "UnitLongDescription": "Women's Downhill",
+              "UnitPrintDescription": "Women's Downhill",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-08T11:29:58+01:00",
+              "Result": "1:41.99",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Value": "57"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "95"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "40.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "101"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "39.44"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "W",
+          "EventCode": "GS----------------",
+          "EventDescription": "Women's Giant Slalom",
+          "EventLongDescription": "Women's Giant Slalom",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "IRM": "DNF",
+          "ResultType": "IRM",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWGS----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Giant Slalom Run 1",
+              "UnitLongDescription": "Women's Giant Slalom Run 1",
+              "UnitPrintDescription": "Run 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T10:04:58+01:00",
+              "IRM": "DNF",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Value": "40"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "40.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "93"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "40.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "61"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "19.33"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "W",
+          "EventCode": "SG----------------",
+          "EventDescription": "Women's Super-G",
+          "EventLongDescription": "Women's Super-G",
+          "EventSortOrder": 4,
+          "ParticipantType": "INDV",
+          "IRM": "DNF",
+          "ResultType": "IRM",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWSG----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Super-G",
+              "UnitLongDescription": "Women's Super-G",
+              "UnitPrintDescription": "Women's Super-G",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-12T11:29:58+01:00",
+              "IRM": "DNF",
+              "ResultType": "IRM",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Value": "58"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "93"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "40.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Value": "125"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "40.65"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "ALP",
+          "DisciplineDescription": "Alpine Skiing",
+          "GenderCode": "W",
+          "EventCode": "TC----------------",
+          "EventDescription": "Women's Team Combined",
+          "EventLongDescription": "Women's Team Combined",
+          "EventSortOrder": 5,
+          "ParticipantType": "DGRP",
+          "IRM": "DSQ",
+          "ResultType": "IRM",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWTC----------------TRNO000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's TC DH 1st Official Training",
+              "UnitLongDescription": "Women's Team Combined Downhill 1st Official Training",
+              "UnitPrintDescription": "Downhill 1st Official Training",
+              "IsFinal": false,
+              "PhaseCode": "TRNO",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-09T11:29:58+01:00",
+              "IRM": "DNS",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWTC----------------FNL-0001DH--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Team Combined Downhill",
+              "UnitLongDescription": "Women's Team Combined Downhill",
+              "UnitPrintDescription": "Downhill",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "0001DH--",
+              "UnitDateTime": "2026-02-10T10:29:58+01:00",
+              "Result": "1:41.15",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "CAL",
+              "VenueDescription": "Tofane Alpine Skiing Ctr.",
+              "VenueLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationCode": "CAL",
+              "LocationDescription": "Tofane Alpine Skiing Centre",
+              "LocationLongDescription": "Tofane Alpine Skiing Centre",
+              "LocationShortDescription": "Tofane Alpine Skiing Centre",
+              "EventUnitCode": "ALPWTC----------------FNL-0001SL--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Team Combined Slalom",
+              "UnitLongDescription": "Women's Team Combined Slalom",
+              "UnitPrintDescription": "Slalom",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "0001SL--",
+              "UnitDateTime": "2026-02-10T14:00:07+01:00",
+              "IRM": "DSQ",
+              "ResultType": "IRM",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPWDH----------------------------",
+              "Value": "57"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPWDH----------------------------",
+              "Value": "-"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "93"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "WCSL",
+              "Pos": "ALPW------------------------------",
+              "Value": "40.00"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "FIS",
+              "Pos": "ALPWDH----------------------------",
+              "Value": "101"
+            },
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Pos": "ALPWDH----------------------------",
+              "Value": "39.44"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/48923_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/48923_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/48923"
+}

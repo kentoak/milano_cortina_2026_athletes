@@ -1,0 +1,337 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "53562",
+      "GivenName": "Shilo",
+      "FamilyName": "Rousseau",
+      "PrintName": "ROUSSEAU Shilo",
+      "PrintInitialName": "ROUSSEAU S",
+      "TVName": "Shilo ROUSSEAU",
+      "TVInitialName": "S. ROUSSEAU",
+      "TVFamilyName": "ROUSSEAU",
+      "OrganisationCode": "CAN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2000-07-24",
+      "PlaceofBirth": "Elliot Lake",
+      "CountryofBirth": "CAN",
+      "Age": 25,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "BTHW4X6KM---CAN01",
+          "Name": "Canada",
+          "ShortName": "Canada",
+          "TVTeamName": "Canada",
+          "TeamType": "ORG",
+          "OrganisationCode": "CAN",
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "4X6KM-------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/yves.rousseau.161/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/yves.rousseau.161/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/shilo_rousseau/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>IBU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Women&amp;apos;s 4x6km Relay</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Lenzerheide, SUI</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>IBU World Cup - Overall Standing</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Season</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >42</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >52</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >60</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW15KMIS------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 15km Individual",
+          "UnitLongDescription": "Women's 15km Individual",
+          "UnitPrintDescription": "Women's 15km Individual",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "15KMIS------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T14:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW7.5KMSP-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 7.5km Sprint",
+          "UnitLongDescription": "Women's 7.5km Sprint",
+          "UnitPrintDescription": "Women's 7.5km Sprint",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "7.5KMSP-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-14T14:45:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "ABA",
+          "VenueDescription": "Anterselva Biathlon Arena",
+          "VenueLongDescription": "Anterselva Biathlon Arena",
+          "LocationCode": "ABA",
+          "LocationDescription": "Anterselva Biathlon Arena",
+          "LocationLongDescription": "Anterselva Biathlon Arena",
+          "LocationShortDescription": "Anterselva Biathlon Arena",
+          "EventUnitCode": "BTHW4X6KM-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 4 x 6km Relay",
+          "UnitLongDescription": "Women's 4 x 6km Relay",
+          "UnitPrintDescription": "Women's 4 x 6km Relay",
+          "IsFinal": true,
+          "DisciplineCode": "BTH",
+          "GenderCode": "W",
+          "EventCode": "4X6KM-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-18T14:45:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "15KMIS------------",
+          "EventDescription": "Women's 15km Individual",
+          "EventLongDescription": "Women's 15km Individual",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "Rank": 78,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW15KMIS------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 15km Individual",
+              "UnitLongDescription": "Women's 15km Individual",
+              "UnitPrintDescription": "Women's 15km Individual",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T14:15:00+01:00",
+              "Result": "49:45.4",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "62.73"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "60"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "4X6KM-------------",
+          "EventDescription": "Women's 4 x 6km Relay",
+          "EventLongDescription": "Women's 4 x 6km Relay",
+          "EventSortOrder": 10,
+          "ParticipantType": "TEAM",
+          "Rank": 19,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW4X6KM-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 4 x 6km Relay",
+              "UnitLongDescription": "Women's 4 x 6km Relay",
+              "UnitPrintDescription": "Women's 4 x 6km Relay",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-18T14:44:59+01:00",
+              "Result": "LAP",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "BTH",
+          "DisciplineDescription": "Biathlon",
+          "GenderCode": "W",
+          "EventCode": "7.5KMSP-----------",
+          "EventDescription": "Women's 7.5km Sprint",
+          "EventLongDescription": "Women's 7.5km Sprint",
+          "EventSortOrder": 4,
+          "ParticipantType": "INDV",
+          "Rank": 80,
+          "ResultType": "TIME",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "ABA",
+              "VenueDescription": "Anterselva Biathlon Arena",
+              "VenueLongDescription": "Anterselva Biathlon Arena",
+              "LocationCode": "ABA",
+              "LocationDescription": "Anterselva Biathlon Arena",
+              "LocationLongDescription": "Anterselva Biathlon Arena",
+              "LocationShortDescription": "Anterselva Biathlon Arena",
+              "EventUnitCode": "BTHW7.5KMSP-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 7.5km Sprint",
+              "UnitLongDescription": "Women's 7.5km Sprint",
+              "UnitPrintDescription": "Women's 7.5km Sprint",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-14T14:45:00+01:00",
+              "Result": "24:32.0",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "IBUQP",
+              "Value": "62.73"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "WCRANK",
+              "Value": "60"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/53562_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/53562_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/53562"
+}

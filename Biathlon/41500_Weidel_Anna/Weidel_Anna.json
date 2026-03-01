@@ -1,0 +1,90 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "41500",
+      "GivenName": "Anna",
+      "FamilyName": "Weidel",
+      "PrintName": "WEIDEL Anna",
+      "PrintInitialName": "WEIDEL A",
+      "TVName": "Anna WEIDEL",
+      "TVInitialName": "A. WEIDEL",
+      "TVFamilyName": "WEIDEL",
+      "OrganisationCode": "GER",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1996-05-25",
+      "PlaceofBirth": "Kufstein",
+      "CountryofBirth": "AUT",
+      "Age": 29,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/weidelanna/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/annaweidel/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>IBU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >87</td> <td class=\"text-start\" >Women&amp;apos;s 15km Individual</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oberhof, GER</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>IBU World Cup - Overall Standing</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Season</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025/2026</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >42</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >46</td> <td class=\"text-start\" >Women&amp;apos;s Individual</td> <td class=\"text-start text-end\" >2022/2023</td> </tr> <tr> <td class=\"text-start text-end\" >49</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >52</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >55</td> <td class=\"text-start\" >Women&amp;apos;s Pursuit</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >61</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2021/2022</td> </tr> <tr> <td class=\"text-start text-end\" >61</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >63</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018/2019</td> </tr> <tr> <td class=\"text-start text-end\" >69</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2024/2025</td> </tr> <tr> <td class=\"text-start text-end\" >70</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> <tr> <td class=\"text-start text-end\" >78</td> <td class=\"text-start\" >Women&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2020/2021</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "Disciplines": [
+        {
+          "DisciplineCode": "BTH",
+          "Description": "Biathlon"
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/41500_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/41500_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/41500"
+}

@@ -1,0 +1,4829 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "51020",
+      "GivenName": "Julie",
+      "FamilyName": "Zelingrova",
+      "PrintName": "ZELINGROVA Julie",
+      "PrintInitialName": "ZELINGROVA J",
+      "TVName": "Julie ZELINGROVA",
+      "TVInitialName": "J. ZELINGROVA",
+      "TVFamilyName": "ZELINGROVA",
+      "OrganisationCode": "CZE",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2006-03-28",
+      "PlaceofBirth": "Praha",
+      "CountryofBirth": "CZE",
+      "Age": 19,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "DisciplineEntry": [
+        {
+          "Type": "ENTRY",
+          "Code": "HAND",
+          "Value": "R"
+        }
+      ],
+      "University": {},
+      "Teams": [
+        {
+          "Code": "CURXTEAM2---CZE01",
+          "Name": "Czechia",
+          "ShortName": "Czechia",
+          "TVTeamName": "Czechia",
+          "TeamType": "ORG",
+          "OrganisationCode": "CZE",
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/julie.zelingrova"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/juliezelingrova/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM_TEAM",
+          "Value": "https://www.instagram.com/team.zelingrova.chabicovsky/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Winter Youth Olympic Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Mixed Doubles</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Gangwon, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Curling Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Mixed Doubles</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Geneva, SUI</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Mixed Doubles</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Gangneung, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Mixed Doubles</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Fredericton, NB, CAN</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUC",
+          "LocationDescription": "Curling Stadium - Sheet C",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet C",
+          "LocationShortDescription": "Sheet C",
+          "EventUnitCode": "CURXTEAM2-------------PREL000103--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 1",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 1",
+          "UnitPrintDescription": "Round Robin Session 1",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "000103--",
+          "StartDate": "2026-02-04T19:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "1",
+                "AwayScore": "0",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "19:34"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "18:44"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "5",
+                "AwayScore": "0",
+                "HomePeriodScore": "4",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "17:30"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "15:05"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "5",
+                "AwayScore": "3",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "3",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "14:59"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "12:33"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "7",
+                "AwayScore": "3",
+                "HomePeriodScore": "2",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "12:35"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "10:09"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "7",
+                "AwayScore": "4",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "10:19"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "7:04"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "10",
+                "AwayScore": "4",
+                "HomePeriodScore": "3",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "7:46"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "4:30"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "10",
+                "AwayScore": "5",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "5:32"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "1:51"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "10",
+                "AwayScore": "5",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "5:32"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "1:51"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "10",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CAN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CAN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Canada",
+                    "TVTeamName": "Canada",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "53292",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Jocelyn",
+                          "FamilyName": "Peterman",
+                          "TVName": "Jocelyn PETERMAN",
+                          "TVInitialName": "J. PETERMAN",
+                          "PrintName": "PETERMAN Jocelyn",
+                          "PrintInitialName": "PETERMAN J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CAN",
+                          "BirthDate": "1993-09-23"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "53214",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Brett",
+                          "FamilyName": "Gallant",
+                          "TVName": "Brett GALLANT",
+                          "TVInitialName": "B. GALLANT",
+                          "PrintName": "GALLANT Brett",
+                          "PrintInitialName": "GALLANT B",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CAN",
+                          "BirthDate": "1990-02-18"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "5",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUB",
+          "LocationDescription": "Curling Stadium - Sheet B",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet B",
+          "LocationShortDescription": "Sheet B",
+          "EventUnitCode": "CURXTEAM2-------------PREL000202--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 2",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 2",
+          "UnitPrintDescription": "Round Robin Session 2",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "000202--",
+          "StartDate": "2026-02-05T10:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "1",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "18:51"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "19:26"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "1",
+                "AwayScore": "1",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "15:41"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "17:00"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "1",
+                "AwayScore": "2",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "12:35"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "13:59"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "1",
+                "AwayScore": "4",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "9:12"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "11:26"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "2",
+                "AwayScore": "4",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "6:32"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "9:37"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "2",
+                "AwayScore": "7",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "3",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "4:21"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "5:59"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "4",
+                "AwayScore": "7",
+                "HomePeriodScore": "2",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "1:45"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "4:07"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "4",
+                "AwayScore": "7",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "0:15"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:01"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "4",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "7",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---SWE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "SWE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Sweden",
+                    "TVTeamName": "Sweden",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "21533",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Isabella",
+                          "FamilyName": "Wranaa",
+                          "TVName": "Isabella WRANAA",
+                          "TVInitialName": "I. WRANAA",
+                          "PrintName": "WRANAA Isabella",
+                          "PrintInitialName": "WRANAA I",
+                          "GenderCode": "F",
+                          "OrganisationCode": "SWE",
+                          "BirthDate": "1997-06-22"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "21542",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Rasmus",
+                          "FamilyName": "Wranaa",
+                          "TVName": "Rasmus WRANAA",
+                          "TVInitialName": "R. WRANAA",
+                          "PrintName": "WRANAA Rasmus",
+                          "PrintInitialName": "WRANAA R",
+                          "GenderCode": "M",
+                          "OrganisationCode": "SWE",
+                          "BirthDate": "1994-11-15"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUD",
+          "LocationDescription": "Curling Stadium - Sheet D",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet D",
+          "LocationShortDescription": "Sheet D",
+          "EventUnitCode": "CURXTEAM2-------------PREL000404--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 4",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 4",
+          "UnitPrintDescription": "Round Robin Session 4",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "000404--",
+          "StartDate": "2026-02-05T19:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "1",
+                "AwayScore": "0",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "19:50"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "19:26"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "1",
+                "AwayScore": "3",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "3",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "17:18"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "16:51"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "2",
+                "AwayScore": "3",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "14:47"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "14:51"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "2",
+                "AwayScore": "5",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "10:27"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "11:01"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "5",
+                "AwayScore": "5",
+                "HomePeriodScore": "3",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "7:26"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "8:34"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "5",
+                "AwayScore": "7",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "5:04"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "5:47"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "5",
+                "AwayScore": "8",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "2:10"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:56"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "7",
+                "AwayScore": "8",
+                "HomePeriodScore": "2",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "0:03"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "2:18"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "7",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "8",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---GBR01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "GBR",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Great Britain",
+                    "TVTeamName": "Great Britain",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "37132",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Jennifer",
+                          "FamilyName": "Dodds",
+                          "TVName": "Jennifer DODDS",
+                          "TVInitialName": "J. DODDS",
+                          "PrintName": "DODDS Jennifer",
+                          "PrintInitialName": "DODDS J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "GBR",
+                          "BirthDate": "1991-10-01"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "37147",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Bruce",
+                          "FamilyName": "Mouat",
+                          "TVName": "Bruce MOUAT",
+                          "TVInitialName": "B. MOUAT",
+                          "PrintName": "MOUAT Bruce",
+                          "PrintInitialName": "MOUAT B",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GBR",
+                          "BirthDate": "1994-08-27"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUA",
+          "LocationDescription": "Curling Stadium - Sheet A",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet A",
+          "LocationShortDescription": "Sheet A",
+          "EventUnitCode": "CURXTEAM2-------------PREL000601--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 6",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 6",
+          "UnitPrintDescription": "Round Robin Session 6",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "000601--",
+          "StartDate": "2026-02-06T14:35:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "1",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "19:11"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "20:02"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "0",
+                "AwayScore": "4",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "3",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "15:59"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "16:54"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "0",
+                "AwayScore": "5",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "13:25"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "13:55"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "1",
+                "AwayScore": "5",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "10:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "10:57"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "1",
+                "AwayScore": "6",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "7:51"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "7:40"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "1",
+                "AwayScore": "8",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "4:09"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "4:42"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "1",
+                "AwayScore": "8",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "4:09"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "4:42"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "1",
+                "AwayScore": "8",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "4:09"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "4:42"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "1",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "8",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---USA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "USA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "United States of America",
+                    "TVTeamName": "United States",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "23814",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Cory",
+                          "FamilyName": "Thiesse",
+                          "TVName": "Cory THIESSE",
+                          "TVInitialName": "C. THIESSE",
+                          "PrintName": "THIESSE Cory",
+                          "PrintInitialName": "THIESSE C",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1994-12-01"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "23828",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Korey",
+                          "FamilyName": "Dropkin",
+                          "TVName": "Korey DROPKIN",
+                          "TVInitialName": "K. DROPKIN",
+                          "PrintName": "DROPKIN Korey",
+                          "PrintInitialName": "DROPKIN K",
+                          "GenderCode": "M",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1995-06-11"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUB",
+          "LocationDescription": "Curling Stadium - Sheet B",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet B",
+          "LocationShortDescription": "Sheet B",
+          "EventUnitCode": "CURXTEAM2-------------PREL000802--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 8",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 8",
+          "UnitPrintDescription": "Round Robin Session 8",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "000802--",
+          "StartDate": "2026-02-07T14:35:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "2",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "19:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "19:25"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "1",
+                "AwayScore": "2",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "17:14"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "16:24"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "2",
+                "AwayScore": "2",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "14:26"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "13:15"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "2",
+                "AwayScore": "4",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "12:22"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "10:40"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "2",
+                "AwayScore": "6",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "10:05"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "7:52"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "4",
+                "AwayScore": "6",
+                "HomePeriodScore": "2",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "7:03"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "5:13"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "4",
+                "AwayScore": "9",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "3",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "4:57"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "1:56"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "4",
+                "AwayScore": "9",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "4:25"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "1:19"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "4",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---KOR01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "KOR",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Republic of Korea",
+                    "TVTeamName": "Korea",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "43981",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Seonyeong",
+                          "FamilyName": "Kim",
+                          "TVName": "KIM Seonyeong",
+                          "TVInitialName": "KIM S.",
+                          "PrintName": "KIM Seonyeong",
+                          "PrintInitialName": "KIM S",
+                          "GenderCode": "F",
+                          "OrganisationCode": "KOR",
+                          "BirthDate": "1993-05-18"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "43988",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Yeongseok",
+                          "FamilyName": "Jeong",
+                          "TVName": "JEONG Yeongseok",
+                          "TVInitialName": "JEONG Y.",
+                          "PrintName": "JEONG Yeongseok",
+                          "PrintInitialName": "JEONG Y",
+                          "GenderCode": "M",
+                          "OrganisationCode": "KOR",
+                          "BirthDate": "1995-04-14"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "9",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUC",
+          "LocationDescription": "Curling Stadium - Sheet C",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet C",
+          "LocationShortDescription": "Sheet C",
+          "EventUnitCode": "CURXTEAM2-------------PREL000903--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 9",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 9",
+          "UnitPrintDescription": "Round Robin Session 9",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "000903--",
+          "StartDate": "2026-02-07T19:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "2",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "19:29"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "20:18"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "1",
+                "AwayScore": "2",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "16:40"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "17:50"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "1",
+                "AwayScore": "3",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "13:25"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "14:32"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "2",
+                "AwayScore": "3",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "10:07"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "12:40"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "2",
+                "AwayScore": "7",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "4",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "7:33"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "9:39"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "3",
+                "AwayScore": "7",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "5:19"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "6:31"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "3",
+                "AwayScore": "10",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "3",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "3:15"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:31"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "3",
+                "AwayScore": "10",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "3:15"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:31"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "3",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "10",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---SUI01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "SUI",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Switzerland",
+                    "TVTeamName": "Switzerland",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "48677",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Briar",
+                          "FamilyName": "Schwaller-",
+                          "TVName": "Briar SCHWALLER-HUERLIMANN",
+                          "TVInitialName": "B. SCHWALLER",
+                          "PrintName": "SCHWALLER-HUERLIMANN Briar",
+                          "PrintInitialName": "SCHWALLER B",
+                          "GenderCode": "F",
+                          "OrganisationCode": "SUI",
+                          "BirthDate": "1993-09-30"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "48674",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Yannick",
+                          "FamilyName": "Schwaller",
+                          "TVName": "Yannick SCHWALLER",
+                          "TVInitialName": "Y. SCHWALLER",
+                          "PrintName": "SCHWALLER Yannick",
+                          "PrintInitialName": "SCHWALLER Y",
+                          "GenderCode": "M",
+                          "OrganisationCode": "SUI",
+                          "BirthDate": "1995-03-31"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUA",
+          "LocationDescription": "Curling Stadium - Sheet A",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet A",
+          "LocationShortDescription": "Sheet A",
+          "EventUnitCode": "CURXTEAM2-------------PREL001001--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 10",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 10",
+          "UnitPrintDescription": "Round Robin Session 10",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "001001--",
+          "StartDate": "2026-02-08T10:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "1",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "20:13"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "19:19"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "1",
+                "AwayScore": "1",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "16:41"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "16:50"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "1",
+                "AwayScore": "3",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "14:23"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "14:14"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "1",
+                "AwayScore": "4",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "11:08"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "11:36"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "2",
+                "AwayScore": "4",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "7:38"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "9:09"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "2",
+                "AwayScore": "5",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "5:27"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "6:25"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "3",
+                "AwayScore": "5",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "2:10"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:22"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "3",
+                "AwayScore": "6",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "0:54"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "0:33"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "3",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---NOR01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "NOR",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Norway",
+                    "TVTeamName": "Norway",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "42312",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Kristin",
+                          "FamilyName": "Skaslien",
+                          "TVName": "Kristin SKASLIEN",
+                          "TVInitialName": "K. SKASLIEN",
+                          "PrintName": "SKASLIEN Kristin",
+                          "PrintInitialName": "SKASLIEN K",
+                          "GenderCode": "F",
+                          "OrganisationCode": "NOR",
+                          "BirthDate": "1986-01-18"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "42306",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Magnus",
+                          "FamilyName": "Nedregotten",
+                          "TVName": "Magnus NEDREGOTTEN",
+                          "TVInitialName": "M. NEDREGOTTEN",
+                          "PrintName": "NEDREGOTTEN Magnus",
+                          "PrintInitialName": "NEDREGOTTEN M",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NOR",
+                          "BirthDate": "1990-10-24"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "6",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUD",
+          "LocationDescription": "Curling Stadium - Sheet D",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet D",
+          "LocationShortDescription": "Sheet D",
+          "EventUnitCode": "CURXTEAM2-------------PREL001104--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 11",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 11",
+          "UnitPrintDescription": "Round Robin Session 11",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "001104--",
+          "StartDate": "2026-02-08T14:35:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "1",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "20:00"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "19:20"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "3",
+                "AwayScore": "1",
+                "HomePeriodScore": "3",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "17:24"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "16:41"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "5",
+                "AwayScore": "1",
+                "HomePeriodScore": "2",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "14:22"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "13:05"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "7",
+                "AwayScore": "1",
+                "HomePeriodScore": "2",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "12:02"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "9:17"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "8",
+                "AwayScore": "1",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "9:12"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "6:56"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "8",
+                "AwayScore": "2",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "6:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:56"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "8",
+                "AwayScore": "2",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "6:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:56"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "8",
+                "AwayScore": "2",
+                "HomePeriodScore": "X",
+                "AwayPeriodScore": "X",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "6:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:56"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "8",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---ITA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "ITA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Italy",
+                    "TVTeamName": "Italy",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "25980",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Stefania",
+                          "FamilyName": "Constantini",
+                          "TVName": "Stefania CONSTANTINI",
+                          "TVInitialName": "S. CONSTANTINI",
+                          "PrintName": "CONSTANTINI Stefania",
+                          "PrintInitialName": "CONSTANTINI S",
+                          "GenderCode": "F",
+                          "OrganisationCode": "ITA",
+                          "BirthDate": "1999-04-15"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "25973",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Amos",
+                          "FamilyName": "Mosaner",
+                          "TVName": "Amos MOSANER",
+                          "TVInitialName": "A. MOSANER",
+                          "PrintName": "MOSANER Amos",
+                          "PrintInitialName": "MOSANER A",
+                          "GenderCode": "M",
+                          "OrganisationCode": "ITA",
+                          "BirthDate": "1995-03-12"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "2",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "CCU",
+          "VenueDescription": "Cortina Curling OLY Stad.",
+          "VenueLongDescription": "Cortina Curling Olympic Stadium",
+          "LocationCode": "CUD",
+          "LocationDescription": "Curling Stadium - Sheet D",
+          "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet D",
+          "LocationShortDescription": "Sheet D",
+          "EventUnitCode": "CURXTEAM2-------------PREL001304--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Doubles Round Robin Session 13",
+          "UnitLongDescription": "Mixed Doubles Round Robin Session 13",
+          "UnitPrintDescription": "Round Robin Session 13",
+          "IsFinal": false,
+          "DisciplineCode": "CUR",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "PhaseCode": "PREL",
+          "UnitCode": "001304--",
+          "StartDate": "2026-02-09T10:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 8,
+            "Period": [
+              {
+                "Code": "1",
+                "Description": "1st End",
+                "Order": 1,
+                "HomeScore": "0",
+                "AwayScore": "2",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "2",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "19:35"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "20:08"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "2",
+                "Description": "2nd End",
+                "Order": 2,
+                "HomeScore": "1",
+                "AwayScore": "2",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "16:51"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "18:34"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "3",
+                "Description": "3rd End",
+                "Order": 3,
+                "HomeScore": "5",
+                "AwayScore": "2",
+                "HomePeriodScore": "4",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "14:32"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "14:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "4",
+                "Description": "4th End",
+                "Order": 4,
+                "HomeScore": "5",
+                "AwayScore": "3",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "12:17"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "11:45"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "5",
+                "Description": "5th End",
+                "Order": 5,
+                "HomeScore": "5",
+                "AwayScore": "4",
+                "HomePeriodScore": "0",
+                "AwayPeriodScore": "1",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "8:44"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "9:57"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  }
+                ]
+              },
+              {
+                "Code": "6",
+                "Description": "6th End",
+                "Order": 6,
+                "HomeScore": "6",
+                "AwayScore": "4",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "5:50"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "7:07"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "1"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_POWERPLAY",
+                    "Value": "Y"
+                  }
+                ]
+              },
+              {
+                "Code": "7",
+                "Description": "7th End",
+                "Order": 7,
+                "HomeScore": "7",
+                "AwayScore": "4",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "2:49"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "3:08"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              },
+              {
+                "Code": "8",
+                "Description": "8th End",
+                "Order": 8,
+                "HomeScore": "8",
+                "AwayScore": "4",
+                "HomePeriodScore": "1",
+                "AwayPeriodScore": "0",
+                "Duration": null,
+                "ExtendedPeriods": [
+                  {
+                    "Type": "EP",
+                    "Code": "HOME_REMAIN",
+                    "Value": "0:29"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "AWAY_REMAIN",
+                    "Value": "0:30"
+                  },
+                  {
+                    "Type": "EP",
+                    "Code": "LSCE",
+                    "Value": "2"
+                  }
+                ]
+              }
+            ]
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 1,
+                "StartCode": null,
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "8",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---CZE01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CZE",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Czechia",
+                    "TVTeamName": "Czechia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51020",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Julie",
+                          "FamilyName": "Zelingrova",
+                          "TVName": "Julie ZELINGROVA",
+                          "TVInitialName": "J. ZELINGROVA",
+                          "PrintName": "ZELINGROVA Julie",
+                          "PrintInitialName": "ZELINGROVA J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2006-03-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "50992",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Vit",
+                          "FamilyName": "Chabicovsky",
+                          "TVName": "Vit CHABICOVSKY",
+                          "TVInitialName": "V. CHABICOVSKY",
+                          "PrintName": "CHABICOVSKY Vit",
+                          "PrintInitialName": "CHABICOVSKY V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CZE",
+                          "BirthDate": "2004-05-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": null,
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "4",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "CURXTEAM2---EST01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "EST",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Estonia",
+                    "TVTeamName": "Estonia",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "22850",
+                        "Order": 1,
+                        "StartSortOrder": 1,
+                        "Description": {
+                          "GivenName": "Marie",
+                          "FamilyName": "Kaldvee",
+                          "TVName": "Marie KALDVEE",
+                          "TVInitialName": "M. KALDVEE",
+                          "PrintName": "KALDVEE Marie",
+                          "PrintInitialName": "KALDVEE M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "EST",
+                          "BirthDate": "1995-01-23"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "22905",
+                        "Order": 2,
+                        "StartSortOrder": 2,
+                        "Description": {
+                          "GivenName": "Harri",
+                          "FamilyName": "Lill",
+                          "TVName": "Harri LILL",
+                          "TVInitialName": "H. LILL",
+                          "PrintName": "LILL Harri",
+                          "PrintInitialName": "LILL H",
+                          "GenderCode": "M",
+                          "OrganisationCode": "EST",
+                          "BirthDate": "1991-07-22"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "CUR",
+          "Description": "Curling"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "CUR",
+          "DisciplineDescription": "Curling",
+          "GenderCode": "X",
+          "EventCode": "TEAM2-------------",
+          "EventDescription": "Mixed Doubles",
+          "EventLongDescription": "Mixed Doubles",
+          "EventSortOrder": 3,
+          "ParticipantType": "TEAM",
+          "Rank": 8,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUC",
+              "LocationDescription": "Curling Stadium - Sheet C",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet C",
+              "LocationShortDescription": "Sheet C",
+              "EventUnitCode": "CURXTEAM2-------------PREL000103--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 1",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 1",
+              "UnitPrintDescription": "Round Robin Session 1",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "000103--",
+              "UnitDateTime": "2026-02-04T19:05:03+01:00",
+              "Result": "5",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "10",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CAN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CAN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Canada",
+                        "TVTeamName": "Canada",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "53292",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Jocelyn",
+                              "FamilyName": "Peterman",
+                              "TVName": "Jocelyn PETERMAN",
+                              "TVInitialName": "J. PETERMAN",
+                              "PrintName": "PETERMAN Jocelyn",
+                              "PrintInitialName": "PETERMAN J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1993-09-23"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "53214",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Brett",
+                              "FamilyName": "Gallant",
+                              "TVName": "Brett GALLANT",
+                              "TVInitialName": "B. GALLANT",
+                              "PrintName": "GALLANT Brett",
+                              "PrintInitialName": "GALLANT B",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1990-02-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "5",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUB",
+              "LocationDescription": "Curling Stadium - Sheet B",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet B",
+              "LocationShortDescription": "Sheet B",
+              "EventUnitCode": "CURXTEAM2-------------PREL000202--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 2",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 2",
+              "UnitPrintDescription": "Round Robin Session 2",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "000202--",
+              "UnitDateTime": "2026-02-05T10:05:01+01:00",
+              "Result": "4",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "4",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "7",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---SWE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "SWE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Sweden",
+                        "TVTeamName": "Sweden",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "21533",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Isabella",
+                              "FamilyName": "Wranaa",
+                              "TVName": "Isabella WRANAA",
+                              "TVInitialName": "I. WRANAA",
+                              "PrintName": "WRANAA Isabella",
+                              "PrintInitialName": "WRANAA I",
+                              "GenderCode": "F",
+                              "OrganisationCode": "SWE",
+                              "BirthDate": "1997-06-22"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "21542",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Rasmus",
+                              "FamilyName": "Wranaa",
+                              "TVName": "Rasmus WRANAA",
+                              "TVInitialName": "R. WRANAA",
+                              "PrintName": "WRANAA Rasmus",
+                              "PrintInitialName": "WRANAA R",
+                              "GenderCode": "M",
+                              "OrganisationCode": "SWE",
+                              "BirthDate": "1994-11-15"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUD",
+              "LocationDescription": "Curling Stadium - Sheet D",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet D",
+              "LocationShortDescription": "Sheet D",
+              "EventUnitCode": "CURXTEAM2-------------PREL000404--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 4",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 4",
+              "UnitPrintDescription": "Round Robin Session 4",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "000404--",
+              "UnitDateTime": "2026-02-05T19:05:00+01:00",
+              "Result": "7",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "7",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "8",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---GBR01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "GBR",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Great Britain",
+                        "TVTeamName": "Great Britain",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "37132",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Jennifer",
+                              "FamilyName": "Dodds",
+                              "TVName": "Jennifer DODDS",
+                              "TVInitialName": "J. DODDS",
+                              "PrintName": "DODDS Jennifer",
+                              "PrintInitialName": "DODDS J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "GBR",
+                              "BirthDate": "1991-10-01"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "37147",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Bruce",
+                              "FamilyName": "Mouat",
+                              "TVName": "Bruce MOUAT",
+                              "TVInitialName": "B. MOUAT",
+                              "PrintName": "MOUAT Bruce",
+                              "PrintInitialName": "MOUAT B",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GBR",
+                              "BirthDate": "1994-08-27"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUA",
+              "LocationDescription": "Curling Stadium - Sheet A",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet A",
+              "LocationShortDescription": "Sheet A",
+              "EventUnitCode": "CURXTEAM2-------------PREL000601--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 6",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 6",
+              "UnitPrintDescription": "Round Robin Session 6",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "000601--",
+              "UnitDateTime": "2026-02-06T14:35:04+01:00",
+              "Result": "1",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "1",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "8",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---USA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "United States of America",
+                        "TVTeamName": "United States",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "23814",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Cory",
+                              "FamilyName": "Thiesse",
+                              "TVName": "Cory THIESSE",
+                              "TVInitialName": "C. THIESSE",
+                              "PrintName": "THIESSE Cory",
+                              "PrintInitialName": "THIESSE C",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1994-12-01"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "23828",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Korey",
+                              "FamilyName": "Dropkin",
+                              "TVName": "Korey DROPKIN",
+                              "TVInitialName": "K. DROPKIN",
+                              "PrintName": "DROPKIN Korey",
+                              "PrintInitialName": "DROPKIN K",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1995-06-11"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUB",
+              "LocationDescription": "Curling Stadium - Sheet B",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet B",
+              "LocationShortDescription": "Sheet B",
+              "EventUnitCode": "CURXTEAM2-------------PREL000802--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 8",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 8",
+              "UnitPrintDescription": "Round Robin Session 8",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "000802--",
+              "UnitDateTime": "2026-02-07T14:35:00+01:00",
+              "Result": "9",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "4",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---KOR01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "KOR",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Republic of Korea",
+                        "TVTeamName": "Korea",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "43981",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Seonyeong",
+                              "FamilyName": "Kim",
+                              "TVName": "KIM Seonyeong",
+                              "TVInitialName": "KIM S.",
+                              "PrintName": "KIM Seonyeong",
+                              "PrintInitialName": "KIM S",
+                              "GenderCode": "F",
+                              "OrganisationCode": "KOR",
+                              "BirthDate": "1993-05-18"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "43988",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Yeongseok",
+                              "FamilyName": "Jeong",
+                              "TVName": "JEONG Yeongseok",
+                              "TVInitialName": "JEONG Y.",
+                              "PrintName": "JEONG Yeongseok",
+                              "PrintInitialName": "JEONG Y",
+                              "GenderCode": "M",
+                              "OrganisationCode": "KOR",
+                              "BirthDate": "1995-04-14"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "9",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUC",
+              "LocationDescription": "Curling Stadium - Sheet C",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet C",
+              "LocationShortDescription": "Sheet C",
+              "EventUnitCode": "CURXTEAM2-------------PREL000903--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 9",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 9",
+              "UnitPrintDescription": "Round Robin Session 9",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "000903--",
+              "UnitDateTime": "2026-02-07T19:05:00+01:00",
+              "Result": "3",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "3",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "10",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---SUI01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "SUI",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Switzerland",
+                        "TVTeamName": "Switzerland",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "48677",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Briar",
+                              "FamilyName": "Schwaller-",
+                              "TVName": "Briar SCHWALLER-HUERLIMANN",
+                              "TVInitialName": "B. SCHWALLER",
+                              "PrintName": "SCHWALLER-HUERLIMANN Briar",
+                              "PrintInitialName": "SCHWALLER B",
+                              "GenderCode": "F",
+                              "OrganisationCode": "SUI",
+                              "BirthDate": "1993-09-30"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "48674",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Yannick",
+                              "FamilyName": "Schwaller",
+                              "TVName": "Yannick SCHWALLER",
+                              "TVInitialName": "Y. SCHWALLER",
+                              "PrintName": "SCHWALLER Yannick",
+                              "PrintInitialName": "SCHWALLER Y",
+                              "GenderCode": "M",
+                              "OrganisationCode": "SUI",
+                              "BirthDate": "1995-03-31"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUA",
+              "LocationDescription": "Curling Stadium - Sheet A",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet A",
+              "LocationShortDescription": "Sheet A",
+              "EventUnitCode": "CURXTEAM2-------------PREL001001--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 10",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 10",
+              "UnitPrintDescription": "Round Robin Session 10",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "001001--",
+              "UnitDateTime": "2026-02-08T10:05:00+01:00",
+              "Result": "6",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "3",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---NOR01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "NOR",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Norway",
+                        "TVTeamName": "Norway",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42312",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Kristin",
+                              "FamilyName": "Skaslien",
+                              "TVName": "Kristin SKASLIEN",
+                              "TVInitialName": "K. SKASLIEN",
+                              "PrintName": "SKASLIEN Kristin",
+                              "PrintInitialName": "SKASLIEN K",
+                              "GenderCode": "F",
+                              "OrganisationCode": "NOR",
+                              "BirthDate": "1986-01-18"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "42306",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Magnus",
+                              "FamilyName": "Nedregotten",
+                              "TVName": "Magnus NEDREGOTTEN",
+                              "TVInitialName": "M. NEDREGOTTEN",
+                              "PrintName": "NEDREGOTTEN Magnus",
+                              "PrintInitialName": "NEDREGOTTEN M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NOR",
+                              "BirthDate": "1990-10-24"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "6",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUD",
+              "LocationDescription": "Curling Stadium - Sheet D",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet D",
+              "LocationShortDescription": "Sheet D",
+              "EventUnitCode": "CURXTEAM2-------------PREL001104--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 11",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 11",
+              "UnitPrintDescription": "Round Robin Session 11",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "001104--",
+              "UnitDateTime": "2026-02-08T14:35:00+01:00",
+              "Result": "2",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "8",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---ITA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "ITA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Italy",
+                        "TVTeamName": "Italy",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "25980",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Stefania",
+                              "FamilyName": "Constantini",
+                              "TVName": "Stefania CONSTANTINI",
+                              "TVInitialName": "S. CONSTANTINI",
+                              "PrintName": "CONSTANTINI Stefania",
+                              "PrintInitialName": "CONSTANTINI S",
+                              "GenderCode": "F",
+                              "OrganisationCode": "ITA",
+                              "BirthDate": "1999-04-15"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "25973",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Amos",
+                              "FamilyName": "Mosaner",
+                              "TVName": "Amos MOSANER",
+                              "TVInitialName": "A. MOSANER",
+                              "PrintName": "MOSANER Amos",
+                              "PrintInitialName": "MOSANER A",
+                              "GenderCode": "M",
+                              "OrganisationCode": "ITA",
+                              "BirthDate": "1995-03-12"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "2",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "CCU",
+              "VenueDescription": "Cortina Curling OLY Stad.",
+              "VenueLongDescription": "Cortina Curling Olympic Stadium",
+              "LocationCode": "CUD",
+              "LocationDescription": "Curling Stadium - Sheet D",
+              "LocationLongDescription": "Cortina Curling Olympic Stadium- Sheet D",
+              "LocationShortDescription": "Sheet D",
+              "EventUnitCode": "CURXTEAM2-------------PREL001304--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Doubles Round Robin Session 13",
+              "UnitLongDescription": "Mixed Doubles Round Robin Session 13",
+              "UnitPrintDescription": "Round Robin Session 13",
+              "IsFinal": false,
+              "PhaseCode": "PREL",
+              "UnitCode": "001304--",
+              "UnitDateTime": "2026-02-09T10:05:00+01:00",
+              "Result": "8",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": null,
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "8",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---CZE01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CZE",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Czechia",
+                        "TVTeamName": "Czechia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51020",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Julie",
+                              "FamilyName": "Zelingrova",
+                              "TVName": "Julie ZELINGROVA",
+                              "TVInitialName": "J. ZELINGROVA",
+                              "PrintName": "ZELINGROVA Julie",
+                              "PrintInitialName": "ZELINGROVA J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2006-03-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "50992",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Vit",
+                              "FamilyName": "Chabicovsky",
+                              "TVName": "Vit CHABICOVSKY",
+                              "TVInitialName": "V. CHABICOVSKY",
+                              "PrintName": "CHABICOVSKY Vit",
+                              "PrintInitialName": "CHABICOVSKY V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CZE",
+                              "BirthDate": "2004-05-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": null,
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "4",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "CURXTEAM2---EST01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "EST",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Estonia",
+                        "TVTeamName": "Estonia",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "22850",
+                            "Order": 1,
+                            "StartSortOrder": 1,
+                            "Description": {
+                              "GivenName": "Marie",
+                              "FamilyName": "Kaldvee",
+                              "TVName": "Marie KALDVEE",
+                              "TVInitialName": "M. KALDVEE",
+                              "PrintName": "KALDVEE Marie",
+                              "PrintInitialName": "KALDVEE M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "EST",
+                              "BirthDate": "1995-01-23"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "22905",
+                            "Order": 2,
+                            "StartSortOrder": 2,
+                            "Description": {
+                              "GivenName": "Harri",
+                              "FamilyName": "Lill",
+                              "TVName": "Harri LILL",
+                              "TVInitialName": "H. LILL",
+                              "PrintName": "LILL Harri",
+                              "PrintInitialName": "LILL H",
+                              "GenderCode": "M",
+                              "OrganisationCode": "EST",
+                              "BirthDate": "1991-07-22"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "POSITION",
+              "Value": "F"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "ROLE",
+              "Value": "NR"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/51020_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/51020_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/51020"
+}
