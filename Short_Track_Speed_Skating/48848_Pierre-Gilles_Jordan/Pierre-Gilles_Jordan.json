@@ -1,0 +1,116 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "48848",
+      "GivenName": "Jordan",
+      "FamilyName": "Pierre-Gilles",
+      "PrintName": "PIERRE-GILLES Jordan",
+      "PrintInitialName": "PIERRE-GILLES J",
+      "TVName": "Jordan PIERRE-GILLES",
+      "TVInitialName": "J. PIERRE-GILLES",
+      "TVFamilyName": "PIERRE-GILLES",
+      "OrganisationCode": "CAN",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1998-05-24",
+      "PlaceofBirth": "Fleurimont Can",
+      "CountryofBirth": "CAN",
+      "Age": 27,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "STKM5000MRY4CAN01",
+          "Name": "Canada",
+          "ShortName": "Canada",
+          "TVTeamName": "Canada",
+          "TeamType": "ORG",
+          "OrganisationCode": "CAN",
+          "DisciplineCode": "STK",
+          "GenderCode": "M",
+          "EventCode": "5000MRY4----------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/p/Jordan-Pierre-Gilles-100063701460416/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/jordanpierregilles/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Laval, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Laval, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 5000m Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Laval, QC, CAN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Canada Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Quebec, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>ISU World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>500m</b></th> <th class=\"text-end\"><b>1000m</b></th> <th class=\"text-end\"><b>1500m</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 10 </td> <td class=\"text-end\"> 3 </td> <td class=\"text-end\"> 10 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 7 </td> <td class=\"text-end\"> 1 </td> <td class=\"text-end\"> 30 </td> <td class=\"text-end\"> 54 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 22 </td> <td class=\"text-end\"> 17 </td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 11 </td> <td class=\"text-end\"> 14 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 17 </td> <td class=\"text-end\"> 21 </td> <td class=\"text-end\"> </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "Disciplines": [
+        {
+          "DisciplineCode": "STK",
+          "Description": "Short Track Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "STK",
+          "DisciplineDescription": "Short Track Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "5000MRY4----------",
+          "EventDescription": "Men's 5000m Relay",
+          "EventLongDescription": "Men's 5000m Relay",
+          "EventSortOrder": 8,
+          "ParticipantType": "DGRP",
+          "RankingAvailable": 0
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/48848_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/48848_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/48848"
+}

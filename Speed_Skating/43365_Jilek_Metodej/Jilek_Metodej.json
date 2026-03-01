@@ -1,0 +1,508 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "43365",
+      "GivenName": "Metodej",
+      "FamilyName": "Jilek",
+      "PrintName": "JILEK Metodej",
+      "PrintInitialName": "JILEK M",
+      "TVName": "Metodej JILEK",
+      "TVInitialName": "M. JILEK",
+      "TVFamilyName": "JILEK",
+      "OrganisationCode": "CZE",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "2006-06-11",
+      "PlaceofBirth": "Praha",
+      "CountryofBirth": "CZE",
+      "Age": 19,
+      "FlagBearer": 2,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "FlagbearerEvents": [
+        {
+          "Code": "CERGCLOSING-----------------------",
+          "EventDescription": "Closing Ceremony",
+          "OrganisationCode": "CZE"
+        }
+      ],
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/metodej.jilek"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/metodej_jilek/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Collalbo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Collalbo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Collalbo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Collalbo, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Collalbo, ITA</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>1500m</b></th> <th class=\"text-end\"><b>5000/10000m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 13 </td> <td class=\"text-end\"> 1 </td> <td class=\"text-end\"> 4 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 26 </td> <td class=\"text-end\"> 6 </td> <td class=\"text-end\"> 18 </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM5000M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 5000m",
+          "UnitLongDescription": "Men's 5000m",
+          "UnitPrintDescription": "Men's 5000m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "5000M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-08T16:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM10000M------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 10000m",
+          "UnitLongDescription": "Men's 10000m",
+          "UnitPrintDescription": "Men's 10000m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "10000M------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-13T16:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM1500M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 1500m",
+          "UnitLongDescription": "Men's 1500m",
+          "UnitPrintDescription": "Men's 1500m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-19T16:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMMS----------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Mass Start Semifinals",
+          "UnitLongDescription": "Men's Mass Start Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-21T15:00:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMMS----------------FNL-000100--",
+          "UnitNum": "F",
+          "UnitDescription": "Men's Mass Start Final",
+          "UnitLongDescription": "Men's Mass Start Final",
+          "UnitPrintDescription": "Final",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-21T16:40:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "10000M------------",
+          "EventDescription": "Men's 10000m",
+          "EventLongDescription": "Men's 10000m",
+          "EventSortOrder": 12,
+          "ParticipantType": "INDV",
+          "Rank": 1,
+          "MedalType": "GOLD",
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM10000M------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 10000m",
+              "UnitLongDescription": "Men's 10000m",
+              "UnitPrintDescription": "Men's 10000m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-13T16:00:13+01:00",
+              "Result": "12:33.43",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "12:29.63"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "12:29.63"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "1"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Men's 1500m",
+          "EventLongDescription": "Men's 1500m",
+          "EventSortOrder": 10,
+          "ParticipantType": "INDV",
+          "Rank": 16,
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM1500M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 1500m",
+              "UnitLongDescription": "Men's 1500m",
+              "UnitPrintDescription": "Men's 1500m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-19T16:30:15+01:00",
+              "Result": "1:46.08",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:43.91"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:43.91"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "16"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "5000M-------------",
+          "EventDescription": "Men's 5000m",
+          "EventLongDescription": "Men's 5000m",
+          "EventSortOrder": 11,
+          "ParticipantType": "INDV",
+          "Rank": 2,
+          "MedalType": "SILVER",
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM5000M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 5000m",
+              "UnitLongDescription": "Men's 5000m",
+              "UnitPrintDescription": "Men's 5000m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-08T16:00:00+01:00",
+              "Result": "6:06.48",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "6:01.98"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "6:01.98"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "1"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "EventDescription": "Men's Mass Start",
+          "EventLongDescription": "Men's Mass Start",
+          "EventSortOrder": 13,
+          "ParticipantType": "INDV",
+          "Rank": 14,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Mass Start Semifinals",
+              "UnitLongDescription": "Men's Mass Start Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-21T15:00:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------SFNL000200--",
+              "UnitNum": "SF2",
+              "UnitDescription": "Men's Mass Start Semifinal 2",
+              "UnitLongDescription": "Men's Mass Start Semifinal 2",
+              "UnitPrintDescription": "Semifinal 2",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-21T15:15:54+01:00",
+              "Result": "6",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------FNL-000100--",
+              "UnitNum": "F",
+              "UnitDescription": "Men's Mass Start Final",
+              "UnitLongDescription": "Men's Mass Start Final",
+              "UnitPrintDescription": "Final",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T16:41:22+01:00",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/43365_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/43365_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "MedalType": "GOLD",
+          "MedalDate": "2026-02-13",
+          "MedalUnitCode": "SSKM10000M------------FNL-000100--",
+          "UnitDescription": "Men's 10000m",
+          "UnitLongDescription": "Men's 10000m",
+          "UnitPrintDescription": "Men's 10000m",
+          "UnitDateTime": "2026-02-13T16:00:13+01:00"
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "MedalType": "SILVER",
+          "MedalDate": "2026-02-08",
+          "MedalUnitCode": "SSKM5000M-------------FNL-000100--",
+          "UnitDescription": "Men's 5000m",
+          "UnitLongDescription": "Men's 5000m",
+          "UnitPrintDescription": "Men's 5000m",
+          "UnitDateTime": "2026-02-08T16:00:00+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/43365"
+}

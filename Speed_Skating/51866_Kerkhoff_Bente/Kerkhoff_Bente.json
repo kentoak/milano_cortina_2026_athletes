@@ -1,0 +1,352 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "51866",
+      "GivenName": "Bente",
+      "FamilyName": "Kerkhoff",
+      "PrintName": "KERKHOFF Bente",
+      "PrintInitialName": "KERKHOFF B",
+      "TVName": "Bente KERKHOFF",
+      "TVInitialName": "B. KERKHOFF",
+      "TVFamilyName": "KERKHOFF",
+      "OrganisationCode": "NED",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2001-12-28",
+      "PlaceofBirth": "Hoorn",
+      "CountryofBirth": "NED",
+      "Age": 24,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "SSKWTEAMPU--NED01",
+          "Name": "Netherlands",
+          "ShortName": "Netherlands",
+          "TVTeamName": "Netherlands",
+          "TeamType": "ORG",
+          "OrganisationCode": "NED",
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/bentekerkhoff_/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Netherlands Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >DNS</td> <td class=\"text-start\" >Women&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >DNS</td> <td class=\"text-start\" >Women&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>3000/5000m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 11 </td> <td class=\"text-end\"> 5 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKW5000M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's 5000m",
+          "UnitLongDescription": "Women's 5000m",
+          "UnitPrintDescription": "Women's 5000m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "5000M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-12T16:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKWMS----------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Women's Mass Start Semifinals",
+          "UnitLongDescription": "Women's Mass Start Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "MS----------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-21T15:50:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKWMS----------------FNL-000100--",
+          "UnitNum": "F",
+          "UnitDescription": "Women's Mass Start Final",
+          "UnitLongDescription": "Women's Mass Start Final",
+          "UnitPrintDescription": "Final",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "MS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-21T17:15:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "3000M-------------",
+          "EventDescription": "Women's 3000m",
+          "EventLongDescription": "Women's 3000m",
+          "EventSortOrder": 4,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0,
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "3:58.83"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "3:58.83"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "11"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "5000M-------------",
+          "EventDescription": "Women's 5000m",
+          "EventLongDescription": "Women's 5000m",
+          "EventSortOrder": 5,
+          "ParticipantType": "INDV",
+          "IRM": "WDR",
+          "ResultType": "IRM",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKW5000M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's 5000m",
+              "UnitLongDescription": "Women's 5000m",
+              "UnitPrintDescription": "Women's 5000m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-12T16:30:14+01:00",
+              "IRM": "WDR",
+              "ResultType": "IRM",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "6:46.72"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "6:46.72"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "MS----------------",
+          "EventDescription": "Women's Mass Start",
+          "EventLongDescription": "Women's Mass Start",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Rank": 10,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWMS----------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Women's Mass Start Semifinals",
+              "UnitLongDescription": "Women's Mass Start Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-21T15:50:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWMS----------------SFNL000100--",
+              "UnitNum": "SF1",
+              "UnitDescription": "Women's Mass Start Semifinal 1",
+              "UnitLongDescription": "Women's Mass Start Semifinal 1",
+              "UnitPrintDescription": "Semifinal 1",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T15:50:46+01:00",
+              "Result": "2",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWMS----------------FNL-000100--",
+              "UnitNum": "F",
+              "UnitDescription": "Women's Mass Start Final",
+              "UnitLongDescription": "Women's Mass Start Final",
+              "UnitPrintDescription": "Final",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T17:15:51+01:00",
+              "Result": "3",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------",
+          "EventDescription": "Women's Team Pursuit",
+          "EventLongDescription": "Women's Team Pursuit",
+          "EventSortOrder": 7,
+          "ParticipantType": "TEAM",
+          "RankingAvailable": 0
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/51866_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/51866_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/51866"
+}

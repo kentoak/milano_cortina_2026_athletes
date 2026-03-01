@@ -1,0 +1,233 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "7876",
+      "GivenName": "Louis Philip",
+      "FamilyName": "Vito Iii",
+      "PrintName": "VITO III Louis Philip",
+      "PrintInitialName": "VITO III LP",
+      "TVName": "Louis Philip VITO III",
+      "TVInitialName": "L.P. VITO III",
+      "TVFamilyName": "VITO III",
+      "OrganisationCode": "ITA",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1988-03-20",
+      "PlaceofBirth": "Columbus",
+      "CountryofBirth": "USA",
+      "Age": 37,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "DisciplineEntry": [
+        {
+          "Type": "ENTRY",
+          "Code": "STANCE",
+          "Value": "G"
+        }
+      ],
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/louievitofanpage/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/louievito/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TIKTOK",
+          "Value": "https://www.tiktok.com/@louievito"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TWITTER",
+          "Value": "https://x.com/louievito"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2010</td> <td class=\"text-start\" > Vancouver, BC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Sierra Nevada, ESP</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Aspen, CO, USA</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Bakuriani, GEO</td> </tr> <tr> <td class=\"text-start text-end\" >DNS</td> <td class=\"text-start\" >Men&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup Standings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Snowboard Halfpipe</b></th> <th class=\"text-end\"><b>Overall Park and Pipe</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 30 </td> <td class=\"text-end\"> 57 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 19 </td> <td class=\"text-end\"> 53 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 12 </td> <td class=\"text-end\"> 28 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 15 </td> <td class=\"text-end\"> 47 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 29 </td> <td class=\"text-end\"> 88 </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> 26 </td> <td class=\"text-end\"> 73 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 35 </td> <td class=\"text-end\"> 94 </td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-end\"> 30 </td> <td class=\"text-end\"> 77 </td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> 41 </td> </tr> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-end\"> 39 </td> <td class=\"text-end\"> 76 </td> </tr> <tr> <td class=\"text-end\">2012/2013</td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> 15 </td> </tr> <tr> <td class=\"text-end\">2008/2009</td> <td class=\"text-end\"> 23 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2005/2006</td> <td class=\"text-end\"> 73 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2004/2005</td> <td class=\"text-end\"> 62 </td> <td class=\"text-end\"> </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Snowboard Halfpipe</b></th> <th class=\"text-start\"><b>Snowboard Big Air</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 16th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start\">1 x 14th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start\">1 x 5th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start\">1 x 8th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start\">1 x 16th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start\">1 x 18th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start\">1 x 10th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-start\">1 x 10th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-start\">1 x 3rd</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-start\">1 x 12th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2012/2013</td> <td class=\"text-start\">1 x 3rd</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2008/2009</td> <td class=\"text-start\">1 x 2nd</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2005/2006</td> <td class=\"text-start\">1 x 21st</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2004/2005</td> <td class=\"text-start\">1 x 26th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2002/2003</td> <td class=\"text-start\"></td> <td class=\"text-start\">1 x 48th</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 16 </td> <td class=\"text-start\" > Men&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Calgary, AB, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 20 </td> <td class=\"text-start\" > Men&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Copper, OR, USA </td> </tr> <tr> <td class=\"text-start text-end\" > 22 </td> <td class=\"text-start\" > Men&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Secret Garden, CHN </td> </tr> <tr> <td class=\"text-start text-end\" > 22 </td> <td class=\"text-start\" > Men&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Laax, SUI </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNS</b></td><td class=\"text-start\">Did Not Start</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LSP",
+          "VenueDescription": "Livigno Snow Park",
+          "VenueLongDescription": "Livigno Snow Park",
+          "LocationCode": "LHP",
+          "LocationDescription": "Livigno Snow Park-Halfpipe",
+          "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+          "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+          "EventUnitCode": "SBDMHP----------------QUAL000001--",
+          "UnitNum": "",
+          "UnitDescription": "Men's SBD HP Qualification Run 1",
+          "UnitLongDescription": "Men's Snowboard Halfpipe Qualification Run 1",
+          "UnitPrintDescription": "Qualification Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "SBD",
+          "GenderCode": "M",
+          "EventCode": "HP----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000001--",
+          "StartDate": "2026-02-11T19:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LSP",
+          "VenueDescription": "Livigno Snow Park",
+          "VenueLongDescription": "Livigno Snow Park",
+          "LocationCode": "LHP",
+          "LocationDescription": "Livigno Snow Park-Halfpipe",
+          "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+          "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+          "EventUnitCode": "SBDMHP----------------QUAL000002--",
+          "UnitNum": "",
+          "UnitDescription": "Men's SBD HP Qualification Run 2",
+          "UnitLongDescription": "Men's Snowboard Halfpipe Qualification Run 2",
+          "UnitPrintDescription": "Qualification Run 2",
+          "IsFinal": false,
+          "DisciplineCode": "SBD",
+          "GenderCode": "M",
+          "EventCode": "HP----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000002--",
+          "StartDate": "2026-02-11T20:27:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SBD",
+          "Description": "Snowboard"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SBD",
+          "DisciplineDescription": "Snowboard",
+          "GenderCode": "M",
+          "EventCode": "HP----------------",
+          "EventDescription": "Men's Snowboard Halfpipe",
+          "EventLongDescription": "Men's Snowboard Halfpipe",
+          "EventSortOrder": 7,
+          "ParticipantType": "INDV",
+          "Rank": 18,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LSP",
+              "VenueDescription": "Livigno Snow Park",
+              "VenueLongDescription": "Livigno Snow Park",
+              "LocationCode": "LHP",
+              "LocationDescription": "Livigno Snow Park-Halfpipe",
+              "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+              "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+              "EventUnitCode": "SBDMHP----------------QUAL000001--",
+              "UnitNum": "",
+              "UnitDescription": "Men's SBD HP Qualification Run 1",
+              "UnitLongDescription": "Men's Snowboard Halfpipe Qualification Run 1",
+              "UnitPrintDescription": "Qualification Run 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000001--",
+              "UnitDateTime": "2026-02-11T19:31:03+01:00",
+              "Result": "58.75",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LSP",
+              "VenueDescription": "Livigno Snow Park",
+              "VenueLongDescription": "Livigno Snow Park",
+              "LocationCode": "LHP",
+              "LocationDescription": "Livigno Snow Park-Halfpipe",
+              "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+              "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+              "EventUnitCode": "SBDMHP----------------QUAL000002--",
+              "UnitNum": "",
+              "UnitDescription": "Men's SBD HP Qualification Run 2",
+              "UnitLongDescription": "Men's Snowboard Halfpipe Qualification Run 2",
+              "UnitPrintDescription": "Qualification Run 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000002--",
+              "UnitDateTime": "2026-02-11T20:28:39+01:00",
+              "IRM": "DNI",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "SEED",
+              "Value": "41"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/7876_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/7876_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/7876"
+}

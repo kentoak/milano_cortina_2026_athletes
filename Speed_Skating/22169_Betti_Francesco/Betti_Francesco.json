@@ -1,0 +1,197 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "22169",
+      "GivenName": "Francesco",
+      "FamilyName": "Betti",
+      "PrintName": "BETTI Francesco",
+      "PrintInitialName": "BETTI F",
+      "TVName": "Francesco BETTI",
+      "TVInitialName": "F. BETTI",
+      "TVFamilyName": "BETTI",
+      "OrganisationCode": "ITA",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "2000-04-27",
+      "PlaceofBirth": "Trento",
+      "CountryofBirth": "ITA",
+      "Age": 25,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/francescoxbetti/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Winter Youth Olympic Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Lillehammer, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Lillehammer, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Lillehammer, NOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Allround</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Baselga di Pine, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Baselga di Pine, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Baselga di Pine, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Baselga di Pine, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Baselga di Pine, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Baselga di Pine, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>1000m</b></th> <th class=\"text-end\"><b>1500m</b></th> <th class=\"text-end\"><b>5000/10000m</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 45 </td> <td class=\"text-end\"> 34 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 38 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 33 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 29 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 21 </td> <td class=\"text-end\"> 39 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 48 </td> <td class=\"text-end\"> </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM1000M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 1000m",
+          "UnitLongDescription": "Men's 1000m",
+          "UnitPrintDescription": "Men's 1000m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "1000M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T18:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "1000M-------------",
+          "EventDescription": "Men's 1000m",
+          "EventLongDescription": "Men's 1000m",
+          "EventSortOrder": 9,
+          "ParticipantType": "INDV",
+          "Rank": 26,
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM1000M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 1000m",
+              "UnitLongDescription": "Men's 1000m",
+              "UnitPrintDescription": "Men's 1000m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T18:30:26+01:00",
+              "Result": "1:10.18",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:09.04"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:09.74"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Men's 1500m",
+          "EventLongDescription": "Men's 1500m",
+          "EventSortOrder": 10,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0,
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:45.11"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:45.11"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "33"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/22169_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/22169_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/22169"
+}

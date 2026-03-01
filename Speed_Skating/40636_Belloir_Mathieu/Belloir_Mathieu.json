@@ -1,0 +1,279 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "40636",
+      "GivenName": "Mathieu",
+      "FamilyName": "Belloir",
+      "PrintName": "BELLOIR Mathieu",
+      "PrintInitialName": "BELLOIR M",
+      "TVName": "Mathieu BELLOIR",
+      "TVInitialName": "M. BELLOIR",
+      "TVFamilyName": "BELLOIR",
+      "OrganisationCode": "FRA",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "2000-04-22",
+      "PlaceofBirth": "Rennes",
+      "CountryofBirth": "FRA",
+      "Age": 25,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "SSKMTEAMPU--FRA01",
+          "Name": "France",
+          "ShortName": "France",
+          "TVTeamName": "France",
+          "TeamType": "ORG",
+          "OrganisationCode": "FRA",
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/mathieu.belloir.75/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/mathieu.belloir/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s Allround</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Allround</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>1500m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 53 </td> <td class=\"text-end\"> 15 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 10 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 37 </td> <td class=\"text-end\"> 21 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 29 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 34 </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMMS----------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Mass Start Semifinals",
+          "UnitLongDescription": "Men's Mass Start Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-21T15:00:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMMS----------------FNL-000100--",
+          "UnitNum": "F",
+          "UnitDescription": "Men's Mass Start Final",
+          "UnitLongDescription": "Men's Mass Start Final",
+          "UnitPrintDescription": "Final",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-21T16:40:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Men's 1500m",
+          "EventLongDescription": "Men's 1500m",
+          "EventSortOrder": 10,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0,
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:44.91"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:45.66"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "34"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "EventDescription": "Men's Mass Start",
+          "EventLongDescription": "Men's Mass Start",
+          "EventSortOrder": 13,
+          "ParticipantType": "INDV",
+          "Rank": 7,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Mass Start Semifinals",
+              "UnitLongDescription": "Men's Mass Start Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-21T15:00:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------SFNL000100--",
+              "UnitNum": "SF1",
+              "UnitDescription": "Men's Mass Start Semifinal 1",
+              "UnitLongDescription": "Men's Mass Start Semifinal 1",
+              "UnitPrintDescription": "Semifinal 1",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T15:00:55+01:00",
+              "Result": "10",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------FNL-000100--",
+              "UnitNum": "F",
+              "UnitDescription": "Men's Mass Start Final",
+              "UnitLongDescription": "Men's Mass Start Final",
+              "UnitPrintDescription": "Final",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T16:41:22+01:00",
+              "Result": "1",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------",
+          "EventDescription": "Men's Team Pursuit",
+          "EventLongDescription": "Men's Team Pursuit",
+          "EventSortOrder": 14,
+          "ParticipantType": "TEAM",
+          "Substitute": "Y",
+          "RankingAvailable": 0
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/40636_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/40636_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/40636"
+}

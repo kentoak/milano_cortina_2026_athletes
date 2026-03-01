@@ -1,0 +1,523 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "36070",
+      "GivenName": "Hana",
+      "FamilyName": "Noake",
+      "PrintName": "NOAKE Hana",
+      "PrintInitialName": "NOAKE H",
+      "TVName": "NOAKE Hana",
+      "TVInitialName": "NOAKE H.",
+      "TVFamilyName": "NOAKE",
+      "OrganisationCode": "JPN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2004-11-28",
+      "PlaceofBirth": "Nagano",
+      "CountryofBirth": "JPN",
+      "Age": 21,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "SSKWTEAMPU--JPN01",
+          "Name": "Japan",
+          "ShortName": "Japan",
+          "TVTeamName": "Japan",
+          "TeamType": "ORG",
+          "OrganisationCode": "JPN",
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Team Sprint</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>1000m</b></th> <th class=\"text-end\"><b>1500m</b></th> <th class=\"text-end\"><b>3000/5000m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 62 </td> <td class=\"text-end\"> 43 </td> <td class=\"text-end\"> 31 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 46 </td> <td class=\"text-end\"> 35 </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKWTEAMPU------------FNL-B00100--",
+          "UnitNum": "FB",
+          "UnitDescription": "Women's Team Pursuit Final B",
+          "UnitLongDescription": "Women's Team Pursuit Final B",
+          "UnitPrintDescription": "Final B",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "B00100--",
+          "StartDate": "2026-02-17T16:41:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "BRONZE",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 2,
+                "StartCode": "2",
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "2:58.50",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--JPN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "JPN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Japan",
+                    "TVTeamName": "Japan",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "36029",
+                        "Order": 1,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Ayano",
+                          "FamilyName": "Sato",
+                          "TVName": "SATO Ayano",
+                          "TVInitialName": "SATO A.",
+                          "PrintName": "SATO Ayano",
+                          "PrintInitialName": "SATO A",
+                          "GenderCode": "F",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "1996-12-10"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36075",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Miho",
+                          "FamilyName": "Takagi",
+                          "TVName": "TAKAGI Miho",
+                          "TVInitialName": "TAKAGI M.",
+                          "PrintName": "TAKAGI Miho",
+                          "PrintInitialName": "TAKAGI M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "1994-05-22"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36070",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Hana",
+                          "FamilyName": "Noake",
+                          "TVName": "NOAKE Hana",
+                          "TVInitialName": "NOAKE H.",
+                          "PrintName": "NOAKE Hana",
+                          "PrintInitialName": "NOAKE H",
+                          "GenderCode": "F",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2004-11-28"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 1,
+                "StartCode": "1",
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:02.00",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--USA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "USA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "United States of America",
+                    "TVTeamName": "United States",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "26839",
+                        "Order": 1,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Brittany",
+                          "FamilyName": "Bowe",
+                          "TVName": "Brittany BOWE",
+                          "TVInitialName": "B. BOWE",
+                          "PrintName": "BOWE Brittany",
+                          "PrintInitialName": "BOWE B",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1988-02-24"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "26882",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Mia",
+                          "FamilyName": "Manganello",
+                          "TVName": "Mia MANGANELLO",
+                          "TVInitialName": "M. MANGANELLO",
+                          "PrintName": "MANGANELLO Mia",
+                          "PrintInitialName": "MANGANELLO M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1989-10-27"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "26859",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Greta",
+                          "FamilyName": "Myers",
+                          "TVName": "Greta MYERS",
+                          "TVInitialName": "G. MYERS",
+                          "PrintName": "MYERS Greta",
+                          "PrintInitialName": "MYERS G",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "2004-05-22"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Women's 1500m",
+          "EventLongDescription": "Women's 1500m",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0,
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:58.53"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:58.53"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "MS----------------",
+          "EventDescription": "Women's Mass Start",
+          "EventLongDescription": "Women's Mass Start",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------",
+          "EventDescription": "Women's Team Pursuit",
+          "EventLongDescription": "Women's Team Pursuit",
+          "EventSortOrder": 7,
+          "ParticipantType": "TEAM",
+          "Rank": 3,
+          "MedalType": "BRONZE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWTEAMPU------------FNL-B00100--",
+              "UnitNum": "FB",
+              "UnitDescription": "Women's Team Pursuit Final B",
+              "UnitLongDescription": "Women's Team Pursuit Final B",
+              "UnitPrintDescription": "Final B",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "B00100--",
+              "UnitDateTime": "2026-02-17T16:41:14+01:00",
+              "Result": "2:58.50",
+              "ResultType": "TIME",
+              "MedalType": "BRONZE",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "2:58.50",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--JPN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Japan",
+                        "TVTeamName": "Japan",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "36029",
+                            "Order": 1,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Ayano",
+                              "FamilyName": "Sato",
+                              "TVName": "SATO Ayano",
+                              "TVInitialName": "SATO A.",
+                              "PrintName": "SATO Ayano",
+                              "PrintInitialName": "SATO A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1996-12-10"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36075",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Miho",
+                              "FamilyName": "Takagi",
+                              "TVName": "TAKAGI Miho",
+                              "TVInitialName": "TAKAGI M.",
+                              "PrintName": "TAKAGI Miho",
+                              "PrintInitialName": "TAKAGI M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1994-05-22"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36070",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Hana",
+                              "FamilyName": "Noake",
+                              "TVName": "NOAKE Hana",
+                              "TVInitialName": "NOAKE H.",
+                              "PrintName": "NOAKE Hana",
+                              "PrintInitialName": "NOAKE H",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2004-11-28"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:02.00",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--USA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "United States of America",
+                        "TVTeamName": "United States",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "26839",
+                            "Order": 1,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Brittany",
+                              "FamilyName": "Bowe",
+                              "TVName": "Brittany BOWE",
+                              "TVInitialName": "B. BOWE",
+                              "PrintName": "BOWE Brittany",
+                              "PrintInitialName": "BOWE B",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1988-02-24"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26882",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Mia",
+                              "FamilyName": "Manganello",
+                              "TVName": "Mia MANGANELLO",
+                              "TVInitialName": "M. MANGANELLO",
+                              "PrintName": "MANGANELLO Mia",
+                              "PrintInitialName": "MANGANELLO M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1989-10-27"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26859",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Greta",
+                              "FamilyName": "Myers",
+                              "TVName": "Greta MYERS",
+                              "TVInitialName": "G. MYERS",
+                              "PrintName": "MYERS Greta",
+                              "PrintInitialName": "MYERS G",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2004-05-22"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/36070_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/36070_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "MedalType": "BRONZE",
+          "MedalDate": "2026-02-17",
+          "MedalUnitCode": "SSKWTEAMPU------------FNL-B00100--",
+          "UnitDescription": "Women's Team Pursuit Final B",
+          "UnitLongDescription": "Women's Team Pursuit Final B",
+          "UnitPrintDescription": "Final B",
+          "UnitDateTime": "2026-02-17T16:41:14+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/36070"
+}

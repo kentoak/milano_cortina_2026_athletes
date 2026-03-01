@@ -1,0 +1,200 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "39867",
+      "GivenName": "Tingyu",
+      "FamilyName": "Gao",
+      "PrintName": "GAO Tingyu",
+      "PrintInitialName": "GAO T",
+      "TVName": "GAO Tingyu",
+      "TVInitialName": "GAO T.",
+      "TVFamilyName": "GAO",
+      "OrganisationCode": "CHN",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1997-12-15",
+      "PlaceofBirth": "Heilongjiang",
+      "CountryofBirth": "CHN",
+      "Age": 28,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/gao.tingyu/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TIKTOK",
+          "Value": "https://www.tiktok.com/@gao.tingyu"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s Team Sprint</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Gangneung, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Changchun, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >56</td> <td class=\"text-start\" >Men&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Changchun, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"2\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>500m</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 18 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 22 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 17 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 20 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> 9 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 16 </td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-end\"> 20 </td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-end\"> 12 </td> </tr> <tr> <td class=\"text-end\">2015/2016</td> <td class=\"text-end\"> 35 </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM500M--------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 500m",
+          "UnitLongDescription": "Men's 500m",
+          "UnitPrintDescription": "Men's 500m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "500M--------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-14T17:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "500M--------------",
+          "EventDescription": "Men's 500m",
+          "EventLongDescription": "Men's 500m",
+          "EventSortOrder": 8,
+          "ParticipantType": "INDV",
+          "Rank": 7,
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM500M--------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 500m",
+              "UnitLongDescription": "Men's 500m",
+              "UnitPrintDescription": "Men's 500m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-14T17:00:01+01:00",
+              "Result": "34.47",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "33.83"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "33.93"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "10"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/39867_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/39867_1.mp3",
+      "Records": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "RecordCode": "SSKM500M--------------------------",
+          "RecordEventDescription": "Men's 500m",
+          "GenderCode": "M",
+          "EventCode": "500M--------------",
+          "EventDescription": "Men's 500m",
+          "EventLongDescription": "Men's 500m",
+          "EventSortOrder": 8,
+          "RecordType": "OR",
+          "TypeOrder": 2,
+          "RecordTypeDescription": "Olympic Record",
+          "ResultType": "TIME",
+          "Result": "34.32",
+          "Place": "Beijing",
+          "Date": "2022-02-12T01:00:00+01:00",
+          "Historical": "Y",
+          "Current": "N"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/39867"
+}

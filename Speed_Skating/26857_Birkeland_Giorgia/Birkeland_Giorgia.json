@@ -1,0 +1,1671 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "26857",
+      "GivenName": "Giorgia",
+      "FamilyName": "Birkeland",
+      "PrintName": "BIRKELAND Giorgia",
+      "PrintInitialName": "BIRKELAND G",
+      "TVName": "Giorgia BIRKELAND",
+      "TVInitialName": "G. BIRKELAND",
+      "TVFamilyName": "BIRKELAND",
+      "OrganisationCode": "USA",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2002-06-14",
+      "PlaceofBirth": "Scandiano",
+      "CountryofBirth": "ITA",
+      "Age": 23,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "SSKWTEAMPU--USA01",
+          "Name": "United States of America",
+          "ShortName": "United States",
+          "TVTeamName": "United States",
+          "TeamType": "ORG",
+          "OrganisationCode": "USA",
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/birkeland.giorgia/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Quebec, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Quebec, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >DNF</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Quebec, QC, CAN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >19</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tomaszow Mazowiecki, POL</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>USA Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Milwaukee, WI, USA</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women&amp;apos;s Team Pursuit</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Milwaukee, WI, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Milwaukee, WI, USA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Milwaukee, WI, USA</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Milwaukee, WI, USA</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Women&amp;apos;s 3000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >DNF</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>1500m</b></th> <th class=\"text-end\"><b>3000/5000m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 62 </td> <td class=\"text-end\"> 39 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 46 </td> <td class=\"text-end\"> 15 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 15 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKWTEAMPU------------QFNL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Team Pursuit Quarterfinals",
+          "UnitLongDescription": "Women's Team Pursuit Quarterfinals",
+          "UnitPrintDescription": "Quarterfinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------",
+          "PhaseCode": "QFNL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-14T16:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 7,
+                "StartCode": "QF4",
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "2:55.03",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--CAN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CAN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Canada",
+                    "TVTeamName": "Canada",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "43996",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Ivanie",
+                          "FamilyName": "Blondin",
+                          "TVName": "Ivanie BLONDIN",
+                          "TVInitialName": "I. BLONDIN",
+                          "PrintName": "BLONDIN Ivanie",
+                          "PrintInitialName": "BLONDIN I",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CAN",
+                          "BirthDate": "1990-04-02"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "44030",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Valerie",
+                          "FamilyName": "Maltais",
+                          "TVName": "Valerie MALTAIS",
+                          "TVInitialName": "V. MALTAIS",
+                          "PrintName": "MALTAIS Valerie",
+                          "PrintInitialName": "MALTAIS V",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CAN",
+                          "BirthDate": "1990-07-04"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "42559",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Isabelle",
+                          "FamilyName": "Weidemann",
+                          "TVName": "Isabelle WEIDEMANN",
+                          "TVInitialName": "I. WEIDEMANN",
+                          "PrintName": "WEIDEMANN Isabelle",
+                          "PrintInitialName": "WEIDEMANN I",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CAN",
+                          "BirthDate": "1995-07-18"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 4,
+                "StartCode": "QF2",
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "2:55.52",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--JPN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "JPN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Japan",
+                    "TVTeamName": "Japan",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "36069",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Momoka",
+                          "FamilyName": "Horikawa",
+                          "TVName": "HORIKAWA Momoka",
+                          "TVInitialName": "HORIKAWA M.",
+                          "PrintName": "HORIKAWA Momoka",
+                          "PrintInitialName": "HORIKAWA M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2003-07-10"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36029",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Ayano",
+                          "FamilyName": "Sato",
+                          "TVName": "SATO Ayano",
+                          "TVInitialName": "SATO A.",
+                          "PrintName": "SATO Ayano",
+                          "PrintInitialName": "SATO A",
+                          "GenderCode": "F",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "1996-12-10"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36075",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Miho",
+                          "FamilyName": "Takagi",
+                          "TVName": "TAKAGI Miho",
+                          "TVInitialName": "TAKAGI M.",
+                          "PrintName": "TAKAGI Miho",
+                          "PrintInitialName": "TAKAGI M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "1994-05-22"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 1,
+                "StartCode": "QF1",
+                "SortOrder": 3,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "2:55.65",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--NED01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "NED",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Netherlands",
+                    "TVTeamName": "Netherlands",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51780",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Joy",
+                          "FamilyName": "Beune",
+                          "TVName": "Joy BEUNE",
+                          "TVInitialName": "J. BEUNE",
+                          "PrintName": "BEUNE Joy",
+                          "PrintInitialName": "BEUNE J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "NED",
+                          "BirthDate": "1999-04-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "51774",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Marijke",
+                          "FamilyName": "Groenewoud",
+                          "TVName": "Marijke GROENEWOUD",
+                          "TVInitialName": "M. GROENEWOUD",
+                          "PrintName": "GROENEWOUD Marijke",
+                          "PrintInitialName": "GROENEWOUD M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "NED",
+                          "BirthDate": "1999-01-28"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "51793",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Antoinette",
+                          "FamilyName": "Rijpma-de Jong",
+                          "TVName": "Antoinette RIJPMA-de JONG",
+                          "TVInitialName": "A. RIJPMA-de JONG",
+                          "PrintName": "RIJPMA-de JONG Antoinette",
+                          "PrintInitialName": "RIJPMA-de JONG A",
+                          "GenderCode": "F",
+                          "OrganisationCode": "NED",
+                          "BirthDate": "1995-04-06"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 6,
+                "StartCode": "QF3",
+                "SortOrder": 4,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "2:58.32",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--USA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "USA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "United States of America",
+                    "TVTeamName": "United States",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "26857",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Giorgia",
+                          "FamilyName": "Birkeland",
+                          "TVName": "Giorgia BIRKELAND",
+                          "TVInitialName": "G. BIRKELAND",
+                          "PrintName": "BIRKELAND Giorgia",
+                          "PrintInitialName": "BIRKELAND G",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "2002-06-14"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "26839",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Brittany",
+                          "FamilyName": "Bowe",
+                          "TVName": "Brittany BOWE",
+                          "TVInitialName": "B. BOWE",
+                          "PrintName": "BOWE Brittany",
+                          "PrintInitialName": "BOWE B",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1988-02-24"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "26882",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Mia",
+                          "FamilyName": "Manganello",
+                          "TVName": "Mia MANGANELLO",
+                          "TVInitialName": "M. MANGANELLO",
+                          "PrintName": "MANGANELLO Mia",
+                          "PrintInitialName": "MANGANELLO M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1989-10-27"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 5,
+                "StartCode": "QF3",
+                "SortOrder": 5,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:00.52",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--GER01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "GER",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Germany",
+                    "TVTeamName": "Germany",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "40757",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Josie",
+                          "FamilyName": "Hofmann",
+                          "TVName": "Josie HOFMANN",
+                          "TVInitialName": "J. HOFMANN",
+                          "PrintName": "HOFMANN Josie",
+                          "PrintInitialName": "HOFMANN J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1996-12-10"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40781",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Josephine",
+                          "FamilyName": "Schloerb",
+                          "TVName": "Josephine SCHLOERB",
+                          "TVInitialName": "J. SCHLOERB",
+                          "PrintName": "SCHLOERB Josephine",
+                          "PrintInitialName": "SCHLOERB J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "2003-11-22"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40783",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Lea Sophie",
+                          "FamilyName": "Scholz",
+                          "TVName": "Lea Sophie SCHOLZ",
+                          "TVInitialName": "L.S. SCHOLZ",
+                          "PrintName": "SCHOLZ Lea Sophie",
+                          "PrintInitialName": "SCHOLZ LS",
+                          "GenderCode": "F",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1999-05-16"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 8,
+                "StartCode": "QF4",
+                "SortOrder": 6,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:01.33",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--BEL01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "BEL",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Belgium",
+                    "TVTeamName": "Belgium",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "40958",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Sandrine",
+                          "FamilyName": "Tas",
+                          "TVName": "Sandrine TAS",
+                          "TVInitialName": "S. TAS",
+                          "PrintName": "TAS Sandrine",
+                          "PrintInitialName": "TAS S",
+                          "GenderCode": "F",
+                          "OrganisationCode": "BEL",
+                          "BirthDate": "1995-09-07"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40963",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Isabelle",
+                          "FamilyName": "van Elst",
+                          "TVName": "Isabelle van ELST",
+                          "TVInitialName": "I. van ELST",
+                          "PrintName": "van ELST Isabelle",
+                          "PrintInitialName": "van ELST I",
+                          "GenderCode": "F",
+                          "OrganisationCode": "BEL",
+                          "BirthDate": "1998-03-04"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40967",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Fran",
+                          "FamilyName": "Vanhoutte",
+                          "TVName": "Fran VANHOUTTE",
+                          "TVInitialName": "F. VANHOUTTE",
+                          "PrintName": "VANHOUTTE Fran",
+                          "PrintInitialName": "VANHOUTTE F",
+                          "GenderCode": "F",
+                          "OrganisationCode": "BEL",
+                          "BirthDate": "2003-05-24"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 3,
+                "StartCode": "QF2",
+                "SortOrder": 7,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:01.42",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--CHN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CHN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "People's Republic of China",
+                    "TVTeamName": "China",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "39893",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Ahenaer",
+                          "FamilyName": "Adake",
+                          "TVName": "ADAKE Ahenaer",
+                          "TVInitialName": "ADAKE A.",
+                          "PrintName": "ADAKE Ahenaer",
+                          "PrintInitialName": "ADAKE A",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CHN",
+                          "BirthDate": "1999-06-01"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "39872",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Mei",
+                          "FamilyName": "Han",
+                          "TVName": "HAN Mei",
+                          "TVInitialName": "HAN M.",
+                          "PrintName": "HAN Mei",
+                          "PrintInitialName": "HAN M",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CHN",
+                          "BirthDate": "1998-01-27"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "39879",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Jiaxuan",
+                          "FamilyName": "Li",
+                          "TVName": "LI Jiaxuan",
+                          "TVInitialName": "LI J.",
+                          "PrintName": "LI Jiaxuan",
+                          "PrintInitialName": "LI J",
+                          "GenderCode": "F",
+                          "OrganisationCode": "CHN",
+                          "BirthDate": "2004-02-11"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": "QF1",
+                "SortOrder": 8,
+                "Result": {
+                  "Type": "IRM",
+                  "Result": null,
+                  "WLT": null,
+                  "IRM": "DNF",
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKWTEAMPU--KAZ01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "KAZ",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Kazakhstan",
+                    "TVTeamName": "Kazakhstan",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "28113",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Elizaveta",
+                          "FamilyName": "Golubeva",
+                          "TVName": "Elizaveta GOLUBEVA",
+                          "TVInitialName": "E. GOLUBEVA",
+                          "PrintName": "GOLUBEVA Elizaveta",
+                          "PrintInitialName": "GOLUBEVA E",
+                          "GenderCode": "F",
+                          "OrganisationCode": "KAZ",
+                          "BirthDate": "1996-09-19"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "28118",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Arina",
+                          "FamilyName": "Ilyachshenko",
+                          "TVName": "Arina ILYACHSHENKO",
+                          "TVInitialName": "A. ILYACHSHENKO",
+                          "PrintName": "ILYACHSHENKO Arina",
+                          "PrintInitialName": "ILYACHSHENKO A",
+                          "GenderCode": "F",
+                          "OrganisationCode": "KAZ",
+                          "BirthDate": "2004-01-19"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "28122",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Nadezhda",
+                          "FamilyName": "Morozova",
+                          "TVName": "Nadezhda MOROZOVA",
+                          "TVInitialName": "N. MOROZOVA",
+                          "PrintName": "MOROZOVA Nadezhda",
+                          "PrintInitialName": "MOROZOVA N",
+                          "GenderCode": "F",
+                          "OrganisationCode": "KAZ",
+                          "BirthDate": "1998-09-22"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKWTEAMPU------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Women's Team Pursuit Semifinals",
+          "UnitLongDescription": "Women's Team Pursuit Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-17T14:52:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Women's 1500m",
+          "EventLongDescription": "Women's 1500m",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0,
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:57.89"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:57.89"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "5000M-------------",
+          "EventDescription": "Women's 5000m",
+          "EventLongDescription": "Women's 5000m",
+          "EventSortOrder": 5,
+          "ParticipantType": "INDV",
+          "Status": "RES1",
+          "RankingAvailable": 0,
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "7:06.05"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "7:06.05"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "MS----------------",
+          "EventDescription": "Women's Mass Start",
+          "EventLongDescription": "Women's Mass Start",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "TEAMPU------------",
+          "EventDescription": "Women's Team Pursuit",
+          "EventLongDescription": "Women's Team Pursuit",
+          "EventSortOrder": 7,
+          "ParticipantType": "TEAM",
+          "Rank": 4,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWTEAMPU------------QFNL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Team Pursuit Quarterfinals",
+              "UnitLongDescription": "Women's Team Pursuit Quarterfinals",
+              "UnitPrintDescription": "Quarterfinals",
+              "IsFinal": false,
+              "PhaseCode": "QFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-14T16:00:10+01:00",
+              "Result": "2:58.32",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 7,
+                    "StartCode": "QF4",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "2:55.03",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--CAN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CAN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Canada",
+                        "TVTeamName": "Canada",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "43996",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Ivanie",
+                              "FamilyName": "Blondin",
+                              "TVName": "Ivanie BLONDIN",
+                              "TVInitialName": "I. BLONDIN",
+                              "PrintName": "BLONDIN Ivanie",
+                              "PrintInitialName": "BLONDIN I",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1990-04-02"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "44030",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Valerie",
+                              "FamilyName": "Maltais",
+                              "TVName": "Valerie MALTAIS",
+                              "TVInitialName": "V. MALTAIS",
+                              "PrintName": "MALTAIS Valerie",
+                              "PrintInitialName": "MALTAIS V",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1990-07-04"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "42559",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Isabelle",
+                              "FamilyName": "Weidemann",
+                              "TVName": "Isabelle WEIDEMANN",
+                              "TVInitialName": "I. WEIDEMANN",
+                              "PrintName": "WEIDEMANN Isabelle",
+                              "PrintInitialName": "WEIDEMANN I",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1995-07-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 4,
+                    "StartCode": "QF2",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "2:55.52",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--JPN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Japan",
+                        "TVTeamName": "Japan",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "36069",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Momoka",
+                              "FamilyName": "Horikawa",
+                              "TVName": "HORIKAWA Momoka",
+                              "TVInitialName": "HORIKAWA M.",
+                              "PrintName": "HORIKAWA Momoka",
+                              "PrintInitialName": "HORIKAWA M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2003-07-10"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36029",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Ayano",
+                              "FamilyName": "Sato",
+                              "TVName": "SATO Ayano",
+                              "TVInitialName": "SATO A.",
+                              "PrintName": "SATO Ayano",
+                              "PrintInitialName": "SATO A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1996-12-10"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36075",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Miho",
+                              "FamilyName": "Takagi",
+                              "TVName": "TAKAGI Miho",
+                              "TVInitialName": "TAKAGI M.",
+                              "PrintName": "TAKAGI Miho",
+                              "PrintInitialName": "TAKAGI M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1994-05-22"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "QF1",
+                    "SortOrder": 3,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "2:55.65",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--NED01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "NED",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Netherlands",
+                        "TVTeamName": "Netherlands",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51780",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Joy",
+                              "FamilyName": "Beune",
+                              "TVName": "Joy BEUNE",
+                              "TVInitialName": "J. BEUNE",
+                              "PrintName": "BEUNE Joy",
+                              "PrintInitialName": "BEUNE J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "NED",
+                              "BirthDate": "1999-04-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "51774",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Marijke",
+                              "FamilyName": "Groenewoud",
+                              "TVName": "Marijke GROENEWOUD",
+                              "TVInitialName": "M. GROENEWOUD",
+                              "PrintName": "GROENEWOUD Marijke",
+                              "PrintInitialName": "GROENEWOUD M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "NED",
+                              "BirthDate": "1999-01-28"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "51793",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Antoinette",
+                              "FamilyName": "Rijpma-de Jong",
+                              "TVName": "Antoinette RIJPMA-de JONG",
+                              "TVInitialName": "A. RIJPMA-de JONG",
+                              "PrintName": "RIJPMA-de JONG Antoinette",
+                              "PrintInitialName": "RIJPMA-de JONG A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "NED",
+                              "BirthDate": "1995-04-06"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 6,
+                    "StartCode": "QF3",
+                    "SortOrder": 4,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "2:58.32",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--USA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "United States of America",
+                        "TVTeamName": "United States",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "26857",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Giorgia",
+                              "FamilyName": "Birkeland",
+                              "TVName": "Giorgia BIRKELAND",
+                              "TVInitialName": "G. BIRKELAND",
+                              "PrintName": "BIRKELAND Giorgia",
+                              "PrintInitialName": "BIRKELAND G",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2002-06-14"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26839",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Brittany",
+                              "FamilyName": "Bowe",
+                              "TVName": "Brittany BOWE",
+                              "TVInitialName": "B. BOWE",
+                              "PrintName": "BOWE Brittany",
+                              "PrintInitialName": "BOWE B",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1988-02-24"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26882",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Mia",
+                              "FamilyName": "Manganello",
+                              "TVName": "Mia MANGANELLO",
+                              "TVInitialName": "M. MANGANELLO",
+                              "PrintName": "MANGANELLO Mia",
+                              "PrintInitialName": "MANGANELLO M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1989-10-27"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 5,
+                    "StartCode": "QF3",
+                    "SortOrder": 5,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:00.52",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--GER01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "GER",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Germany",
+                        "TVTeamName": "Germany",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "40757",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Josie",
+                              "FamilyName": "Hofmann",
+                              "TVName": "Josie HOFMANN",
+                              "TVInitialName": "J. HOFMANN",
+                              "PrintName": "HOFMANN Josie",
+                              "PrintInitialName": "HOFMANN J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1996-12-10"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40781",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Josephine",
+                              "FamilyName": "Schloerb",
+                              "TVName": "Josephine SCHLOERB",
+                              "TVInitialName": "J. SCHLOERB",
+                              "PrintName": "SCHLOERB Josephine",
+                              "PrintInitialName": "SCHLOERB J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "2003-11-22"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40783",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Lea Sophie",
+                              "FamilyName": "Scholz",
+                              "TVName": "Lea Sophie SCHOLZ",
+                              "TVInitialName": "L.S. SCHOLZ",
+                              "PrintName": "SCHOLZ Lea Sophie",
+                              "PrintInitialName": "SCHOLZ LS",
+                              "GenderCode": "F",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1999-05-16"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 8,
+                    "StartCode": "QF4",
+                    "SortOrder": 6,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:01.33",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--BEL01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "BEL",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Belgium",
+                        "TVTeamName": "Belgium",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "40958",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Sandrine",
+                              "FamilyName": "Tas",
+                              "TVName": "Sandrine TAS",
+                              "TVInitialName": "S. TAS",
+                              "PrintName": "TAS Sandrine",
+                              "PrintInitialName": "TAS S",
+                              "GenderCode": "F",
+                              "OrganisationCode": "BEL",
+                              "BirthDate": "1995-09-07"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40963",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Isabelle",
+                              "FamilyName": "van Elst",
+                              "TVName": "Isabelle van ELST",
+                              "TVInitialName": "I. van ELST",
+                              "PrintName": "van ELST Isabelle",
+                              "PrintInitialName": "van ELST I",
+                              "GenderCode": "F",
+                              "OrganisationCode": "BEL",
+                              "BirthDate": "1998-03-04"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40967",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Fran",
+                              "FamilyName": "Vanhoutte",
+                              "TVName": "Fran VANHOUTTE",
+                              "TVInitialName": "F. VANHOUTTE",
+                              "PrintName": "VANHOUTTE Fran",
+                              "PrintInitialName": "VANHOUTTE F",
+                              "GenderCode": "F",
+                              "OrganisationCode": "BEL",
+                              "BirthDate": "2003-05-24"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 3,
+                    "StartCode": "QF2",
+                    "SortOrder": 7,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:01.42",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--CHN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CHN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "People's Republic of China",
+                        "TVTeamName": "China",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "39893",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Ahenaer",
+                              "FamilyName": "Adake",
+                              "TVName": "ADAKE Ahenaer",
+                              "TVInitialName": "ADAKE A.",
+                              "PrintName": "ADAKE Ahenaer",
+                              "PrintInitialName": "ADAKE A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "1999-06-01"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "39872",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Mei",
+                              "FamilyName": "Han",
+                              "TVName": "HAN Mei",
+                              "TVInitialName": "HAN M.",
+                              "PrintName": "HAN Mei",
+                              "PrintInitialName": "HAN M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "1998-01-27"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "39879",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Jiaxuan",
+                              "FamilyName": "Li",
+                              "TVName": "LI Jiaxuan",
+                              "TVInitialName": "LI J.",
+                              "PrintName": "LI Jiaxuan",
+                              "PrintInitialName": "LI J",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "2004-02-11"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "QF1",
+                    "SortOrder": 8,
+                    "Result": {
+                      "Type": "IRM",
+                      "Result": null,
+                      "WLT": null,
+                      "IRM": "DNF",
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--KAZ01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "KAZ",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Kazakhstan",
+                        "TVTeamName": "Kazakhstan",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "28113",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Elizaveta",
+                              "FamilyName": "Golubeva",
+                              "TVName": "Elizaveta GOLUBEVA",
+                              "TVInitialName": "E. GOLUBEVA",
+                              "PrintName": "GOLUBEVA Elizaveta",
+                              "PrintInitialName": "GOLUBEVA E",
+                              "GenderCode": "F",
+                              "OrganisationCode": "KAZ",
+                              "BirthDate": "1996-09-19"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "28118",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Arina",
+                              "FamilyName": "Ilyachshenko",
+                              "TVName": "Arina ILYACHSHENKO",
+                              "TVInitialName": "A. ILYACHSHENKO",
+                              "PrintName": "ILYACHSHENKO Arina",
+                              "PrintInitialName": "ILYACHSHENKO A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "KAZ",
+                              "BirthDate": "2004-01-19"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "28122",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Nadezhda",
+                              "FamilyName": "Morozova",
+                              "TVName": "Nadezhda MOROZOVA",
+                              "TVInitialName": "N. MOROZOVA",
+                              "PrintName": "MOROZOVA Nadezhda",
+                              "PrintInitialName": "MOROZOVA N",
+                              "GenderCode": "F",
+                              "OrganisationCode": "KAZ",
+                              "BirthDate": "1998-09-22"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWTEAMPU------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Women's Team Pursuit Semifinals",
+              "UnitLongDescription": "Women's Team Pursuit Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-17T14:52:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKWTEAMPU------------SFNL000100--",
+              "UnitNum": "SF1",
+              "UnitDescription": "Women's Team Pursuit Semifinal 1",
+              "UnitLongDescription": "Women's Team Pursuit Semifinal 1",
+              "UnitPrintDescription": "Semifinal 1",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-17T14:52:11+01:00",
+              "Result": "3:00.14",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "2:55.92",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--CAN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CAN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Canada",
+                        "TVTeamName": "Canada",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "43996",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Ivanie",
+                              "FamilyName": "Blondin",
+                              "TVName": "Ivanie BLONDIN",
+                              "TVInitialName": "I. BLONDIN",
+                              "PrintName": "BLONDIN Ivanie",
+                              "PrintInitialName": "BLONDIN I",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1990-04-02"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "44030",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Valerie",
+                              "FamilyName": "Maltais",
+                              "TVName": "Valerie MALTAIS",
+                              "TVInitialName": "V. MALTAIS",
+                              "PrintName": "MALTAIS Valerie",
+                              "PrintInitialName": "MALTAIS V",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1990-07-04"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "42559",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Isabelle",
+                              "FamilyName": "Weidemann",
+                              "TVName": "Isabelle WEIDEMANN",
+                              "TVInitialName": "I. WEIDEMANN",
+                              "PrintName": "WEIDEMANN Isabelle",
+                              "PrintInitialName": "WEIDEMANN I",
+                              "GenderCode": "F",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1995-07-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:00.14",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKWTEAMPU--USA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "United States of America",
+                        "TVTeamName": "United States",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "26857",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Giorgia",
+                              "FamilyName": "Birkeland",
+                              "TVName": "Giorgia BIRKELAND",
+                              "TVInitialName": "G. BIRKELAND",
+                              "PrintName": "BIRKELAND Giorgia",
+                              "PrintInitialName": "BIRKELAND G",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2002-06-14"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26839",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Brittany",
+                              "FamilyName": "Bowe",
+                              "TVName": "Brittany BOWE",
+                              "TVInitialName": "B. BOWE",
+                              "PrintName": "BOWE Brittany",
+                              "PrintInitialName": "BOWE B",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1988-02-24"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26882",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Mia",
+                              "FamilyName": "Manganello",
+                              "TVName": "Mia MANGANELLO",
+                              "TVInitialName": "M. MANGANELLO",
+                              "PrintName": "MANGANELLO Mia",
+                              "PrintInitialName": "MANGANELLO M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1989-10-27"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/26857_HEADSHOT_2.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/26857_2.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/26857"
+}

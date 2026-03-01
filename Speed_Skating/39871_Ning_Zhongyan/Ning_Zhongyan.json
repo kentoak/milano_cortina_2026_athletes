@@ -1,0 +1,583 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "39871",
+      "GivenName": "Zhongyan",
+      "FamilyName": "Ning",
+      "PrintName": "NING Zhongyan",
+      "PrintInitialName": "NING Z",
+      "TVName": "NING Zhongyan",
+      "TVInitialName": "NING Z.",
+      "TVFamilyName": "NING",
+      "OrganisationCode": "CHN",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1999-11-03",
+      "PlaceofBirth": "Heilongjiang",
+      "CountryofBirth": "CHN",
+      "Age": 26,
+      "FlagBearer": 1,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "FlagbearerEvents": [
+        {
+          "Code": "CERGOPENING-----------------------",
+          "EventDescription": "Opening Ceremony",
+          "OrganisationCode": "CHN"
+        }
+      ],
+      "University": {},
+      "Teams": [
+        {
+          "Code": "SSKMTEAMPU--CHN01",
+          "Name": "People's Republic of China",
+          "ShortName": "China",
+          "TVTeamName": "China",
+          "TeamType": "ORG",
+          "OrganisationCode": "CHN",
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/zhongyanning_/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s Team Sprint</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s Team Sprint</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Team Sprint</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s Sprint</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Salt Lake City, UT, USA</td> </tr> <tr> <td class=\"text-start text-end\" >DNF</td> <td class=\"text-start\" >Men&amp;apos;s Team Sprint</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hachinohe, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>500m</b></th> <th class=\"text-end\"><b>1000m</b></th> <th class=\"text-end\"><b>1500m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 11 </td> <td class=\"text-end\"> 3 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 5 </td> <td class=\"text-end\"> 4 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 1 </td> <td class=\"text-end\"> 1 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 41 </td> <td class=\"text-end\"> 16 </td> <td class=\"text-end\"> 7 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 14 </td> <td class=\"text-end\"> 12 </td> <td class=\"text-end\"> 26 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 5 </td> <td class=\"text-end\"> 2 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 22 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 11 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM1000M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 1000m",
+          "UnitLongDescription": "Men's 1000m",
+          "UnitPrintDescription": "Men's 1000m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "1000M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T18:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMTEAMPU------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Team Pursuit Semifinals",
+          "UnitLongDescription": "Men's Team Pursuit Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-17T14:30:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM1500M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 1500m",
+          "UnitLongDescription": "Men's 1500m",
+          "UnitPrintDescription": "Men's 1500m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-19T16:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "1000M-------------",
+          "EventDescription": "Men's 1000m",
+          "EventLongDescription": "Men's 1000m",
+          "EventSortOrder": 9,
+          "ParticipantType": "INDV",
+          "Rank": 3,
+          "MedalType": "BRONZE",
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM1000M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 1000m",
+              "UnitLongDescription": "Men's 1000m",
+              "UnitPrintDescription": "Men's 1000m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T18:30:26+01:00",
+              "Result": "1:07.34",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:06.47"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:06.47"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Men's 1500m",
+          "EventLongDescription": "Men's 1500m",
+          "EventSortOrder": 10,
+          "ParticipantType": "INDV",
+          "Rank": 1,
+          "MedalType": "GOLD",
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM1500M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 1500m",
+              "UnitLongDescription": "Men's 1500m",
+              "UnitPrintDescription": "Men's 1500m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-19T16:30:15+01:00",
+              "Result": "1:41.98",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "1:41.02"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "1:41.02"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "3"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "EventDescription": "Men's Mass Start",
+          "EventLongDescription": "Men's Mass Start",
+          "EventSortOrder": 13,
+          "ParticipantType": "INDV",
+          "Substitute": "Y",
+          "RankingAvailable": 0
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------",
+          "EventDescription": "Men's Team Pursuit",
+          "EventLongDescription": "Men's Team Pursuit",
+          "EventSortOrder": 14,
+          "ParticipantType": "TEAM",
+          "Rank": 3,
+          "MedalType": "BRONZE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMTEAMPU------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Team Pursuit Semifinals",
+              "UnitLongDescription": "Men's Team Pursuit Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-17T14:30:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMTEAMPU------------SFNL000200--",
+              "UnitNum": "SF2",
+              "UnitDescription": "Men's Team Pursuit Semifinal 2",
+              "UnitLongDescription": "Men's Team Pursuit Semifinal 2",
+              "UnitPrintDescription": "Semifinal 2",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-17T14:37:10+01:00",
+              "Result": "3:52.22",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:44.29",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--USA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "United States of America",
+                        "TVTeamName": "United States",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "26854",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Ethan",
+                              "FamilyName": "Cepuran",
+                              "TVName": "Ethan CEPURAN",
+                              "TVInitialName": "E. CEPURAN",
+                              "PrintName": "CEPURAN Ethan",
+                              "PrintInitialName": "CEPURAN E",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2000-05-13"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26842",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Casey",
+                              "FamilyName": "Dawson",
+                              "TVName": "Casey DAWSON",
+                              "TVInitialName": "C. DAWSON",
+                              "PrintName": "DAWSON Casey",
+                              "PrintInitialName": "DAWSON C",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2000-08-02"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26851",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Emery",
+                              "FamilyName": "Lehman",
+                              "TVName": "Emery LEHMAN",
+                              "TVInitialName": "E. LEHMAN",
+                              "PrintName": "LEHMAN Emery",
+                              "PrintInitialName": "LEHMAN E",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1996-06-13"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:52.22",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--CHN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CHN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "People's Republic of China",
+                        "TVTeamName": "China",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "39882",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Hanbin",
+                              "FamilyName": "Liu",
+                              "TVName": "LIU Hanbin",
+                              "TVInitialName": "LIU H.",
+                              "PrintName": "LIU Hanbin",
+                              "PrintInitialName": "LIU H",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "2006-08-05"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "39871",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Zhongyan",
+                              "FamilyName": "Ning",
+                              "TVName": "NING Zhongyan",
+                              "TVInitialName": "NING Z.",
+                              "PrintName": "NING Zhongyan",
+                              "PrintInitialName": "NING Z",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "1999-11-03"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "39886",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Yu",
+                              "FamilyName": "Wu",
+                              "TVName": "WU Yu",
+                              "TVInitialName": "WU Y.",
+                              "PrintName": "WU Yu",
+                              "PrintInitialName": "WU Y",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "1997-09-20"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/39871_HEADSHOT_2.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/39871_2.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "MedalType": "GOLD",
+          "MedalDate": "2026-02-19",
+          "MedalUnitCode": "SSKM1500M-------------FNL-000100--",
+          "UnitDescription": "Men's 1500m",
+          "UnitLongDescription": "Men's 1500m",
+          "UnitPrintDescription": "Men's 1500m",
+          "UnitDateTime": "2026-02-19T16:30:15+01:00"
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "MedalType": "BRONZE",
+          "MedalDate": "2026-02-17",
+          "MedalUnitCode": "SSKMTEAMPU------------FNL-B00100--",
+          "UnitDescription": "Men's Team Pursuit Final B",
+          "UnitLongDescription": "Men's Team Pursuit Final B",
+          "UnitPrintDescription": "Final B",
+          "UnitDateTime": "2026-02-17T16:22:09+01:00"
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "MedalType": "BRONZE",
+          "MedalDate": "2026-02-11",
+          "MedalUnitCode": "SSKM1000M-------------FNL-000100--",
+          "UnitDescription": "Men's 1000m",
+          "UnitLongDescription": "Men's 1000m",
+          "UnitPrintDescription": "Men's 1000m",
+          "UnitDateTime": "2026-02-11T18:30:26+01:00"
+        }
+      ],
+      "Records": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "RecordCode": "SSKM1500M-------------------------",
+          "RecordEventDescription": "Men's 1500m",
+          "GenderCode": "M",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Men's 1500m",
+          "EventLongDescription": "Men's 1500m",
+          "EventSortOrder": 10,
+          "RecordType": "OR",
+          "TypeOrder": 2,
+          "RecordTypeDescription": "Olympic Record",
+          "ResultType": "TIME",
+          "Result": "1:41.98",
+          "Place": "Milano",
+          "Date": "2026-02-19T01:00:00+01:00",
+          "Historical": "N",
+          "Current": "Y",
+          "EventUnitCode": "SSKM1500M-------------FNL-000100--",
+          "UnitDescription": "Men's 1500m",
+          "UnitLongDescription": "Men's 1500m",
+          "UnitPrintDescription": "Men's 1500m"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/39871"
+}

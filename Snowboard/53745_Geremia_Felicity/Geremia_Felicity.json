@@ -1,0 +1,218 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "53745",
+      "GivenName": "Felicity",
+      "FamilyName": "Geremia",
+      "PrintName": "GEREMIA Felicity",
+      "PrintInitialName": "GEREMIA F",
+      "TVName": "Felicity GEREMIA",
+      "TVInitialName": "F. GEREMIA",
+      "TVFamilyName": "GEREMIA",
+      "OrganisationCode": "CAN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2007-06-04",
+      "PlaceofBirth": "Calgary",
+      "CountryofBirth": "CAN",
+      "Age": 18,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "DisciplineEntry": [
+        {
+          "Type": "ENTRY",
+          "Code": "STANCE",
+          "Value": "G"
+        }
+      ],
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/felicity_geremia/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Winter Youth Olympic Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Gangwon, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Women&amp;apos;s Snowboard Halfpipe</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup Standings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Snowboard Halfpipe</b></th> <th class=\"text-end\"><b>Overall Park and Pipe</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 13 </td> <td class=\"text-end\"> 28 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 23 </td> <td class=\"text-end\"> 52 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 19 </td> <td class=\"text-end\"> 45 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 16 </td> <td class=\"text-end\"> 44 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"2\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Snowboard Halfpipe</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 7th</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start\">1 x 14th</td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start\">1 x 13th</td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start\">1 x 7th</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Season</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 7 </td> <td class=\"text-start\" > Women&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Calgary, AB, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 12 </td> <td class=\"text-start\" > Women&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Aspen, CO, USA </td> </tr> <tr> <td class=\"text-start text-end\" > 13 </td> <td class=\"text-start\" > Women&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Secret Garden, CHN </td> </tr> <tr> <td class=\"text-start text-end\" > 16 </td> <td class=\"text-start\" > Women&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Copper, OR, USA </td> </tr> <tr> <td class=\"text-start text-end\" > 21 </td> <td class=\"text-start\" > Women&amp;apos;s Snowboard Halfpipe </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Laax, SUI </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LSP",
+          "VenueDescription": "Livigno Snow Park",
+          "VenueLongDescription": "Livigno Snow Park",
+          "LocationCode": "LHP",
+          "LocationDescription": "Livigno Snow Park-Halfpipe",
+          "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+          "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+          "EventUnitCode": "SBDWHP----------------QUAL000001--",
+          "UnitNum": "",
+          "UnitDescription": "Women's SBD HP Qualification Run 1",
+          "UnitLongDescription": "Women's Snowboard Halfpipe Qualification Run 1",
+          "UnitPrintDescription": "Qualification Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "SBD",
+          "GenderCode": "W",
+          "EventCode": "HP----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000001--",
+          "StartDate": "2026-02-11T10:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LSP",
+          "VenueDescription": "Livigno Snow Park",
+          "VenueLongDescription": "Livigno Snow Park",
+          "LocationCode": "LHP",
+          "LocationDescription": "Livigno Snow Park-Halfpipe",
+          "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+          "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+          "EventUnitCode": "SBDWHP----------------QUAL000002--",
+          "UnitNum": "",
+          "UnitDescription": "Women's SBD HP Qualification Run 2",
+          "UnitLongDescription": "Women's Snowboard Halfpipe Qualification Run 2",
+          "UnitPrintDescription": "Qualification Run 2",
+          "IsFinal": false,
+          "DisciplineCode": "SBD",
+          "GenderCode": "W",
+          "EventCode": "HP----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000002--",
+          "StartDate": "2026-02-11T11:27:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SBD",
+          "Description": "Snowboard"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SBD",
+          "DisciplineDescription": "Snowboard",
+          "GenderCode": "W",
+          "EventCode": "HP----------------",
+          "EventDescription": "Women's Snowboard Halfpipe",
+          "EventLongDescription": "Women's Snowboard Halfpipe",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Rank": 17,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LSP",
+              "VenueDescription": "Livigno Snow Park",
+              "VenueLongDescription": "Livigno Snow Park",
+              "LocationCode": "LHP",
+              "LocationDescription": "Livigno Snow Park-Halfpipe",
+              "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+              "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+              "EventUnitCode": "SBDWHP----------------QUAL000001--",
+              "UnitNum": "",
+              "UnitDescription": "Women's SBD HP Qualification Run 1",
+              "UnitLongDescription": "Women's Snowboard Halfpipe Qualification Run 1",
+              "UnitPrintDescription": "Qualification Run 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000001--",
+              "UnitDateTime": "2026-02-11T10:31:23+01:00",
+              "Result": "44.00",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LSP",
+              "VenueDescription": "Livigno Snow Park",
+              "VenueLongDescription": "Livigno Snow Park",
+              "LocationCode": "LHP",
+              "LocationDescription": "Livigno Snow Park-Halfpipe",
+              "LocationLongDescription": "Livigno Snow Park-Halfpipe",
+              "LocationShortDescription": "Livigno Snow Park-Halfpipe",
+              "EventUnitCode": "SBDWHP----------------QUAL000002--",
+              "UnitNum": "",
+              "UnitDescription": "Women's SBD HP Qualification Run 2",
+              "UnitLongDescription": "Women's Snowboard Halfpipe Qualification Run 2",
+              "UnitPrintDescription": "Qualification Run 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000002--",
+              "UnitDateTime": "2026-02-11T11:28:13+01:00",
+              "IRM": "DNI",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "SEED",
+              "Value": "16"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/53745_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/53745_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/53745"
+}

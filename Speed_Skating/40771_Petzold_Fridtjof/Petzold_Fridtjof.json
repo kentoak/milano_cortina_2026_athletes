@@ -1,0 +1,1913 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "40771",
+      "GivenName": "Fridtjof",
+      "FamilyName": "Petzold",
+      "PrintName": "PETZOLD Fridtjof",
+      "PrintInitialName": "PETZOLD F",
+      "TVName": "Fridtjof PETZOLD",
+      "TVInitialName": "F. PETZOLD",
+      "TVFamilyName": "PETZOLD",
+      "OrganisationCode": "GER",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1997-04-09",
+      "PlaceofBirth": "Werdau",
+      "CountryofBirth": "GER",
+      "Age": 28,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "SSKMTEAMPU--GER01",
+          "Name": "Germany",
+          "ShortName": "Germany",
+          "TVTeamName": "Germany",
+          "TeamType": "ORG",
+          "OrganisationCode": "GER",
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/fridtjof.petzold/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Hamar, NOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s Allround</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Heerenveen, NED</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Germany Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Erfurt, GER</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Erfurt, GER</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >DNF</td> <td class=\"text-start\" >Men&amp;apos;s 10000m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >DSQ</td> <td class=\"text-start\" >Men&amp;apos;s 5000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >DSQ</td> <td class=\"text-start\" >Men&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Inzell, GER</td> </tr> <tr> <td class=\"text-start text-end\" >WD</td> <td class=\"text-start\" >Men&amp;apos;s Mass Start</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Inzell, GER</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>ISU World Cup</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>5000/10000m</b></th> <th class=\"text-end\"><b>Mass Start</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 10 </td> <td class=\"text-end\"> 13 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 25 </td> <td class=\"text-end\"> 9 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> 22 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 32 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 44 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> 33 </td> <td class=\"text-end\"> 31 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DNF</b></td><td class=\"text-start\">Did Not Finish</td></tr><tr><td class=\"text-start\"><b>DSQ</b></td><td class=\"text-start\">Disqualified</td></tr><tr><td class=\"text-start\"><b>WD</b></td><td class=\"text-start\">Withdrawn</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKM5000M-------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's 5000m",
+          "UnitLongDescription": "Men's 5000m",
+          "UnitPrintDescription": "Men's 5000m",
+          "IsFinal": true,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "5000M-------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-08T16:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMTEAMPU------------QFNL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Team Pursuit Quarterfinals",
+          "UnitLongDescription": "Men's Team Pursuit Quarterfinals",
+          "UnitPrintDescription": "Quarterfinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------",
+          "PhaseCode": "QFNL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-15T16:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 4,
+                "StartCode": "QF2",
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:38.40",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--ITA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "ITA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Italy",
+                    "TVTeamName": "Italy",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "22174",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Davide",
+                          "FamilyName": "Ghiotto",
+                          "TVName": "Davide GHIOTTO",
+                          "TVInitialName": "D. GHIOTTO",
+                          "PrintName": "GHIOTTO Davide",
+                          "PrintInitialName": "GHIOTTO D",
+                          "GenderCode": "M",
+                          "OrganisationCode": "ITA",
+                          "BirthDate": "1993-12-03"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "22173",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Andrea",
+                          "FamilyName": "Giovannini",
+                          "TVName": "Andrea GIOVANNINI",
+                          "TVInitialName": "A. GIOVANNINI",
+                          "PrintName": "GIOVANNINI Andrea",
+                          "PrintInitialName": "GIOVANNINI A",
+                          "GenderCode": "M",
+                          "OrganisationCode": "ITA",
+                          "BirthDate": "1993-08-27"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "22175",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Michele",
+                          "FamilyName": "Malfatti",
+                          "TVName": "Michele MALFATTI",
+                          "TVInitialName": "M. MALFATTI",
+                          "PrintName": "MALFATTI Michele",
+                          "PrintInitialName": "MALFATTI M",
+                          "GenderCode": "M",
+                          "OrganisationCode": "ITA",
+                          "BirthDate": "1994-12-31"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 3,
+                "StartCode": "QF2",
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:39.37",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--USA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "USA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "United States of America",
+                    "TVTeamName": "United States",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "26854",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Ethan",
+                          "FamilyName": "Cepuran",
+                          "TVName": "Ethan CEPURAN",
+                          "TVInitialName": "E. CEPURAN",
+                          "PrintName": "CEPURAN Ethan",
+                          "PrintInitialName": "CEPURAN E",
+                          "GenderCode": "M",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "2000-05-13"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "26842",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Casey",
+                          "FamilyName": "Dawson",
+                          "TVName": "Casey DAWSON",
+                          "TVInitialName": "C. DAWSON",
+                          "PrintName": "DAWSON Casey",
+                          "PrintInitialName": "DAWSON C",
+                          "GenderCode": "M",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "2000-08-02"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "26851",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Emery",
+                          "FamilyName": "Lehman",
+                          "TVName": "Emery LEHMAN",
+                          "TVInitialName": "E. LEHMAN",
+                          "PrintName": "LEHMAN Emery",
+                          "PrintInitialName": "LEHMAN E",
+                          "GenderCode": "M",
+                          "OrganisationCode": "USA",
+                          "BirthDate": "1996-06-13"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 6,
+                "StartCode": "QF3",
+                "SortOrder": 3,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:41.66",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--CHN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "CHN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "People's Republic of China",
+                    "TVTeamName": "China",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "39882",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Hanbin",
+                          "FamilyName": "Liu",
+                          "TVName": "LIU Hanbin",
+                          "TVInitialName": "LIU H.",
+                          "PrintName": "LIU Hanbin",
+                          "PrintInitialName": "LIU H",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CHN",
+                          "BirthDate": "2006-08-05"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "39886",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Yu",
+                          "FamilyName": "Wu",
+                          "TVName": "WU Yu",
+                          "TVInitialName": "WU Y.",
+                          "PrintName": "WU Yu",
+                          "PrintInitialName": "WU Y",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CHN",
+                          "BirthDate": "1997-09-20"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "39894",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Wenhao",
+                          "FamilyName": "Li",
+                          "TVName": "LI Wenhao",
+                          "TVInitialName": "LI W.",
+                          "PrintName": "LI Wenhao",
+                          "PrintInitialName": "LI W",
+                          "GenderCode": "M",
+                          "OrganisationCode": "CHN",
+                          "BirthDate": "2004-09-10"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 7,
+                "StartCode": "QF4",
+                "SortOrder": 4,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:41.85",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--NED01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "NED",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Netherlands",
+                    "TVTeamName": "Netherlands",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "51783",
+                        "Order": 1,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Marcel",
+                          "FamilyName": "Bosker",
+                          "TVName": "Marcel BOSKER",
+                          "TVInitialName": "M. BOSKER",
+                          "PrintName": "BOSKER Marcel",
+                          "PrintInitialName": "BOSKER M",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NED",
+                          "BirthDate": "1997-01-19"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "51775",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Chris",
+                          "FamilyName": "Huizinga",
+                          "TVName": "Chris HUIZINGA",
+                          "TVInitialName": "C. HUIZINGA",
+                          "PrintName": "HUIZINGA Chris",
+                          "PrintInitialName": "HUIZINGA C",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NED",
+                          "BirthDate": "1997-08-11"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "51753",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Stijn",
+                          "FamilyName": "van de Bunt",
+                          "TVName": "Stijn van de BUNT",
+                          "TVInitialName": "S. van de BUNT",
+                          "PrintName": "van de BUNT Stijn",
+                          "PrintInitialName": "van de BUNT S",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NED",
+                          "BirthDate": "2004-04-06"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 8,
+                "StartCode": "QF4",
+                "SortOrder": 5,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:42.70",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--FRA01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "FRA",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "France",
+                    "TVTeamName": "France",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "40638",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Germain",
+                          "FamilyName": "Deschamps",
+                          "TVName": "Germain DESCHAMPS",
+                          "TVInitialName": "G. DESCHAMPS",
+                          "PrintName": "DESCHAMPS Germain",
+                          "PrintInitialName": "DESCHAMPS G",
+                          "GenderCode": "M",
+                          "OrganisationCode": "FRA",
+                          "BirthDate": "2002-08-24"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40635",
+                        "Order": 2,
+                        "Bib": "2",
+                        "Description": {
+                          "GivenName": "Timothy",
+                          "FamilyName": "Loubineaud",
+                          "TVName": "Timothy LOUBINEAUD",
+                          "TVInitialName": "T. LOUBINEAUD",
+                          "PrintName": "LOUBINEAUD Timothy",
+                          "PrintInitialName": "LOUBINEAUD T",
+                          "GenderCode": "M",
+                          "OrganisationCode": "FRA",
+                          "BirthDate": "1996-06-05"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40637",
+                        "Order": 3,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Valentin",
+                          "FamilyName": "Thiebault",
+                          "TVName": "Valentin THIEBAULT",
+                          "TVInitialName": "V. THIEBAULT",
+                          "PrintName": "THIEBAULT Valentin",
+                          "PrintInitialName": "THIEBAULT V",
+                          "GenderCode": "M",
+                          "OrganisationCode": "FRA",
+                          "BirthDate": "1998-07-19"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 5,
+                "StartCode": "QF3",
+                "SortOrder": 6,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:44.36",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--NOR01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "NOR",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Norway",
+                    "TVTeamName": "Norway",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "145516",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Sigurd Holbo",
+                          "FamilyName": "Dyrset",
+                          "TVName": "Sigurd Holbo DYRSET",
+                          "TVInitialName": "S.H. DYRSET",
+                          "PrintName": "DYRSET Sigurd Holbo",
+                          "PrintInitialName": "DYRSET SH",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NOR",
+                          "BirthDate": "2004-04-21"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "42376",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Peder",
+                          "FamilyName": "Kongshaug",
+                          "TVName": "Peder KONGSHAUG",
+                          "TVInitialName": "P. KONGSHAUG",
+                          "PrintName": "KONGSHAUG Peder",
+                          "PrintInitialName": "KONGSHAUG P",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NOR",
+                          "BirthDate": "2001-08-13"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "42374",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Didrik Eng",
+                          "FamilyName": "Strand",
+                          "TVName": "Didrik Eng STRAND",
+                          "TVInitialName": "D.E. STRAND",
+                          "PrintName": "STRAND Didrik Eng",
+                          "PrintInitialName": "STRAND DE",
+                          "GenderCode": "M",
+                          "OrganisationCode": "NOR",
+                          "BirthDate": "2005-09-13"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 2,
+                "StartCode": "QF1",
+                "SortOrder": 7,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:45.28",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--GER01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "GER",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Germany",
+                    "TVTeamName": "Germany",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "40741",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Patrick",
+                          "FamilyName": "Beckert",
+                          "TVName": "Patrick BECKERT",
+                          "TVInitialName": "P. BECKERT",
+                          "PrintName": "BECKERT Patrick",
+                          "PrintInitialName": "BECKERT P",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1990-04-17"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40765",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Felix",
+                          "FamilyName": "Maly",
+                          "TVName": "Felix MALY",
+                          "TVInitialName": "F. MALY",
+                          "PrintName": "MALY Felix",
+                          "PrintInitialName": "MALY F",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1994-05-03"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40771",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Fridtjof",
+                          "FamilyName": "Petzold",
+                          "TVName": "Fridtjof PETZOLD",
+                          "TVInitialName": "F. PETZOLD",
+                          "PrintName": "PETZOLD Fridtjof",
+                          "PrintInitialName": "PETZOLD F",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1997-04-09"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 1,
+                "StartCode": "QF1",
+                "SortOrder": 8,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:48.14",
+                  "WLT": null,
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--JPN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "JPN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Japan",
+                    "TVTeamName": "Japan",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "36017",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Motonaga",
+                          "FamilyName": "Arito",
+                          "TVName": "ARITO Motonaga",
+                          "TVInitialName": "ARITO M.",
+                          "PrintName": "ARITO Motonaga",
+                          "PrintInitialName": "ARITO M",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2002-03-18"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36028",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Shomu",
+                          "FamilyName": "Sasaki",
+                          "TVName": "SASAKI Shomu",
+                          "TVInitialName": "SASAKI S.",
+                          "PrintName": "SASAKI Shomu",
+                          "PrintInitialName": "SASAKI S",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2006-02-11"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36036",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Kazuya",
+                          "FamilyName": "Yamada",
+                          "TVName": "YAMADA Kazuya",
+                          "TVInitialName": "YAMADA K.",
+                          "PrintName": "YAMADA Kazuya",
+                          "PrintInitialName": "YAMADA K",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2001-09-27"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMTEAMPU------------FNL-D00100--",
+          "UnitNum": "FD",
+          "UnitDescription": "Men's Team Pursuit Final D",
+          "UnitLongDescription": "Men's Team Pursuit Final D",
+          "UnitPrintDescription": "Final D",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "D00100--",
+          "StartDate": "2026-02-17T15:24:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 2,
+                "StartCode": "2",
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:45.25",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--GER01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "GER",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Germany",
+                    "TVTeamName": "Germany",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "40741",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Patrick",
+                          "FamilyName": "Beckert",
+                          "TVName": "Patrick BECKERT",
+                          "TVInitialName": "P. BECKERT",
+                          "PrintName": "BECKERT Patrick",
+                          "PrintInitialName": "BECKERT P",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1990-04-17"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40765",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Felix",
+                          "FamilyName": "Maly",
+                          "TVName": "Felix MALY",
+                          "TVInitialName": "F. MALY",
+                          "PrintName": "MALY Felix",
+                          "PrintInitialName": "MALY F",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1994-05-03"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "40771",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Fridtjof",
+                          "FamilyName": "Petzold",
+                          "TVName": "Fridtjof PETZOLD",
+                          "TVInitialName": "F. PETZOLD",
+                          "PrintName": "PETZOLD Fridtjof",
+                          "PrintInitialName": "PETZOLD F",
+                          "GenderCode": "M",
+                          "OrganisationCode": "GER",
+                          "BirthDate": "1997-04-09"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 1,
+                "StartCode": "1",
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "TIME",
+                  "Result": "3:47.39",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "SSKMTEAMPU--JPN01",
+                  "CompetitorType": "T",
+                  "OrganisationCode": "JPN",
+                  "Bib": null,
+                  "Description": {
+                    "TeamName": "Japan",
+                    "TVTeamName": "Japan",
+                    "TeamType": "ORG"
+                  },
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "36017",
+                        "Order": 1,
+                        "Bib": "1",
+                        "Description": {
+                          "GivenName": "Motonaga",
+                          "FamilyName": "Arito",
+                          "TVName": "ARITO Motonaga",
+                          "TVInitialName": "ARITO M.",
+                          "PrintName": "ARITO Motonaga",
+                          "PrintInitialName": "ARITO M",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2002-03-18"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36028",
+                        "Order": 2,
+                        "Bib": "3",
+                        "Description": {
+                          "GivenName": "Shomu",
+                          "FamilyName": "Sasaki",
+                          "TVName": "SASAKI Shomu",
+                          "TVInitialName": "SASAKI S.",
+                          "PrintName": "SASAKI Shomu",
+                          "PrintInitialName": "SASAKI S",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2006-02-11"
+                        }
+                      },
+                      {
+                        "CompetitorCode": "36036",
+                        "Order": 3,
+                        "Bib": "4",
+                        "Description": {
+                          "GivenName": "Kazuya",
+                          "FamilyName": "Yamada",
+                          "TVName": "YAMADA Kazuya",
+                          "TVInitialName": "YAMADA K.",
+                          "PrintName": "YAMADA Kazuya",
+                          "PrintInitialName": "YAMADA K",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "2001-09-27"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "VenueCode": "MSS",
+          "VenueDescription": "Milano Speed Skating",
+          "VenueLongDescription": "Milano Speed Skating Stadium",
+          "LocationCode": "MSS",
+          "LocationDescription": "Milano Speed Skating Stadium",
+          "LocationLongDescription": "Milano Speed Skating Stadium",
+          "LocationShortDescription": "Milano Speed Skating Stadium",
+          "EventUnitCode": "SSKMMS----------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Mass Start Semifinals",
+          "UnitLongDescription": "Men's Mass Start Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "SSK",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-21T15:00:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "SSK",
+          "Description": "Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "5000M-------------",
+          "EventDescription": "Men's 5000m",
+          "EventLongDescription": "Men's 5000m",
+          "EventSortOrder": 11,
+          "ParticipantType": "INDV",
+          "Rank": 19,
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKM5000M-------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's 5000m",
+              "UnitLongDescription": "Men's 5000m",
+              "UnitPrintDescription": "Men's 5000m",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-08T16:00:00+01:00",
+              "Result": "6:27.56",
+              "ResultType": "TIME",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "ENTRY",
+              "Code": "PB",
+              "Value": "6:08.75"
+            },
+            {
+              "Type": "ENTRY",
+              "Code": "SB",
+              "Value": "6:08.75"
+            },
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "13"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "MS----------------",
+          "EventDescription": "Men's Mass Start",
+          "EventLongDescription": "Men's Mass Start",
+          "EventSortOrder": 13,
+          "ParticipantType": "INDV",
+          "Rank": 28,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Mass Start Semifinals",
+              "UnitLongDescription": "Men's Mass Start Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-21T15:00:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMMS----------------SFNL000200--",
+              "UnitNum": "SF2",
+              "UnitDescription": "Men's Mass Start Semifinal 2",
+              "UnitLongDescription": "Men's Mass Start Semifinal 2",
+              "UnitPrintDescription": "Semifinal 2",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-21T15:15:54+01:00",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "SSK",
+          "DisciplineDescription": "Speed Skating",
+          "GenderCode": "M",
+          "EventCode": "TEAMPU------------",
+          "EventDescription": "Men's Team Pursuit",
+          "EventLongDescription": "Men's Team Pursuit",
+          "EventSortOrder": 14,
+          "ParticipantType": "TEAM",
+          "Rank": 7,
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMTEAMPU------------QFNL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Team Pursuit Quarterfinals",
+              "UnitLongDescription": "Men's Team Pursuit Quarterfinals",
+              "UnitPrintDescription": "Quarterfinals",
+              "IsFinal": false,
+              "PhaseCode": "QFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T16:00:18+01:00",
+              "Result": "3:45.28",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 4,
+                    "StartCode": "QF2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:38.40",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--ITA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "ITA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Italy",
+                        "TVTeamName": "Italy",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "22174",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Davide",
+                              "FamilyName": "Ghiotto",
+                              "TVName": "Davide GHIOTTO",
+                              "TVInitialName": "D. GHIOTTO",
+                              "PrintName": "GHIOTTO Davide",
+                              "PrintInitialName": "GHIOTTO D",
+                              "GenderCode": "M",
+                              "OrganisationCode": "ITA",
+                              "BirthDate": "1993-12-03"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "22173",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Andrea",
+                              "FamilyName": "Giovannini",
+                              "TVName": "Andrea GIOVANNINI",
+                              "TVInitialName": "A. GIOVANNINI",
+                              "PrintName": "GIOVANNINI Andrea",
+                              "PrintInitialName": "GIOVANNINI A",
+                              "GenderCode": "M",
+                              "OrganisationCode": "ITA",
+                              "BirthDate": "1993-08-27"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "22175",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Michele",
+                              "FamilyName": "Malfatti",
+                              "TVName": "Michele MALFATTI",
+                              "TVInitialName": "M. MALFATTI",
+                              "PrintName": "MALFATTI Michele",
+                              "PrintInitialName": "MALFATTI M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "ITA",
+                              "BirthDate": "1994-12-31"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 3,
+                    "StartCode": "QF2",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:39.37",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--USA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "United States of America",
+                        "TVTeamName": "United States",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "26854",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Ethan",
+                              "FamilyName": "Cepuran",
+                              "TVName": "Ethan CEPURAN",
+                              "TVInitialName": "E. CEPURAN",
+                              "PrintName": "CEPURAN Ethan",
+                              "PrintInitialName": "CEPURAN E",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2000-05-13"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26842",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Casey",
+                              "FamilyName": "Dawson",
+                              "TVName": "Casey DAWSON",
+                              "TVInitialName": "C. DAWSON",
+                              "PrintName": "DAWSON Casey",
+                              "PrintInitialName": "DAWSON C",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2000-08-02"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "26851",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Emery",
+                              "FamilyName": "Lehman",
+                              "TVName": "Emery LEHMAN",
+                              "TVInitialName": "E. LEHMAN",
+                              "PrintName": "LEHMAN Emery",
+                              "PrintInitialName": "LEHMAN E",
+                              "GenderCode": "M",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "1996-06-13"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 6,
+                    "StartCode": "QF3",
+                    "SortOrder": 3,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:41.66",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--CHN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "CHN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "People's Republic of China",
+                        "TVTeamName": "China",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "39882",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Hanbin",
+                              "FamilyName": "Liu",
+                              "TVName": "LIU Hanbin",
+                              "TVInitialName": "LIU H.",
+                              "PrintName": "LIU Hanbin",
+                              "PrintInitialName": "LIU H",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "2006-08-05"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "39886",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Yu",
+                              "FamilyName": "Wu",
+                              "TVName": "WU Yu",
+                              "TVInitialName": "WU Y.",
+                              "PrintName": "WU Yu",
+                              "PrintInitialName": "WU Y",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "1997-09-20"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "39894",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Wenhao",
+                              "FamilyName": "Li",
+                              "TVName": "LI Wenhao",
+                              "TVInitialName": "LI W.",
+                              "PrintName": "LI Wenhao",
+                              "PrintInitialName": "LI W",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CHN",
+                              "BirthDate": "2004-09-10"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 7,
+                    "StartCode": "QF4",
+                    "SortOrder": 4,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:41.85",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--NED01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "NED",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Netherlands",
+                        "TVTeamName": "Netherlands",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "51783",
+                            "Order": 1,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Marcel",
+                              "FamilyName": "Bosker",
+                              "TVName": "Marcel BOSKER",
+                              "TVInitialName": "M. BOSKER",
+                              "PrintName": "BOSKER Marcel",
+                              "PrintInitialName": "BOSKER M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NED",
+                              "BirthDate": "1997-01-19"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "51775",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Chris",
+                              "FamilyName": "Huizinga",
+                              "TVName": "Chris HUIZINGA",
+                              "TVInitialName": "C. HUIZINGA",
+                              "PrintName": "HUIZINGA Chris",
+                              "PrintInitialName": "HUIZINGA C",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NED",
+                              "BirthDate": "1997-08-11"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "51753",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Stijn",
+                              "FamilyName": "van de Bunt",
+                              "TVName": "Stijn van de BUNT",
+                              "TVInitialName": "S. van de BUNT",
+                              "PrintName": "van de BUNT Stijn",
+                              "PrintInitialName": "van de BUNT S",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NED",
+                              "BirthDate": "2004-04-06"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 8,
+                    "StartCode": "QF4",
+                    "SortOrder": 5,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:42.70",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--FRA01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "FRA",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "France",
+                        "TVTeamName": "France",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "40638",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Germain",
+                              "FamilyName": "Deschamps",
+                              "TVName": "Germain DESCHAMPS",
+                              "TVInitialName": "G. DESCHAMPS",
+                              "PrintName": "DESCHAMPS Germain",
+                              "PrintInitialName": "DESCHAMPS G",
+                              "GenderCode": "M",
+                              "OrganisationCode": "FRA",
+                              "BirthDate": "2002-08-24"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40635",
+                            "Order": 2,
+                            "Bib": "2",
+                            "Description": {
+                              "GivenName": "Timothy",
+                              "FamilyName": "Loubineaud",
+                              "TVName": "Timothy LOUBINEAUD",
+                              "TVInitialName": "T. LOUBINEAUD",
+                              "PrintName": "LOUBINEAUD Timothy",
+                              "PrintInitialName": "LOUBINEAUD T",
+                              "GenderCode": "M",
+                              "OrganisationCode": "FRA",
+                              "BirthDate": "1996-06-05"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40637",
+                            "Order": 3,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Valentin",
+                              "FamilyName": "Thiebault",
+                              "TVName": "Valentin THIEBAULT",
+                              "TVInitialName": "V. THIEBAULT",
+                              "PrintName": "THIEBAULT Valentin",
+                              "PrintInitialName": "THIEBAULT V",
+                              "GenderCode": "M",
+                              "OrganisationCode": "FRA",
+                              "BirthDate": "1998-07-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 5,
+                    "StartCode": "QF3",
+                    "SortOrder": 6,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:44.36",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--NOR01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "NOR",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Norway",
+                        "TVTeamName": "Norway",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "145516",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Sigurd Holbo",
+                              "FamilyName": "Dyrset",
+                              "TVName": "Sigurd Holbo DYRSET",
+                              "TVInitialName": "S.H. DYRSET",
+                              "PrintName": "DYRSET Sigurd Holbo",
+                              "PrintInitialName": "DYRSET SH",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NOR",
+                              "BirthDate": "2004-04-21"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "42376",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Peder",
+                              "FamilyName": "Kongshaug",
+                              "TVName": "Peder KONGSHAUG",
+                              "TVInitialName": "P. KONGSHAUG",
+                              "PrintName": "KONGSHAUG Peder",
+                              "PrintInitialName": "KONGSHAUG P",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NOR",
+                              "BirthDate": "2001-08-13"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "42374",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Didrik Eng",
+                              "FamilyName": "Strand",
+                              "TVName": "Didrik Eng STRAND",
+                              "TVInitialName": "D.E. STRAND",
+                              "PrintName": "STRAND Didrik Eng",
+                              "PrintInitialName": "STRAND DE",
+                              "GenderCode": "M",
+                              "OrganisationCode": "NOR",
+                              "BirthDate": "2005-09-13"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "QF1",
+                    "SortOrder": 7,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:45.28",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--GER01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "GER",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Germany",
+                        "TVTeamName": "Germany",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "40741",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Patrick",
+                              "FamilyName": "Beckert",
+                              "TVName": "Patrick BECKERT",
+                              "TVInitialName": "P. BECKERT",
+                              "PrintName": "BECKERT Patrick",
+                              "PrintInitialName": "BECKERT P",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1990-04-17"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40765",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Felix",
+                              "FamilyName": "Maly",
+                              "TVName": "Felix MALY",
+                              "TVInitialName": "F. MALY",
+                              "PrintName": "MALY Felix",
+                              "PrintInitialName": "MALY F",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1994-05-03"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40771",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Fridtjof",
+                              "FamilyName": "Petzold",
+                              "TVName": "Fridtjof PETZOLD",
+                              "TVInitialName": "F. PETZOLD",
+                              "PrintName": "PETZOLD Fridtjof",
+                              "PrintInitialName": "PETZOLD F",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1997-04-09"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "QF1",
+                    "SortOrder": 8,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:48.14",
+                      "WLT": null,
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--JPN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Japan",
+                        "TVTeamName": "Japan",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "36017",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Motonaga",
+                              "FamilyName": "Arito",
+                              "TVName": "ARITO Motonaga",
+                              "TVInitialName": "ARITO M.",
+                              "PrintName": "ARITO Motonaga",
+                              "PrintInitialName": "ARITO M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2002-03-18"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36028",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Shomu",
+                              "FamilyName": "Sasaki",
+                              "TVName": "SASAKI Shomu",
+                              "TVInitialName": "SASAKI S.",
+                              "PrintName": "SASAKI Shomu",
+                              "PrintInitialName": "SASAKI S",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2006-02-11"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36036",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Kazuya",
+                              "FamilyName": "Yamada",
+                              "TVName": "YAMADA Kazuya",
+                              "TVInitialName": "YAMADA K.",
+                              "PrintName": "YAMADA Kazuya",
+                              "PrintInitialName": "YAMADA K",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2001-09-27"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "MSS",
+              "VenueDescription": "Milano Speed Skating",
+              "VenueLongDescription": "Milano Speed Skating Stadium",
+              "LocationCode": "MSS",
+              "LocationDescription": "Milano Speed Skating Stadium",
+              "LocationLongDescription": "Milano Speed Skating Stadium",
+              "LocationShortDescription": "Milano Speed Skating Stadium",
+              "EventUnitCode": "SSKMTEAMPU------------FNL-D00100--",
+              "UnitNum": "FD",
+              "UnitDescription": "Men's Team Pursuit Final D",
+              "UnitLongDescription": "Men's Team Pursuit Final D",
+              "UnitPrintDescription": "Final D",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "D00100--",
+              "UnitDateTime": "2026-02-17T15:24:47+01:00",
+              "Result": "3:45.25",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:45.25",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--GER01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "GER",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Germany",
+                        "TVTeamName": "Germany",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "40741",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Patrick",
+                              "FamilyName": "Beckert",
+                              "TVName": "Patrick BECKERT",
+                              "TVInitialName": "P. BECKERT",
+                              "PrintName": "BECKERT Patrick",
+                              "PrintInitialName": "BECKERT P",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1990-04-17"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40765",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Felix",
+                              "FamilyName": "Maly",
+                              "TVName": "Felix MALY",
+                              "TVInitialName": "F. MALY",
+                              "PrintName": "MALY Felix",
+                              "PrintInitialName": "MALY F",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1994-05-03"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "40771",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Fridtjof",
+                              "FamilyName": "Petzold",
+                              "TVName": "Fridtjof PETZOLD",
+                              "TVInitialName": "F. PETZOLD",
+                              "PrintName": "PETZOLD Fridtjof",
+                              "PrintInitialName": "PETZOLD F",
+                              "GenderCode": "M",
+                              "OrganisationCode": "GER",
+                              "BirthDate": "1997-04-09"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "TIME",
+                      "Result": "3:47.39",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "SSKMTEAMPU--JPN01",
+                      "CompetitorType": "T",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {
+                        "TeamName": "Japan",
+                        "TVTeamName": "Japan",
+                        "TeamType": "ORG"
+                      },
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "36017",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Motonaga",
+                              "FamilyName": "Arito",
+                              "TVName": "ARITO Motonaga",
+                              "TVInitialName": "ARITO M.",
+                              "PrintName": "ARITO Motonaga",
+                              "PrintInitialName": "ARITO M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2002-03-18"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36028",
+                            "Order": 2,
+                            "Bib": "3",
+                            "Description": {
+                              "GivenName": "Shomu",
+                              "FamilyName": "Sasaki",
+                              "TVName": "SASAKI Shomu",
+                              "TVInitialName": "SASAKI S.",
+                              "PrintName": "SASAKI Shomu",
+                              "PrintInitialName": "SASAKI S",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2006-02-11"
+                            }
+                          },
+                          {
+                            "CompetitorCode": "36036",
+                            "Order": 3,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Kazuya",
+                              "FamilyName": "Yamada",
+                              "TVName": "YAMADA Kazuya",
+                              "TVInitialName": "YAMADA K.",
+                              "PrintName": "YAMADA Kazuya",
+                              "PrintInitialName": "YAMADA K",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2001-09-27"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/40771_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/40771_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/40771"
+}

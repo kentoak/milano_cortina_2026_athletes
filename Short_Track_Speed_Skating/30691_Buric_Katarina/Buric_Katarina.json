@@ -1,0 +1,176 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "30691",
+      "GivenName": "Katarina",
+      "FamilyName": "Buric",
+      "PrintName": "BURIC Katarina",
+      "PrintInitialName": "BURIC K",
+      "TVName": "Katarina BURIC",
+      "TVInitialName": "K. BURIC",
+      "TVFamilyName": "BURIC",
+      "OrganisationCode": "CRO",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1997-02-16",
+      "PlaceofBirth": "Zagreb",
+      "CountryofBirth": "CRO",
+      "Age": 29,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/katarina_b7/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >37</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >37</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >38</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >38</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >38</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >39</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >39</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >40</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >42</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >43</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> <tr> <td class=\"text-start text-end\" >45</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Rotterdam, NED</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Mixed Team Relay</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s 3000m Relay</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women&amp;apos;s 3000m Relay</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tilburg, NED</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women&amp;apos;s 3000m Relay</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tilburg, NED</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >23</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Turin, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >27</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Tilburg, NED</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Turin, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >29</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Turin, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Gdansk, POL</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >31</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Turin, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >33</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Dordrecht, NED</td> </tr> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Dresden, GER</td> </tr> <tr> <td class=\"text-start text-end\" >38</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >34</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >35</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >37</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >37</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >41</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> <tr> <td class=\"text-start text-end\" >42</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >45</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >45</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >46</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Erzurum, TUR</td> </tr> <tr> <td class=\"text-start text-end\" >54</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Warszawa, POL</td> </tr> <tr> <td class=\"text-start text-end\" >54</td> <td class=\"text-start\" >Women&amp;apos;s 1000m</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Warszawa, POL</td> </tr> <tr> <td class=\"text-start text-end\" >54</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Warszawa, POL</td> </tr> <tr> <td class=\"text-start text-end\" >58</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Warszawa, POL</td> </tr> <tr> <td class=\"text-start text-end\" >61</td> <td class=\"text-start\" >Women&amp;apos;s Overall</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> <tr> <td class=\"text-start text-end\" >DSQ</td> <td class=\"text-start\" >Women&amp;apos;s 500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> <tr> <td class=\"text-start text-end\" >DSQ</td> <td class=\"text-start\" >Women&amp;apos;s 1500m</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>ISU World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>500m</b></th> <th class=\"text-end\"><b>1000m</b></th> <th class=\"text-end\"><b>1500m</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> 67 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 47 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 65 </td> <td class=\"text-end\"> 70 </td> <td class=\"text-end\"> 56 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 93 </td> <td class=\"text-end\"> 109 </td> <td class=\"text-end\"> 78 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 88 </td> <td class=\"text-end\"> 110 </td> <td class=\"text-end\"> 93 </td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 75 </td> <td class=\"text-end\"> 80 </td> <td class=\"text-end\"> 75 </td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 102 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 94 </td> </tr> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 74 </td> <td class=\"text-end\"> 75 </td> <td class=\"text-end\"> 72 </td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>DSQ</b></td><td class=\"text-start\">Disqualified</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "STKW1500M-------------QFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Women's 1500m - Quarterfinals",
+          "UnitLongDescription": "Women's 1500m - Quarterfinals",
+          "UnitPrintDescription": "Quarterfinals",
+          "IsFinal": false,
+          "DisciplineCode": "STK",
+          "GenderCode": "W",
+          "EventCode": "1500M-------------",
+          "PhaseCode": "QFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-20T20:15:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "STK",
+          "Description": "Short Track Speed Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "STK",
+          "DisciplineDescription": "Short Track Speed Skating",
+          "GenderCode": "W",
+          "EventCode": "1500M-------------",
+          "EventDescription": "Women's 1500m",
+          "EventLongDescription": "Women's 1500m",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 26,
+          "ResultType": "TIME",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "STKW1500M-------------QFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Women's 1500m - Quarterfinals",
+              "UnitLongDescription": "Women's 1500m - Quarterfinals",
+              "UnitPrintDescription": "Quarterfinals",
+              "IsFinal": false,
+              "PhaseCode": "QFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-20T20:15:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "STKW1500M-------------QFNL000500--",
+              "UnitNum": "93",
+              "UnitDescription": "Women's 1500m - Quarterfinal 5",
+              "UnitLongDescription": "Women's 1500m - Quarterfinal 5",
+              "UnitPrintDescription": "Quarterfinal 5",
+              "IsFinal": false,
+              "PhaseCode": "QFNL",
+              "UnitCode": "000500--",
+              "UnitDateTime": "2026-02-20T20:38:37+01:00",
+              "Result": "2:31.874",
+              "ResultType": "TIME",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "ISU",
+              "Value": "39"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/30691_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/30691_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/30691"
+}
