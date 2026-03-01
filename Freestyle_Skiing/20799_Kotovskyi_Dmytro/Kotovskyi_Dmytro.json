@@ -1,0 +1,303 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "20799",
+      "GivenName": "Dmytro",
+      "FamilyName": "Kotovskyi",
+      "PrintName": "KOTOVSKYI Dmytro",
+      "PrintInitialName": "KOTOVSKYI D",
+      "TVName": "Dmytro KOTOVSKYI",
+      "TVInitialName": "D. KOTOVSKYI",
+      "TVFamilyName": "KOTOVSKYI",
+      "OrganisationCode": "UKR",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "2001-11-08",
+      "PlaceofBirth": "Rivne Region",
+      "CountryofBirth": "UKR",
+      "Age": 24,
+      "FlagBearer": 2,
+      "OlympicSolidarity": 1,
+      "YouthOlympian": 0,
+      "FlagbearerEvents": [
+        {
+          "Code": "CERGCLOSING-----------------------",
+          "EventDescription": "Closing Ceremony",
+          "OrganisationCode": "UKR"
+        }
+      ],
+      "University": {},
+      "Teams": [
+        {
+          "Code": "FRSXAET-----UKR01",
+          "Name": "Ukraine",
+          "ShortName": "Ukraine",
+          "TVTeamName": "Ukraine",
+          "TeamType": "ORG",
+          "OrganisationCode": "UKR",
+          "DisciplineCode": "FRS",
+          "GenderCode": "X",
+          "EventCode": "AET---------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/people/Dmytro-Kotovskyi/100010367405874/?_rdr"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s Aerials</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >114.03</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Mixed Team Aerials</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >312.35</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Mixed Team Aerials</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Bakuriani, GEO</td> <td class=\"text-start text-end\" >255.56</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Mixed Team Aerials</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Almaty, KAZ</td> <td class=\"text-start text-end\" >252.27</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s Aerials</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Almaty, KAZ</td> <td class=\"text-start text-end\" >82.00</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s Aerials</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Bakuriani, GEO</td> <td class=\"text-start text-end\" >100.44</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s Aerials</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >97.24</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Aerials</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 4 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 9 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 12 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 2 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 9 </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 22 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> 246 </td> <td class=\"text-end\"> 44 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 237 </td> <td class=\"text-end\"> 43 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Aerials</b></th> <th class=\"text-start\"><b>Mixed Team Aerials</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 1st</td> <td class=\"text-start\">1 x 6th</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start\">1 x 2nd</td> <td class=\"text-start\">2 x 5th</td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start\">1 x 3rd</td> <td class=\"text-start\">1 x 8th</td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start\">2 x 1st</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start\">1 x 4th</td> <td class=\"text-start\">2 x 3rd</td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start\">1 x 9th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-start\">1 x 22nd</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start\">1 x 24th</td> <td class=\"text-start\"></td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 1 </td> <td class=\"text-start\" > Men&amp;apos;s Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Lac-Beauport, QC, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 4 </td> <td class=\"text-start\" > Men&amp;apos;s Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Secret Garden, CHN </td> </tr> <tr> <td class=\"text-start text-end\" > 6 </td> <td class=\"text-start\" > Mixed Team Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Secret Garden, CHN </td> </tr> <tr> <td class=\"text-start text-end\" > 7 </td> <td class=\"text-start\" > Men&amp;apos;s Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 8 </td> <td class=\"text-start\" > Men&amp;apos;s Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Lac-Beauport, QC, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 11 </td> <td class=\"text-start\" > Men&amp;apos;s Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Lake Placid, NY, USA </td> </tr> <tr> <td class=\"text-start text-end\" > 18 </td> <td class=\"text-start\" > Men&amp;apos;s Aerials </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Lake Placid, NY, USA </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LAE",
+          "LocationDescription": "Livigno LAM-Aerials",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Aerials",
+          "LocationShortDescription": "Livigno LAM-Aerials",
+          "EventUnitCode": "FRSMAE----------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Aerials Qualification 1",
+          "UnitLongDescription": "Men's Aerials Qualification 1",
+          "UnitPrintDescription": "Qualification 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "AE----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-20T10:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LAE",
+          "LocationDescription": "Livigno LAM-Aerials",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Aerials",
+          "LocationShortDescription": "Livigno LAM-Aerials",
+          "EventUnitCode": "FRSMAE----------------QUAL000200--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Aerials Qualification 2",
+          "UnitLongDescription": "Men's Aerials Qualification 2",
+          "UnitPrintDescription": "Qualification 2",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "AE----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-20T11:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LAE",
+          "LocationDescription": "Livigno LAM-Aerials",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Aerials",
+          "LocationShortDescription": "Livigno LAM-Aerials",
+          "EventUnitCode": "FRSXAET---------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Mixed Team Aerials Final 1",
+          "UnitLongDescription": "Mixed Team Aerials Final 1",
+          "UnitPrintDescription": "Final 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "X",
+          "EventCode": "AET---------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-21T10:45:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FRS",
+          "Description": "Freestyle Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "M",
+          "EventCode": "AE----------------",
+          "EventDescription": "Men's Aerials",
+          "EventLongDescription": "Men's Aerials",
+          "EventSortOrder": 6,
+          "ParticipantType": "INDV",
+          "Rank": 17,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LAE",
+              "LocationDescription": "Livigno LAM-Aerials",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Aerials",
+              "LocationShortDescription": "Livigno LAM-Aerials",
+              "EventUnitCode": "FRSMAE----------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Aerials Qualification 1",
+              "UnitLongDescription": "Men's Aerials Qualification 1",
+              "UnitPrintDescription": "Qualification 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-20T10:30:12+01:00",
+              "Result": "95.16",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LAE",
+              "LocationDescription": "Livigno LAM-Aerials",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Aerials",
+              "LocationShortDescription": "Livigno LAM-Aerials",
+              "EventUnitCode": "FRSMAE----------------QUAL000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Aerials Qualification 2",
+              "UnitLongDescription": "Men's Aerials Qualification 2",
+              "UnitPrintDescription": "Qualification 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-20T11:20:40+01:00",
+              "Result": "80.97",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "SEED",
+              "Value": "4"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "X",
+          "EventCode": "AET---------------",
+          "EventDescription": "Mixed Team Aerials",
+          "EventLongDescription": "Mixed Team Aerials",
+          "EventSortOrder": 7,
+          "ParticipantType": "TEAM",
+          "Rank": 6,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LAE",
+              "LocationDescription": "Livigno LAM-Aerials",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Aerials",
+              "LocationShortDescription": "Livigno LAM-Aerials",
+              "EventUnitCode": "FRSXAET---------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Mixed Team Aerials Final 1",
+              "UnitLongDescription": "Mixed Team Aerials Final 1",
+              "UnitPrintDescription": "Final 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-21T10:45:14+01:00",
+              "Result": "254.67",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFPOINTS",
+              "Code": "FIS",
+              "Value": "750.00"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/20799_HEADSHOT_2.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/20799_2.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/20799"
+}

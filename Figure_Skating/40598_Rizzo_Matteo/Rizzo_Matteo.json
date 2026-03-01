@@ -1,0 +1,432 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "40598",
+      "GivenName": "Matteo",
+      "FamilyName": "Rizzo",
+      "PrintName": "RIZZO Matteo",
+      "PrintInitialName": "RIZZO M",
+      "TVName": "Matteo RIZZO",
+      "TVInitialName": "M. RIZZO",
+      "TVFamilyName": "RIZZO",
+      "OrganisationCode": "ITA",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1998-09-05",
+      "Age": 27,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "FSKXTEAM----ITA01",
+          "Name": "Italy",
+          "ShortName": "Italy",
+          "TVTeamName": "Italy",
+          "TeamType": "ORG",
+          "OrganisationCode": "ITA",
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/matteorizzoo/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TIKTOK",
+          "Value": "https://www.tiktok.com/@matteorizzo05"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Team Event</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Team Event</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >16</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Saitama, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Saitama, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Montpellier, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Stockholm, SWE</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Milan, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Sheffield, GBR</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Espoo, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Kaunas, LTU</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Minsk, BLR</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Tallinn, EST</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Graz, AUT</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Bratislava, SVK</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Taipei, TPE</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> <tr> <td class=\"text-start text-end\" >22</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Tallinn, EST</td> </tr> <tr> <td class=\"text-start text-end\" >30</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Grand Prix</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2023/2024</td> <td class=\"text-start\" >Vancouver, BC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Mississauga, ON, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2019/2020</td> <td class=\"text-start\" >Chongqing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2018/2019</td> <td class=\"text-start\" >Hiroshima, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2023/2024</td> <td class=\"text-start\" >Espoo, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2018/2019</td> <td class=\"text-start\" >Everett, WA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Tokyo, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Chongqing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2021/2022</td> <td class=\"text-start\" >Tokyo, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2021/2022</td> <td class=\"text-start\" >Sochi, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Sapporo, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2019/2020</td> <td class=\"text-start\" >Kelowna, BC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKXTEAM--------------FNL-0001MN--",
+          "UnitNum": "",
+          "UnitDescription": "Team Event - Men Single Skating - FS",
+          "UnitLongDescription": "Team Event - Men Single Skating - Free Skating",
+          "UnitPrintDescription": "Men Single Skating - Free Skating",
+          "IsFinal": true,
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "0001MN--",
+          "StartDate": "2026-02-08T21:55:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKMSINGLES-----------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men Single Skating - Short Program",
+          "UnitLongDescription": "Men Single Skating - Short Program",
+          "UnitPrintDescription": "Short Program",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "M",
+          "EventCode": "SINGLES-----------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T18:30:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKMSINGLES-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men Single Skating - Free Skating",
+          "UnitLongDescription": "Men Single Skating - Free Skating",
+          "UnitPrintDescription": "Free Skating",
+          "IsFinal": true,
+          "DisciplineCode": "FSK",
+          "GenderCode": "M",
+          "EventCode": "SINGLES-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-13T19:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FSK",
+          "Description": "Figure Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "M",
+          "EventCode": "SINGLES-----------",
+          "EventDescription": "Men Single Skating",
+          "EventLongDescription": "Men Single Skating",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 15,
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKMSINGLES-----------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men Single Skating - Short Program",
+              "UnitLongDescription": "Men Single Skating - Short Program",
+              "UnitPrintDescription": "Short Program",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T18:38:08+01:00",
+              "Result": "84.30",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKMSINGLES-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men Single Skating - Free Skating",
+              "UnitLongDescription": "Men Single Skating - Free Skating",
+              "UnitPrintDescription": "Free Skating",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-13T19:08:18+01:00",
+              "Result": "158.88",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------FNL-000100--",
+              "Value": "168.37"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------QUAL000100--",
+              "Value": "88.00"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------FNL-000100--",
+              "Value": "187.35"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------QUAL000100--",
+              "Value": "93.37"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "3336"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "10"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "10"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Value": "14"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Pos": "FSKMSINGLES-----------FNL-000100--",
+              "Value": "14"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Pos": "FSKMSINGLES-----------QUAL000100--",
+              "Value": "15"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Value": "14"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Pos": "FSKMSINGLES-----------FNL-000100--",
+              "Value": "14"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Pos": "FSKMSINGLES-----------QUAL000100--",
+              "Value": "15"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "EventDescription": "Team Event",
+          "EventLongDescription": "Team Event",
+          "EventSortOrder": 5,
+          "ParticipantType": "DGRP",
+          "Substitute": "Y",
+          "Rank": 3,
+          "MedalType": "BRONZE",
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKXTEAM--------------FNL-0001MN--",
+              "UnitNum": "",
+              "UnitDescription": "Team Event - Men Single Skating - FS",
+              "UnitLongDescription": "Team Event - Men Single Skating - Free Skating",
+              "UnitPrintDescription": "Men Single Skating - Free Skating",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "0001MN--",
+              "UnitDateTime": "2026-02-08T22:03:04+01:00",
+              "Result": "179.62",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------------------",
+              "Value": "256.37"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0001MN--",
+              "Value": "168.37"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0001MN--",
+              "Value": "88.00"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------------------",
+              "Value": "275.36"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0001MN--",
+              "Value": "187.35"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0001MN--",
+              "Value": "93.37"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "3336"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "10"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "1"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/40598_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/40598_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "MedalType": "BRONZE",
+          "MedalDate": "2026-02-08",
+          "MedalUnitCode": "FSKXTEAM--------------FNL-0001MN--",
+          "UnitDescription": "Team Event - Men Single Skating - FS",
+          "UnitLongDescription": "Team Event - Men Single Skating - Free Skating",
+          "UnitPrintDescription": "Men Single Skating - Free Skating",
+          "UnitDateTime": "2026-02-08T22:03:04+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/40598"
+}

@@ -1,0 +1,574 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "42773",
+      "GivenName": "Hina",
+      "FamilyName": "Fujiki",
+      "PrintName": "FUJIKI Hina",
+      "PrintInitialName": "FUJIKI H",
+      "TVName": "FUJIKI Hina",
+      "TVInitialName": "FUJIKI H.",
+      "TVFamilyName": "FUJIKI",
+      "OrganisationCode": "JPN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2001-04-17",
+      "PlaceofBirth": "Osaka",
+      "CountryofBirth": "JPN",
+      "Age": 24,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/hinahina_0417/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s Moguls</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >71.06</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women&amp;apos;s Dual Moguls</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >14.00</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall Moguls</b></th> <th class=\"text-end\"><b>Moguls</b></th> <th class=\"text-end\"><b>Dual Moguls</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 12 </td> <td class=\"text-end\"> 12 </td> <td class=\"text-end\"> 16 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> 13 </td> <td class=\"text-end\"> 16 </td> <td class=\"text-end\"> 13 </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Moguls</b></th> <th class=\"text-start\"><b>Dual Moguls</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 8th</td> <td class=\"text-start\">1 x 16th</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start\">1 x 6th</td> <td class=\"text-start\">2 x 11th</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 8 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 12 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val St. Come, QC, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 14 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 16 </td> <td class=\"text-start\" > Women&amp;apos;s Dual Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val St. Come, QC, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 21 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Waterville Valley Resort, NH, USA </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Qualification 1",
+          "UnitLongDescription": "Women's Moguls Qualification 1",
+          "UnitPrintDescription": "Qualification 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T14:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------QUAL000200--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Qualification 2",
+          "UnitLongDescription": "Women's Moguls Qualification 2",
+          "UnitPrintDescription": "Qualification 2",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-11T11:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Final 1",
+          "UnitLongDescription": "Women's Moguls Final 1",
+          "UnitPrintDescription": "Final 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T14:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWDM----------------R32---------",
+          "UnitNum": "",
+          "UnitDescription": "Women's Dual Moguls 1/16 Finals",
+          "UnitLongDescription": "Women's Dual Moguls 1/16 Finals",
+          "UnitPrintDescription": "1/16 Finals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "DM----------------",
+          "PhaseCode": "R32-",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-14T10:30:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWDM----------------8FNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Women's Dual Moguls 1/8 Finals",
+          "UnitLongDescription": "Women's Dual Moguls 1/8 Finals",
+          "UnitPrintDescription": "1/8 Finals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "DM----------------",
+          "PhaseCode": "8FNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-14T11:00:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FRS",
+          "Description": "Freestyle Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "W",
+          "EventCode": "DM----------------",
+          "EventDescription": "Women's Dual Moguls",
+          "EventLongDescription": "Women's Dual Moguls",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 9,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------R32---------",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/16 Finals",
+              "UnitLongDescription": "Women's Dual Moguls 1/16 Finals",
+              "UnitPrintDescription": "1/16 Finals",
+              "IsFinal": false,
+              "PhaseCode": "R32-",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-14T10:30:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------R32-000700--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/16 Final 7",
+              "UnitLongDescription": "Women's Dual Moguls 1/16 Final 7",
+              "UnitPrintDescription": "1/16 Final 7",
+              "IsFinal": false,
+              "PhaseCode": "R32-",
+              "UnitCode": "000700--",
+              "UnitDateTime": "2026-02-14T10:41:36+01:00",
+              "Result": "19",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "19",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42773",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42773",
+                            "Order": 1,
+                            "Bib": "15",
+                            "Description": {
+                              "GivenName": "Hina",
+                              "FamilyName": "Fujiki",
+                              "TVName": "FUJIKI Hina",
+                              "TVInitialName": "FUJIKI H.",
+                              "PrintName": "FUJIKI Hina",
+                              "PrintInitialName": "FUJIKI H",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2001-04-17"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "16",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42797",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42797",
+                            "Order": 1,
+                            "Bib": "20",
+                            "Description": {
+                              "GivenName": "Haruka",
+                              "FamilyName": "Nakao",
+                              "TVName": "NAKAO Haruka",
+                              "TVInitialName": "NAKAO H.",
+                              "PrintName": "NAKAO Haruka",
+                              "PrintInitialName": "NAKAO H",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2001-04-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------8FNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/8 Finals",
+              "UnitLongDescription": "Women's Dual Moguls 1/8 Finals",
+              "UnitPrintDescription": "1/8 Finals",
+              "IsFinal": false,
+              "PhaseCode": "8FNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-14T11:00:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------8FNL000400--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/8 Final 4",
+              "UnitLongDescription": "Women's Dual Moguls 1/8 Final 4",
+              "UnitPrintDescription": "1/8 Final 4",
+              "IsFinal": false,
+              "PhaseCode": "8FNL",
+              "UnitCode": "000400--",
+              "UnitDateTime": "2026-02-14T11:14:41+01:00",
+              "Result": "15",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "20",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "24185",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "24185",
+                            "Order": 1,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Tess",
+                              "FamilyName": "Johnson",
+                              "TVName": "Tess JOHNSON",
+                              "TVInitialName": "T. JOHNSON",
+                              "PrintName": "JOHNSON Tess",
+                              "PrintInitialName": "JOHNSON T",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2000-06-19"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "15",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42773",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42773",
+                            "Order": 1,
+                            "Bib": "15",
+                            "Description": {
+                              "GivenName": "Hina",
+                              "FamilyName": "Fujiki",
+                              "TVName": "FUJIKI Hina",
+                              "TVInitialName": "FUJIKI H.",
+                              "PrintName": "FUJIKI Hina",
+                              "PrintInitialName": "FUJIKI H",
+                              "GenderCode": "F",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "2001-04-17"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WC",
+              "Value": "16"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "EventDescription": "Women's Moguls",
+          "EventLongDescription": "Women's Moguls",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 11,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Qualification 1",
+              "UnitLongDescription": "Women's Moguls Qualification 1",
+              "UnitPrintDescription": "Qualification 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T14:14:52+01:00",
+              "Result": "65.89",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------QUAL000200--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Qualification 2",
+              "UnitLongDescription": "Women's Moguls Qualification 2",
+              "UnitPrintDescription": "Qualification 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-11T10:59:47+01:00",
+              "Result": "70.06",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Final 1",
+              "UnitLongDescription": "Women's Moguls Final 1",
+              "UnitPrintDescription": "Final 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T14:14:58+01:00",
+              "Result": "73.24",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/42773_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/42773_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/42773"
+}

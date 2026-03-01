@@ -1,0 +1,626 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "19227",
+      "GivenName": "Avital",
+      "FamilyName": "Carroll",
+      "PrintName": "CARROLL Avital",
+      "PrintInitialName": "CARROLL A",
+      "TVName": "Avital CARROLL",
+      "TVInitialName": "A. CARROLL",
+      "TVFamilyName": "CARROLL",
+      "OrganisationCode": "AUT",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1996-04-24",
+      "PlaceofBirth": "New York City",
+      "CountryofBirth": "USA",
+      "Age": 29,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/avishort/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Moguls</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Bakuriani, GEO</td> <td class=\"text-start text-end\" >80.19</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women&amp;apos;s Dual Moguls</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Bakuriani, GEO</td> <td class=\"text-start text-end\" >22.00</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Women&amp;apos;s Moguls</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >66.12</td> </tr> <tr> <td class=\"text-start text-end\" >28</td> <td class=\"text-start\" >Women&amp;apos;s Dual Moguls</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" ></td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Overall Moguls</b></th> <th class=\"text-end\"><b>Moguls</b></th> <th class=\"text-end\"><b>Dual Moguls</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> 15 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 28 </td> <td class=\"text-end\"> 24 </td> <td class=\"text-end\"> 36 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 27 </td> <td class=\"text-end\"> 29 </td> <td class=\"text-end\"> 25 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 8 </td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> 8 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 31 </td> <td class=\"text-end\"> 27 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 32 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-end\"> 183 </td> <td class=\"text-end\"> 37 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Moguls</b></th> <th class=\"text-start\"><b>Dual Moguls</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 4th</td> <td class=\"text-start\">1 x 15th</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start\">1 x 14th</td> <td class=\"text-start\">1 x 21st</td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start\">2 x 16th</td> <td class=\"text-start\">1 x 9th</td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start\">1 x 6th</td> <td class=\"text-start\">1 x 4th</td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start\">1 x 12th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start\">1 x 18th</td> <td class=\"text-start\">1 x 29th</td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-start\">1 x 15th</td> <td class=\"text-start\">1 x 12th</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 4 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Waterville Valley Resort, NH, USA </td> </tr> <tr> <td class=\"text-start text-end\" > 9 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val St. Come, QC, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 11 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 13 </td> <td class=\"text-start\" > Women&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 15 </td> <td class=\"text-start\" > Women&amp;apos;s Dual Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val St. Come, QC, CAN </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Qualification 1",
+          "UnitLongDescription": "Women's Moguls Qualification 1",
+          "UnitPrintDescription": "Qualification 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T14:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------QUAL000200--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Qualification 2",
+          "UnitLongDescription": "Women's Moguls Qualification 2",
+          "UnitPrintDescription": "Qualification 2",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-11T11:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Final 1",
+          "UnitLongDescription": "Women's Moguls Final 1",
+          "UnitPrintDescription": "Final 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T14:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWMO----------------FNL-000200--",
+          "UnitNum": "",
+          "UnitDescription": "Women's Moguls Final 2",
+          "UnitLongDescription": "Women's Moguls Final 2",
+          "UnitPrintDescription": "Final 2",
+          "IsFinal": true,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-11T14:55:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWDM----------------R32---------",
+          "UnitNum": "",
+          "UnitDescription": "Women's Dual Moguls 1/16 Finals",
+          "UnitLongDescription": "Women's Dual Moguls 1/16 Finals",
+          "UnitPrintDescription": "1/16 Finals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "DM----------------",
+          "PhaseCode": "R32-",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-14T10:30:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSWDM----------------8FNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Women's Dual Moguls 1/8 Finals",
+          "UnitLongDescription": "Women's Dual Moguls 1/8 Finals",
+          "UnitPrintDescription": "1/8 Finals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "W",
+          "EventCode": "DM----------------",
+          "PhaseCode": "8FNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-14T11:00:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FRS",
+          "Description": "Freestyle Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "W",
+          "EventCode": "DM----------------",
+          "EventDescription": "Women's Dual Moguls",
+          "EventLongDescription": "Women's Dual Moguls",
+          "EventSortOrder": 3,
+          "ParticipantType": "INDV",
+          "Rank": 10,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------R32---------",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/16 Finals",
+              "UnitLongDescription": "Women's Dual Moguls 1/16 Finals",
+              "UnitPrintDescription": "1/16 Finals",
+              "IsFinal": false,
+              "PhaseCode": "R32-",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-14T10:30:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------R32-001100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/16 Final 11",
+              "UnitLongDescription": "Women's Dual Moguls 1/16 Final 11",
+              "UnitPrintDescription": "1/16 Final 11",
+              "IsFinal": false,
+              "PhaseCode": "R32-",
+              "UnitCode": "001100--",
+              "UnitDateTime": "2026-02-14T10:52:10+01:00",
+              "Result": "23",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "23",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "19227",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "AUT",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "19227",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Avital",
+                              "FamilyName": "Carroll",
+                              "TVName": "Avital CARROLL",
+                              "TVInitialName": "A. CARROLL",
+                              "PrintName": "CARROLL Avital",
+                              "PrintInitialName": "CARROLL A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "AUT",
+                              "BirthDate": "1996-04-24"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "12",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "39356",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "GBR",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "39356",
+                            "Order": 1,
+                            "Bib": "24",
+                            "Description": {
+                              "GivenName": "Makayla",
+                              "FamilyName": "Gerken Schofield",
+                              "TVName": "Makayla GERKEN SCHOFIELD",
+                              "TVInitialName": "M.GERKEN SCHOFIELD",
+                              "PrintName": "GERKEN SCHOFIELD Makayla",
+                              "PrintInitialName": "GERKEN SCHOFIELD M",
+                              "GenderCode": "F",
+                              "OrganisationCode": "GBR",
+                              "BirthDate": "1999-06-04"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------8FNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/8 Finals",
+              "UnitLongDescription": "Women's Dual Moguls 1/8 Finals",
+              "UnitPrintDescription": "1/8 Finals",
+              "IsFinal": false,
+              "PhaseCode": "8FNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-14T11:00:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWDM----------------8FNL000600--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Dual Moguls 1/8 Final 6",
+              "UnitLongDescription": "Women's Dual Moguls 1/8 Final 6",
+              "UnitPrintDescription": "1/8 Final 6",
+              "IsFinal": false,
+              "PhaseCode": "8FNL",
+              "UnitCode": "000600--",
+              "UnitDateTime": "2026-02-14T11:19:04+01:00",
+              "Result": "14.5",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "20.5",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "24175",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "USA",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "24175",
+                            "Order": 1,
+                            "Bib": "6",
+                            "Description": {
+                              "GivenName": "Olivia",
+                              "FamilyName": "Giaccio",
+                              "TVName": "Olivia GIACCIO",
+                              "TVInitialName": "O. GIACCIO",
+                              "PrintName": "GIACCIO Olivia",
+                              "PrintInitialName": "GIACCIO O",
+                              "GenderCode": "F",
+                              "OrganisationCode": "USA",
+                              "BirthDate": "2000-08-15"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "14.5",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "19227",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "AUT",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "19227",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Avital",
+                              "FamilyName": "Carroll",
+                              "TVName": "Avital CARROLL",
+                              "TVInitialName": "A. CARROLL",
+                              "PrintName": "CARROLL Avital",
+                              "PrintInitialName": "CARROLL A",
+                              "GenderCode": "F",
+                              "OrganisationCode": "AUT",
+                              "BirthDate": "1996-04-24"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WC",
+              "Value": "15"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "W",
+          "EventCode": "MO----------------",
+          "EventDescription": "Women's Moguls",
+          "EventLongDescription": "Women's Moguls",
+          "EventSortOrder": 1,
+          "ParticipantType": "INDV",
+          "Rank": 7,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Qualification 1",
+              "UnitLongDescription": "Women's Moguls Qualification 1",
+              "UnitPrintDescription": "Qualification 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T14:14:52+01:00",
+              "Result": "71.60",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------QUAL000200--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Qualification 2",
+              "UnitLongDescription": "Women's Moguls Qualification 2",
+              "UnitPrintDescription": "Qualification 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-11T10:59:47+01:00",
+              "Result": "76.49",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Final 1",
+              "UnitLongDescription": "Women's Moguls Final 1",
+              "UnitPrintDescription": "Final 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T14:14:58+01:00",
+              "Result": "76.39",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSWMO----------------FNL-000200--",
+              "UnitNum": "",
+              "UnitDescription": "Women's Moguls Final 2",
+              "UnitLongDescription": "Women's Moguls Final 2",
+              "UnitPrintDescription": "Final 2",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-11T14:59:56+01:00",
+              "Result": "71.89",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/19227_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/19227_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/19227"
+}

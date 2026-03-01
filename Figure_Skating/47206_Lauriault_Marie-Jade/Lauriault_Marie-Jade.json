@@ -1,0 +1,238 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "47206",
+      "GivenName": "Marie-Jade",
+      "FamilyName": "Lauriault",
+      "PrintName": "LAURIAULT Marie-Jade",
+      "PrintInitialName": "LAURIAULT MJ",
+      "TVName": "Marie-Jade LAURIAULT",
+      "TVInitialName": "M.J. LAURIAULT",
+      "TVFamilyName": "LAURIAULT",
+      "OrganisationCode": "CAN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1996-11-10",
+      "Age": 29,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "FSKXICEDANCECAN03",
+          "Name": "LAURIAULT Marie-Jade / le GAC Romain",
+          "ShortName": "LAURIAULT MJ / le GAC R",
+          "TVTeamName": "LAURIAULT/LE GAC",
+          "TeamType": "CPLW",
+          "OrganisationCode": "CAN",
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "ICEDANCE----------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/lauriaultlegac/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/lauriaultlegac/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/lauriaultlegac/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Team Event</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Milan, ITA</td> </tr> <tr> <td class=\"text-start text-end\" >14</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Saitama, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Shanghai, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Colorado Springs, CO, USA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Tallinn, EST</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Minsk, BLR</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Ostrava, CZE</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2016</td> <td class=\"text-start\" >Debrecen, HUN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Grand Prix</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Norwood, MA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2018/2019</td> <td class=\"text-start\" >Laval, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2023/2024</td> <td class=\"text-start\" >Angers, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Mississauga, ON, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Angers, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2018/2019</td> <td class=\"text-start\" >Grenoble, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2016/2017</td> <td class=\"text-start\" >Paris, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2016/2017</td> <td class=\"text-start\" >Sapporo, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Saskatoon, SK, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Allen, TX, USA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Angers, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2023/2024</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2019/2020</td> <td class=\"text-start\" >Las Vegas, NV, USA</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2019/2020</td> <td class=\"text-start\" >Grenoble, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2017/2018</td> <td class=\"text-start\" >Moscow, RUS</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2017/2018</td> <td class=\"text-start\" >Osaka, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Canada Figure Skating Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Gatineau, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Oshawa, ON, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Laval, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Ice Dance</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Ottawa, ON, CAN</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKXICEDANCE----------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Ice Dance - Rhythm Dance",
+          "UnitLongDescription": "Ice Dance - Rhythm Dance",
+          "UnitPrintDescription": "Rhythm Dance",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "ICEDANCE----------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-09T19:20:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKXICEDANCE----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Ice Dance - Free Dance",
+          "UnitLongDescription": "Ice Dance - Free Dance",
+          "UnitPrintDescription": "Free Dance",
+          "IsFinal": true,
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "ICEDANCE----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-11T19:30:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FSK",
+          "Description": "Figure Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "X",
+          "EventCode": "ICEDANCE----------",
+          "EventDescription": "Ice Dance",
+          "EventLongDescription": "Ice Dance",
+          "EventSortOrder": 4,
+          "ParticipantType": "IGRP",
+          "Rank": 14,
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKXICEDANCE----------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Ice Dance - Rhythm Dance",
+              "UnitLongDescription": "Ice Dance - Rhythm Dance",
+              "UnitPrintDescription": "Rhythm Dance",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-09T19:27:00+01:00",
+              "Result": "74.35",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKXICEDANCE----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Ice Dance - Free Dance",
+              "UnitLongDescription": "Ice Dance - Free Dance",
+              "UnitPrintDescription": "Free Dance",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-11T19:37:19+01:00",
+              "Result": "112.83",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "EventDescription": "Team Event",
+          "EventLongDescription": "Team Event",
+          "EventSortOrder": 5,
+          "ParticipantType": "DGRP",
+          "RankingAvailable": 0
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/47206_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/47206_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/47206"
+}

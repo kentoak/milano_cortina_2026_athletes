@@ -1,0 +1,411 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "46603",
+      "GivenName": "Ruiyang",
+      "FamilyName": "Zhang",
+      "PrintName": "ZHANG Ruiyang",
+      "PrintInitialName": "ZHANG R",
+      "TVName": "ZHANG Ruiyang",
+      "TVInitialName": "ZHANG R.",
+      "TVFamilyName": "ZHANG",
+      "OrganisationCode": "CHN",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "2007-12-21",
+      "Age": 18,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "FSKXTEAM----CHN01",
+          "Name": "People's Republic of China",
+          "ShortName": "China",
+          "TVTeamName": "China",
+          "TeamType": "ORG",
+          "OrganisationCode": "CHN",
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/zhang_ruiyang6/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Grand Prix</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Chongqing, CHN</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKXTEAM--------------QUAL0002LD--",
+          "UnitNum": "",
+          "UnitDescription": "Team Event - Women Single Skating - SP",
+          "UnitLongDescription": "Team Event - Women Single Skating - Short Program",
+          "UnitPrintDescription": "Women Single Skating - Short Program",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "0002LD--",
+          "StartDate": "2026-02-06T13:35:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKWSINGLES-----------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women Single Skating - Short Program",
+          "UnitLongDescription": "Women Single Skating - Short Program",
+          "UnitPrintDescription": "Short Program",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "W",
+          "EventCode": "SINGLES-----------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-17T18:45:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKWSINGLES-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women Single Skating - Free Skating",
+          "UnitLongDescription": "Women Single Skating - Free Skating",
+          "UnitPrintDescription": "Free Skating",
+          "IsFinal": true,
+          "DisciplineCode": "FSK",
+          "GenderCode": "W",
+          "EventCode": "SINGLES-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-19T19:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FSK",
+          "Description": "Figure Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "W",
+          "EventCode": "SINGLES-----------",
+          "EventDescription": "Women Single Skating",
+          "EventLongDescription": "Women Single Skating",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "Rank": 19,
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKWSINGLES-----------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women Single Skating - Short Program",
+              "UnitLongDescription": "Women Single Skating - Short Program",
+              "UnitPrintDescription": "Short Program",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-17T18:53:05+01:00",
+              "Result": "59.38",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKWSINGLES-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women Single Skating - Free Skating",
+              "UnitLongDescription": "Women Single Skating - Free Skating",
+              "UnitPrintDescription": "Free Skating",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-19T19:08:09+01:00",
+              "Result": "118.65",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "119.80"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "62.78"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "119.80"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "62.78"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "861"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "78"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "27"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Value": "21"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "22"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "17"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Value": "21"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "22"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "17"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "EventDescription": "Team Event",
+          "EventLongDescription": "Team Event",
+          "EventSortOrder": 5,
+          "ParticipantType": "DGRP",
+          "Substitute": "Y",
+          "Rank": 8,
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKXTEAM--------------QUAL0002LD--",
+              "UnitNum": "",
+              "UnitDescription": "Team Event - Women Single Skating - SP",
+              "UnitLongDescription": "Team Event - Women Single Skating - Short Program",
+              "UnitPrintDescription": "Women Single Skating - Short Program",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "0002LD--",
+              "UnitDateTime": "2026-02-06T13:43:29+01:00",
+              "Result": "59.83",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------------------",
+              "Value": "179.76"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0002LD--",
+              "Value": "119.80"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0002LD--",
+              "Value": "62.78"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------------------",
+              "Value": "179.76"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0002LD--",
+              "Value": "119.80"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0002LD--",
+              "Value": "62.78"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "861"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "78"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "1"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/46603_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/46603_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/46603"
+}

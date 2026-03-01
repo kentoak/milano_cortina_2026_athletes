@@ -1,0 +1,1092 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "42794",
+      "GivenName": "Takuya",
+      "FamilyName": "Shimakawa",
+      "PrintName": "SHIMAKAWA Takuya",
+      "PrintInitialName": "SHIMAKAWA T",
+      "TVName": "SHIMAKAWA Takuya",
+      "TVInitialName": "SHIMAKAWA T.",
+      "TVFamilyName": "SHIMAKAWA",
+      "OrganisationCode": "JPN",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1998-12-18",
+      "PlaceofBirth": "Hokkaido",
+      "CountryofBirth": "JPN",
+      "Age": 27,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/takuya_shimakawa/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Men&amp;apos;s Dual Moguls</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >16.00</td> </tr> <tr> <td class=\"text-start text-end\" >18</td> <td class=\"text-start\" >Men&amp;apos;s Moguls</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Engadin, SUI</td> <td class=\"text-start text-end\" >65.40</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Overall Moguls</b></th> <th class=\"text-end\"><b>Moguls</b></th> <th class=\"text-end\"><b>Dual Moguls</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 19 </td> <td class=\"text-end\"> 24 </td> <td class=\"text-end\"> 10 </td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 16 </td> <td class=\"text-end\"> 15 </td> <td class=\"text-end\"> 17 </td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 12 </td> <td class=\"text-end\"> 15 </td> <td class=\"text-end\"> 10 </td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-end\"> </td> <td class=\"text-end\"> 25 </td> <td class=\"text-end\"> 25 </td> <td class=\"text-end\"> 31 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 260 </td> <td class=\"text-end\"> 45 </td> <td class=\"text-end\"> </td> <td class=\"text-end\"> </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Moguls</b></th> <th class=\"text-start\"><b>Dual Moguls</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 6th</td> <td class=\"text-start\">1 x 10th</td> </tr> <tr> <td class=\"text-end\">2024/2025</td> <td class=\"text-start\">2 x 7th</td> <td class=\"text-start\">1 x 10th</td> </tr> <tr> <td class=\"text-end\">2023/2024</td> <td class=\"text-start\">2 x 8th</td> <td class=\"text-start\">1 x 2nd</td> </tr> <tr> <td class=\"text-end\">2022/2023</td> <td class=\"text-start\">2 x 16th</td> <td class=\"text-start\">1 x 10th</td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-start\">1 x 42nd</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start\">1 x 38th</td> <td class=\"text-start\">1 x 24th</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 6 </td> <td class=\"text-start\" > Men&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 10 </td> <td class=\"text-start\" > Men&amp;apos;s Dual Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val St. Come, QC, CAN </td> </tr> <tr> <td class=\"text-start text-end\" > 24 </td> <td class=\"text-start\" > Men&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Ruka, FIN </td> </tr> <tr> <td class=\"text-start text-end\" > 31 </td> <td class=\"text-start\" > Men&amp;apos;s Moguls </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Val St. Come, QC, CAN </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMMO----------------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Moguls Qualification 1",
+          "UnitLongDescription": "Men's Moguls Qualification 1",
+          "UnitPrintDescription": "Qualification 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "MO----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-10T11:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMMO----------------QUAL000200--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Moguls Qualification 2",
+          "UnitLongDescription": "Men's Moguls Qualification 2",
+          "UnitPrintDescription": "Qualification 2",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "MO----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-12T10:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMMO----------------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Moguls Final 1",
+          "UnitLongDescription": "Men's Moguls Final 1",
+          "UnitPrintDescription": "Final 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "MO----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-12T12:15:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMDM----------------R32---------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Dual Moguls 1/16 Finals",
+          "UnitLongDescription": "Men's Dual Moguls 1/16 Finals",
+          "UnitPrintDescription": "1/16 Finals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "DM----------------",
+          "PhaseCode": "R32-",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-15T10:30:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMDM----------------8FNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Dual Moguls 1/8 Finals",
+          "UnitLongDescription": "Men's Dual Moguls 1/8 Finals",
+          "UnitPrintDescription": "1/8 Finals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "DM----------------",
+          "PhaseCode": "8FNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-15T11:00:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMDM----------------QFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Dual Moguls Quarterfinals",
+          "UnitLongDescription": "Men's Dual Moguls Quarterfinals",
+          "UnitPrintDescription": "Quarterfinals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "DM----------------",
+          "PhaseCode": "QFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-15T11:20:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMDM----------------SFNL--------",
+          "UnitNum": "",
+          "UnitDescription": "Men's Dual Moguls Semifinals",
+          "UnitLongDescription": "Men's Dual Moguls Semifinals",
+          "UnitPrintDescription": "Semifinals",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "DM----------------",
+          "PhaseCode": "SFNL",
+          "UnitCode": "--------",
+          "StartDate": "2026-02-15T11:35:00+01:00",
+          "HideStartDate": false,
+          "EventStatus": "FINISHED",
+          "ScheduleStatus": "FINISHED"
+        },
+        {
+          "VenueCode": "LAM",
+          "VenueDescription": "Livigno AE & MO Park",
+          "VenueLongDescription": "Livigno Aerials & Moguls Park",
+          "LocationCode": "LMO",
+          "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+          "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+          "EventUnitCode": "FRSMDM----------------FNL-000200--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Dual Moguls Small Final",
+          "UnitLongDescription": "Men's Dual Moguls Small Final",
+          "UnitPrintDescription": "Small Final",
+          "IsFinal": true,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "DM----------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000200--",
+          "StartDate": "2026-02-15T11:46:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "BRONZE",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL",
+          "StartList": {
+            "Start": [
+              {
+                "StartOrder": 2,
+                "StartCode": "2",
+                "SortOrder": 1,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "20",
+                  "WLT": "W",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "27340",
+                  "CompetitorType": "A",
+                  "OrganisationCode": "AUS",
+                  "Bib": null,
+                  "Description": {},
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "27340",
+                        "Order": 1,
+                        "Bib": "6",
+                        "Description": {
+                          "GivenName": "Matt",
+                          "FamilyName": "Graham",
+                          "TVName": "Matt GRAHAM",
+                          "TVInitialName": "M. GRAHAM",
+                          "PrintName": "GRAHAM Matt",
+                          "PrintInitialName": "GRAHAM M",
+                          "GenderCode": "M",
+                          "OrganisationCode": "AUS",
+                          "BirthDate": "1994-10-23"
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "StartOrder": 1,
+                "StartCode": "1",
+                "SortOrder": 2,
+                "Result": {
+                  "Type": "POINTS",
+                  "Result": "15",
+                  "WLT": "L",
+                  "IRM": null,
+                  "ResultCode": null,
+                  "ResultCodeDescription": null
+                },
+                "Competitor": {
+                  "Code": "42794",
+                  "CompetitorType": "A",
+                  "OrganisationCode": "JPN",
+                  "Bib": null,
+                  "Description": {},
+                  "Composition": {
+                    "Athlete": [
+                      {
+                        "CompetitorCode": "42794",
+                        "Order": 1,
+                        "Bib": "12",
+                        "Description": {
+                          "GivenName": "Takuya",
+                          "FamilyName": "Shimakawa",
+                          "TVName": "SHIMAKAWA Takuya",
+                          "TVInitialName": "SHIMAKAWA T.",
+                          "PrintName": "SHIMAKAWA Takuya",
+                          "PrintInitialName": "SHIMAKAWA T",
+                          "GenderCode": "M",
+                          "OrganisationCode": "JPN",
+                          "BirthDate": "1998-12-18"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FRS",
+          "Description": "Freestyle Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "M",
+          "EventCode": "DM----------------",
+          "EventDescription": "Men's Dual Moguls",
+          "EventLongDescription": "Men's Dual Moguls",
+          "EventSortOrder": 4,
+          "ParticipantType": "INDV",
+          "Rank": 4,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------R32---------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls 1/16 Finals",
+              "UnitLongDescription": "Men's Dual Moguls 1/16 Finals",
+              "UnitPrintDescription": "1/16 Finals",
+              "IsFinal": false,
+              "PhaseCode": "R32-",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-15T10:30:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------R32-000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls 1/16 Final 2",
+              "UnitLongDescription": "Men's Dual Moguls 1/16 Final 2",
+              "UnitPrintDescription": "1/16 Final 2",
+              "IsFinal": false,
+              "PhaseCode": "R32-",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-15T10:30:05+01:00",
+              "Result": "20",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "20",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42794",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42794",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Takuya",
+                              "FamilyName": "Shimakawa",
+                              "TVName": "SHIMAKAWA Takuya",
+                              "TVInitialName": "SHIMAKAWA T.",
+                              "PrintName": "SHIMAKAWA Takuya",
+                              "PrintInitialName": "SHIMAKAWA T",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1998-12-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "15",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "53498",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "CAN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "53498",
+                            "Order": 1,
+                            "Bib": "23",
+                            "Description": {
+                              "GivenName": "Elliot",
+                              "FamilyName": "Vaillancourt",
+                              "TVName": "Elliot VAILLANCOURT",
+                              "TVInitialName": "E. VAILLANCOURT",
+                              "PrintName": "VAILLANCOURT Elliot",
+                              "PrintInitialName": "VAILLANCOURT E",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1999-04-12"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------8FNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls 1/8 Finals",
+              "UnitLongDescription": "Men's Dual Moguls 1/8 Finals",
+              "UnitPrintDescription": "1/8 Finals",
+              "IsFinal": false,
+              "PhaseCode": "8FNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-15T11:00:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------8FNL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls 1/8 Final 1",
+              "UnitLongDescription": "Men's Dual Moguls 1/8 Final 1",
+              "UnitPrintDescription": "1/8 Final 1",
+              "IsFinal": false,
+              "PhaseCode": "8FNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T11:02:10+01:00",
+              "Result": "35",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "35",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42794",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42794",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Takuya",
+                              "FamilyName": "Shimakawa",
+                              "TVName": "SHIMAKAWA Takuya",
+                              "TVInitialName": "SHIMAKAWA T.",
+                              "PrintName": "SHIMAKAWA Takuya",
+                              "PrintInitialName": "SHIMAKAWA T",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1998-12-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "IRM",
+                      "Result": null,
+                      "WLT": "L",
+                      "IRM": "DNF",
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "53500",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "CAN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "53500",
+                            "Order": 1,
+                            "Bib": "1",
+                            "Description": {
+                              "GivenName": "Julien",
+                              "FamilyName": "Viel",
+                              "TVName": "Julien VIEL",
+                              "TVInitialName": "J. VIEL",
+                              "PrintName": "VIEL Julien",
+                              "PrintInitialName": "VIEL J",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "2001-07-13"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------QFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls Quarterfinals",
+              "UnitLongDescription": "Men's Dual Moguls Quarterfinals",
+              "UnitPrintDescription": "Quarterfinals",
+              "IsFinal": false,
+              "PhaseCode": "QFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-15T11:20:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------QFNL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls Quarterfinal 1",
+              "UnitLongDescription": "Men's Dual Moguls Quarterfinal 1",
+              "UnitPrintDescription": "Quarterfinal 1",
+              "IsFinal": false,
+              "PhaseCode": "QFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T11:24:57+01:00",
+              "Result": "19",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "19",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42794",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42794",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Takuya",
+                              "FamilyName": "Shimakawa",
+                              "TVName": "SHIMAKAWA Takuya",
+                              "TVInitialName": "SHIMAKAWA T.",
+                              "PrintName": "SHIMAKAWA Takuya",
+                              "PrintInitialName": "SHIMAKAWA T",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1998-12-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "16",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "21751",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "SWE",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "21751",
+                            "Order": 1,
+                            "Bib": "8",
+                            "Description": {
+                              "GivenName": "Walter",
+                              "FamilyName": "Wallberg",
+                              "TVName": "Walter WALLBERG",
+                              "TVInitialName": "W. WALLBERG",
+                              "PrintName": "WALLBERG Walter",
+                              "PrintInitialName": "WALLBERG W",
+                              "GenderCode": "M",
+                              "OrganisationCode": "SWE",
+                              "BirthDate": "2000-03-24"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------SFNL--------",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls Semifinals",
+              "UnitLongDescription": "Men's Dual Moguls Semifinals",
+              "UnitPrintDescription": "Semifinals",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "--------",
+              "UnitDateTime": "2026-02-15T11:35:00+01:00",
+              "EventStatus": "FINISHED"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------SFNL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls Semifinal 1",
+              "UnitLongDescription": "Men's Dual Moguls Semifinal 1",
+              "UnitPrintDescription": "Semifinal 1",
+              "IsFinal": false,
+              "PhaseCode": "SFNL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-15T11:40:52+01:00",
+              "Result": "2",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "33",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "53458",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "CAN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "53458",
+                            "Order": 1,
+                            "Bib": "4",
+                            "Description": {
+                              "GivenName": "Mikael",
+                              "FamilyName": "Kingsbury",
+                              "TVName": "Mikael KINGSBURY",
+                              "TVInitialName": "M. KINGSBURY",
+                              "PrintName": "KINGSBURY Mikael",
+                              "PrintInitialName": "KINGSBURY M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "CAN",
+                              "BirthDate": "1992-07-24"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "2",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42794",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42794",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Takuya",
+                              "FamilyName": "Shimakawa",
+                              "TVName": "SHIMAKAWA Takuya",
+                              "TVInitialName": "SHIMAKAWA T.",
+                              "PrintName": "SHIMAKAWA Takuya",
+                              "PrintInitialName": "SHIMAKAWA T",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1998-12-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMDM----------------FNL-000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Dual Moguls Small Final",
+              "UnitLongDescription": "Men's Dual Moguls Small Final",
+              "UnitPrintDescription": "Small Final",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-15T11:53:10+01:00",
+              "Result": "15",
+              "ResultType": "POINTS",
+              "MedalType": "BRONZE",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL",
+              "StartList": {
+                "Start": [
+                  {
+                    "StartOrder": 2,
+                    "StartCode": "2",
+                    "SortOrder": 1,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "20",
+                      "WLT": "W",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "27340",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "AUS",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "27340",
+                            "Order": 1,
+                            "Bib": "6",
+                            "Description": {
+                              "GivenName": "Matt",
+                              "FamilyName": "Graham",
+                              "TVName": "Matt GRAHAM",
+                              "TVInitialName": "M. GRAHAM",
+                              "PrintName": "GRAHAM Matt",
+                              "PrintInitialName": "GRAHAM M",
+                              "GenderCode": "M",
+                              "OrganisationCode": "AUS",
+                              "BirthDate": "1994-10-23"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "StartOrder": 1,
+                    "StartCode": "1",
+                    "SortOrder": 2,
+                    "Result": {
+                      "Type": "POINTS",
+                      "Result": "15",
+                      "WLT": "L",
+                      "IRM": null,
+                      "ResultCode": null,
+                      "ResultCodeDescription": null
+                    },
+                    "Competitor": {
+                      "Code": "42794",
+                      "CompetitorType": "A",
+                      "OrganisationCode": "JPN",
+                      "Bib": null,
+                      "Description": {},
+                      "Composition": {
+                        "Athlete": [
+                          {
+                            "CompetitorCode": "42794",
+                            "Order": 1,
+                            "Bib": "12",
+                            "Description": {
+                              "GivenName": "Takuya",
+                              "FamilyName": "Shimakawa",
+                              "TVName": "SHIMAKAWA Takuya",
+                              "TVInitialName": "SHIMAKAWA T.",
+                              "PrintName": "SHIMAKAWA Takuya",
+                              "PrintInitialName": "SHIMAKAWA T",
+                              "GenderCode": "M",
+                              "OrganisationCode": "JPN",
+                              "BirthDate": "1998-12-18"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "WC",
+              "Value": "10"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "M",
+          "EventCode": "MO----------------",
+          "EventDescription": "Men's Moguls",
+          "EventLongDescription": "Men's Moguls",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "Rank": 15,
+          "ResultType": "CODE",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMMO----------------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Moguls Qualification 1",
+              "UnitLongDescription": "Men's Moguls Qualification 1",
+              "UnitPrintDescription": "Qualification 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-10T11:14:47+01:00",
+              "Result": "74.82",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMMO----------------QUAL000200--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Moguls Qualification 2",
+              "UnitLongDescription": "Men's Moguls Qualification 2",
+              "UnitPrintDescription": "Qualification 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000200--",
+              "UnitDateTime": "2026-02-12T09:59:53+01:00",
+              "Result": "78.27",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LAM",
+              "VenueDescription": "Livigno AE & MO Park",
+              "VenueLongDescription": "Livigno Aerials & Moguls Park",
+              "LocationCode": "LMO",
+              "LocationDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "LocationLongDescription": "Livigno Aerials & Moguls Park-Moguls & Dual Moguls",
+              "LocationShortDescription": "Livigno LAM-Moguls&Dual Moguls",
+              "EventUnitCode": "FRSMMO----------------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Moguls Final 1",
+              "UnitLongDescription": "Men's Moguls Final 1",
+              "UnitPrintDescription": "Final 1",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-12T12:14:57+01:00",
+              "Result": "76.54",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/42794_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/42794_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/42794"
+}

@@ -1,0 +1,430 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "24750",
+      "GivenName": "Amber",
+      "FamilyName": "Glenn",
+      "PrintName": "GLENN Amber",
+      "PrintInitialName": "GLENN A",
+      "TVName": "Amber GLENN",
+      "TVInitialName": "A. GLENN",
+      "TVFamilyName": "GLENN",
+      "OrganisationCode": "USA",
+      "GenderCode": "F",
+      "GenderDescription": "Female",
+      "BirthDate": "1999-10-28",
+      "Age": 26,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "FSKXTEAM----USA01",
+          "Name": "United States of America",
+          "ShortName": "United States",
+          "TVTeamName": "United States",
+          "TeamType": "ORG",
+          "OrganisationCode": "USA",
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK_PAGE",
+          "Value": "https://www.facebook.com/amberglenniceskater/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/amberglenniceskater/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Boston, MA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Saitama, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Four Continents Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Colorado Springs, CO, USA</td> </tr> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Seoul, KOR</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sofia, BUL</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Grand Prix Final</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Grenoble, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Nagoya, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Grand Prix</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Chongqing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Angers, FRA</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2024/2025</td> <td class=\"text-start\" >Chongqing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2025/2026</td> <td class=\"text-start\" >Helsinki, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2023/2024</td> <td class=\"text-start\" >Espoo, FIN</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Norwood, MA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2023/2024</td> <td class=\"text-start\" >Allen, TX, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2020/2021</td> <td class=\"text-start\" >Las Vegas, NV, USA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2021/2022</td> <td class=\"text-start\" >Las Vegas, NV, USA</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2019/2020</td> <td class=\"text-start\" >Chongqing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2021/2022</td> <td class=\"text-start\" >Tokyo, JPN</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2019/2020</td> <td class=\"text-start\" >Las Vegas, NV, USA</td> </tr> <tr> <td class=\"text-start text-end\" >10</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2017/2018</td> <td class=\"text-start\" >Beijing, CHN</td> </tr> <tr> <td class=\"text-start text-end\" >11</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Sapporo, JPN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>US Figure Skating Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >St. Louis, MO, USA</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Wichita, KS, USA</td> </tr> <tr> <td class=\"text-start text-end\" >1</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Columbus, OH, USA</td> </tr> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Las Vegas, NV, USA</td> </tr> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >San Jose, CA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Greensboro, NC, USA</td> </tr> <tr> <td class=\"text-start text-end\" >7</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Detroit, MI, USA</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >San Jose, CA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >8</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Kansas City, MO, USA</td> </tr> <tr> <td class=\"text-start text-end\" >13</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2015</td> <td class=\"text-start\" >Greensboro, NC, USA</td> </tr> <tr> <td class=\"text-start text-end\" >WD</td> <td class=\"text-start\" >Women Single Skating</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Nashville, TN, USA</td> </tr> </tbody> </table>  <br><p><b>Legend:</b></p><table><tr><td class=\"text-start\"><b>WD</b></td><td class=\"text-start\">Withdrawn</td></tr></table> <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKXTEAM--------------FNL-0002LD--",
+          "UnitNum": "",
+          "UnitDescription": "Team Event - Women Single Skating - FS",
+          "UnitLongDescription": "Team Event - Women Single Skating - Free Skating",
+          "UnitPrintDescription": "Women Single Skating - Free Skating",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "0002LD--",
+          "StartDate": "2026-02-08T20:45:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKWSINGLES-----------QUAL000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women Single Skating - Short Program",
+          "UnitLongDescription": "Women Single Skating - Short Program",
+          "UnitPrintDescription": "Short Program",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "W",
+          "EventCode": "SINGLES-----------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-17T18:45:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKWSINGLES-----------FNL-000100--",
+          "UnitNum": "",
+          "UnitDescription": "Women Single Skating - Free Skating",
+          "UnitLongDescription": "Women Single Skating - Free Skating",
+          "UnitPrintDescription": "Free Skating",
+          "IsFinal": true,
+          "DisciplineCode": "FSK",
+          "GenderCode": "W",
+          "EventCode": "SINGLES-----------",
+          "PhaseCode": "FNL-",
+          "UnitCode": "000100--",
+          "StartDate": "2026-02-19T19:00:00+01:00",
+          "HideStartDate": false,
+          "MedalType": "GOLD",
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FSK",
+          "Description": "Figure Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "W",
+          "EventCode": "SINGLES-----------",
+          "EventDescription": "Women Single Skating",
+          "EventLongDescription": "Women Single Skating",
+          "EventSortOrder": 2,
+          "ParticipantType": "INDV",
+          "Rank": 5,
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKWSINGLES-----------QUAL000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women Single Skating - Short Program",
+              "UnitLongDescription": "Women Single Skating - Short Program",
+              "UnitPrintDescription": "Short Program",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-17T18:53:05+01:00",
+              "Result": "67.39",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKWSINGLES-----------FNL-000100--",
+              "UnitNum": "",
+              "UnitDescription": "Women Single Skating - Free Skating",
+              "UnitLongDescription": "Women Single Skating - Free Skating",
+              "UnitPrintDescription": "Free Skating",
+              "IsFinal": true,
+              "PhaseCode": "FNL-",
+              "UnitCode": "000100--",
+              "UnitDateTime": "2026-02-19T19:08:09+01:00",
+              "Result": "147.52",
+              "ResultType": "POINTS",
+              "MedalType": "GOLD",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "144.65"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "75.72"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "148.93"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "78.14"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "4085"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "3"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "3"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Value": "6"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "6"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "5"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Value": "6"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------FNL-000100--",
+              "Value": "6"
+            },
+            {
+              "Code": "SB_ORDER",
+              "Type": "IFRANK",
+              "Pos": "FSKWSINGLES-----------QUAL000100--",
+              "Value": "5"
+            }
+          ]
+        },
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "EventDescription": "Team Event",
+          "EventLongDescription": "Team Event",
+          "EventSortOrder": 5,
+          "ParticipantType": "DGRP",
+          "Substitute": "Y",
+          "Rank": 1,
+          "MedalType": "GOLD",
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKXTEAM--------------FNL-0002LD--",
+              "UnitNum": "",
+              "UnitDescription": "Team Event - Women Single Skating - FS",
+              "UnitLongDescription": "Team Event - Women Single Skating - Free Skating",
+              "UnitPrintDescription": "Women Single Skating - Free Skating",
+              "IsFinal": false,
+              "PhaseCode": "FNL-",
+              "UnitCode": "0002LD--",
+              "UnitDateTime": "2026-02-08T20:53:04+01:00",
+              "Result": "138.62",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------------------",
+              "Value": "214.78"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0002LD--",
+              "Value": "144.65"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0002LD--",
+              "Value": "75.72"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKWSINGLES-----------------------",
+              "Value": "215.54"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0002LD--",
+              "Value": "148.93"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0002LD--",
+              "Value": "78.14"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "4085"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "3"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "1"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/24750_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/24750_1.mp3",
+      "MedalsWon": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "MedalType": "GOLD",
+          "MedalDate": "2026-02-08",
+          "MedalUnitCode": "FSKXTEAM--------------FNL-0001MN--",
+          "UnitDescription": "Team Event - Men Single Skating - FS",
+          "UnitLongDescription": "Team Event - Men Single Skating - Free Skating",
+          "UnitPrintDescription": "Men Single Skating - Free Skating",
+          "UnitDateTime": "2026-02-08T22:03:04+01:00"
+        }
+      ]
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/24750"
+}

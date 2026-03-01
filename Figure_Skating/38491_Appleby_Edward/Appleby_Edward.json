@@ -1,0 +1,219 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "38491",
+      "GivenName": "Edward",
+      "FamilyName": "Appleby",
+      "PrintName": "APPLEBY Edward",
+      "PrintInitialName": "APPLEBY E",
+      "TVName": "Edward APPLEBY",
+      "TVInitialName": "E. APPLEBY",
+      "TVFamilyName": "APPLEBY",
+      "OrganisationCode": "GBR",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "2004-12-21",
+      "Age": 21,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "Teams": [
+        {
+          "Code": "FSKXTEAM----GBR01",
+          "Name": "Great Britain",
+          "ShortName": "Great Britain",
+          "TVTeamName": "Great Britain",
+          "TeamType": "ORG",
+          "OrganisationCode": "GBR",
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------"
+        }
+      ],
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/ed_applebyskater/"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >32</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Boston, MA, USA</td> </tr> <tr> <td class=\"text-start text-end\" >38</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Montreal, QC, CAN</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU European Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2025</td> <td class=\"text-start\" >Tallinn, EST</td> </tr> <tr> <td class=\"text-start text-end\" >24</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2026</td> <td class=\"text-start\" >Sheffield, GBR</td> </tr> <tr> <td class=\"text-start text-end\" >25</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Kaunas, LTU</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU World Junior Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >9</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2024</td> <td class=\"text-start\" >Taipei, TPE</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2023</td> <td class=\"text-start\" >Calgary, AB, CAN</td> </tr> <tr> <td class=\"text-start text-end\" >20</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Tallinn, EST</td> </tr> <tr> <td class=\"text-start text-end\" >26</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2020</td> <td class=\"text-start\" >Tallinn, EST</td> </tr> <tr> <td class=\"text-start text-end\" >36</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Zagreb, CRO</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>ISU Grand Prix</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >12</td> <td class=\"text-start\" >Men Single Skating</td> <td class=\"text-start text-end\" >2022/2023</td> <td class=\"text-start\" >Sheffield, GBR</td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "MSK",
+          "VenueDescription": "Milano Ice Skating Arena",
+          "VenueLongDescription": "Milano Ice Skating Arena",
+          "LocationCode": "MSC",
+          "LocationDescription": "Milano MSK-Competition Rink",
+          "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+          "LocationShortDescription": "Milano MSK-Competition Rink",
+          "EventUnitCode": "FSKXTEAM--------------QUAL0001MN--",
+          "UnitNum": "",
+          "UnitDescription": "Team Event - Men Single Skating - SP",
+          "UnitLongDescription": "Team Event - Men Single Skating - Short Program",
+          "UnitPrintDescription": "Men Single Skating - Short Program",
+          "IsFinal": false,
+          "DisciplineCode": "FSK",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "0001MN--",
+          "StartDate": "2026-02-07T19:45:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FSK",
+          "Description": "Figure Skating"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FSK",
+          "DisciplineDescription": "Figure Skating",
+          "GenderCode": "X",
+          "EventCode": "TEAM--------------",
+          "EventDescription": "Team Event",
+          "EventLongDescription": "Team Event",
+          "EventSortOrder": 5,
+          "ParticipantType": "DGRP",
+          "Substitute": "Y",
+          "Rank": 9,
+          "ResultType": "POINTS",
+          "RankingAvailable": 0,
+          "Units": [
+            {
+              "VenueCode": "MSK",
+              "VenueDescription": "Milano Ice Skating Arena",
+              "VenueLongDescription": "Milano Ice Skating Arena",
+              "LocationCode": "MSC",
+              "LocationDescription": "Milano MSK-Competition Rink",
+              "LocationLongDescription": "Milano Ice Skating Arena-Competition Rink",
+              "LocationShortDescription": "Milano MSK-Competition Rink",
+              "EventUnitCode": "FSKXTEAM--------------QUAL0001MN--",
+              "UnitNum": "",
+              "UnitDescription": "Team Event - Men Single Skating - SP",
+              "UnitLongDescription": "Team Event - Men Single Skating - Short Program",
+              "UnitPrintDescription": "Men Single Skating - Short Program",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "0001MN--",
+              "UnitDateTime": "2026-02-07T19:53:09+01:00",
+              "Result": "69.68",
+              "ResultType": "POINTS",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------------------",
+              "Value": "181.72"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0001MN--",
+              "Value": "116.77"
+            },
+            {
+              "Code": "SB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0001MN--",
+              "Value": "69.35"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKMSINGLES-----------------------",
+              "Value": "216.48"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------FNL-0001MN--",
+              "Value": "142.46"
+            },
+            {
+              "Code": "PB",
+              "Type": "IFPOINTS",
+              "Pos": "FSKXTEAM--------------QUAL0001MN--",
+              "Value": "75.69"
+            },
+            {
+              "Code": "RANK_PTS",
+              "Type": "IFPOINTS",
+              "Value": "1144"
+            },
+            {
+              "Code": "RANK_WLD",
+              "Type": "IFRANK",
+              "Value": "54"
+            },
+            {
+              "Code": "RANK_ORDER",
+              "Type": "IFRANK",
+              "Value": "1"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/38491_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/38491_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/38491"
+}

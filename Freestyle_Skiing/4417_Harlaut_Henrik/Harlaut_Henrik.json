@@ -1,0 +1,221 @@
+{
+  "ResponseCode": 200,
+  "Message": "",
+  "ValidityTokenRemainingSeconds": 0,
+  "TotalRows": 1,
+  "Data": [
+    {
+      "Code": "4417",
+      "GivenName": "Henrik",
+      "FamilyName": "Harlaut",
+      "PrintName": "HARLAUT Henrik",
+      "PrintInitialName": "HARLAUT H",
+      "TVName": "Henrik HARLAUT",
+      "TVInitialName": "H. HARLAUT",
+      "TVFamilyName": "HARLAUT",
+      "OrganisationCode": "SWE",
+      "GenderCode": "M",
+      "GenderDescription": "Male",
+      "BirthDate": "1991-08-14",
+      "PlaceofBirth": "Sollentuna",
+      "CountryofBirth": "SWE",
+      "Age": 34,
+      "FlagBearer": 0,
+      "OlympicSolidarity": 0,
+      "YouthOlympian": 0,
+      "University": {},
+      "ExtendedBio": [
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "FACEBOOK",
+          "Value": "https://www.facebook.com/henrik.harlaut/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "INSTAGRAM",
+          "Value": "https://www.instagram.com/hharlaut/"
+        },
+        {
+          "Type": "EB_SOCIALMEDIA",
+          "Code": "TIKTOK",
+          "Value": "https://www.tiktok.com/@henrikharlaut"
+        }
+      ],
+      "Interests": {
+        "BioGinNickname": null,
+        "BioGinPrevNames": null,
+        "BioGinHobbies": null,
+        "BioGinOccupation": null,
+        "BioGinEducation": null,
+        "BioGinMarStatus": null,
+        "BioGinFamily": null,
+        "BioGinLangSpoken": null,
+        "BioGinClub_Name": null,
+        "BioGinCoach": null,
+        "BioGinPosition_Style": null,
+        "BioGinHand": null,
+        "BioGinSporting_Relatives": null,
+        "BioGinOtherSports": null,
+        "BioGinDebut": null,
+        "BioGinInjuries": null,
+        "BioGinMusic": null,
+        "BioGinChoreographer": null,
+        "BioGinNat_Team": null,
+        "BioGinNat_League": null,
+        "BioGinStart": null,
+        "BioGinReason": null,
+        "BioGinAmbition": null,
+        "BioGinMilestones": null,
+        "BioGinTraining": null,
+        "BioGinMemorable": null,
+        "BioGinHero": null,
+        "BioGinInfluence": null,
+        "BioGinRitual": null,
+        "BioGinPhilosophy": null,
+        "BioGinAward": null,
+        "BioGinAppointment": null,
+        "BioGinInt_Appointment": null,
+        "BioGinWinLoss": null,
+        "BioGinOther_Role": null,
+        "BioGinPrev_Role": null,
+        "BioGinAddInformation": null
+      },
+      "Highlights": "<table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>Olympic Winter Games</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >3</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Big Air</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >181.00</td> </tr> <tr> <td class=\"text-start text-end\" >6</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2014</td> <td class=\"text-start\" >Sochi, RUS</td> <td class=\"text-start text-end\" >84.40</td> </tr> <tr> <td class=\"text-start text-end\" >17</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2018</td> <td class=\"text-start\" >PyeongChang, KOR</td> <td class=\"text-start text-end\" >75.80</td> </tr> <tr> <td class=\"text-start text-end\" >21</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2022</td> <td class=\"text-start\" >Beijing, CHN</td> <td class=\"text-start text-end\" >48.16</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"5\" class=\"text-start border-0\"><b>World Championships</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start text-end\" >Year</th> <th class=\"text-start\" >Location</th> <th class=\"text-start text-end\" >Result</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" >2</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Big Air</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Park City, UT, USA</td> <td class=\"text-start text-end\" >184.00</td> </tr> <tr> <td class=\"text-start text-end\" >4</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2017</td> <td class=\"text-start\" >Sierra Nevada, ESP</td> <td class=\"text-start text-end\" >87.80</td> </tr> <tr> <td class=\"text-start text-end\" >5</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2019</td> <td class=\"text-start\" >Park City, UT, USA</td> <td class=\"text-start text-end\" >82.70</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Aspen, CO, USA</td> <td class=\"text-start text-end\" >85.25</td> </tr> <tr> <td class=\"text-start text-end\" >15</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Big Air</td> <td class=\"text-start text-end\" >2021</td> <td class=\"text-start\" >Aspen, CO, USA</td> <td class=\"text-start text-end\" >88.75</td> </tr> <tr> <td class=\"text-start text-end\" >53</td> <td class=\"text-start\" >Men&amp;apos;s Freeski Slopestyle</td> <td class=\"text-start text-end\" >2013</td> <td class=\"text-start\" >Voss - Oslo, NOR</td> <td class=\"text-start text-end\" >30.6</td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>World Cup Rankings</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-end\"><b>Overall</b></th> <th class=\"text-end\"><b>Freeski Slopestyle</b></th> <th class=\"text-end\"><b>Freeski Big Air</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-end\"> 89 </td> <td class=\"text-end\"> 34 </td> <td class=\"text-end\"> 49 </td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-end\"> 58 </td> <td class=\"text-end\"> 50 </td> <td class=\"text-end\"> 16 </td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-end\"> 15 </td> <td class=\"text-end\"> 12 </td> <td class=\"text-end\"> 14 </td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-end\"> 70 </td> <td class=\"text-end\"> 33 </td> <td class=\"text-end\"> 9 </td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-end\"> 59 </td> <td class=\"text-end\"> 13 </td> <td class=\"text-end\"> 17 </td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-end\"> 110 </td> <td class=\"text-end\"> 20 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-end\"> 2 </td> <td class=\"text-end\"> 26 </td> <td class=\"text-end\"> 1 </td> </tr> <tr> <td class=\"text-end\">2015/2016</td> <td class=\"text-end\"> 82 </td> <td class=\"text-end\"> 16 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-end\"> 122 </td> <td class=\"text-end\"> 29 </td> <td class=\"text-end\"> </td> </tr> <tr> <td class=\"text-end\">2012/2013</td> <td class=\"text-end\"> 76 </td> <td class=\"text-end\"> 9 </td> <td class=\"text-end\"> </td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"3\" class=\"text-start border-0\"><b>World Cup - Best Achievements</b></th> </tr> <tr> <th class=\"text-end\"><b>Season</b></th> <th class=\"text-start\"><b>Freeski Slopestyle</b></th> <th class=\"text-start\"><b>Freeski Big Air</b></th> </tr> </thead> <tbody> <tr> <td class=\"text-end\">2025/2026</td> <td class=\"text-start\">1 x 22nd</td> <td class=\"text-start\">1 x 30th</td> </tr> <tr> <td class=\"text-end\">2021/2022</td> <td class=\"text-start\">1 x 18th</td> <td class=\"text-start\">1 x 8th</td> </tr> <tr> <td class=\"text-end\">2020/2021</td> <td class=\"text-start\">1 x 3rd</td> <td class=\"text-start\">1 x 14th</td> </tr> <tr> <td class=\"text-end\">2019/2020</td> <td class=\"text-start\">1 x 13th</td> <td class=\"text-start\">1 x 4th</td> </tr> <tr> <td class=\"text-end\">2018/2019</td> <td class=\"text-start\">1 x 1st</td> <td class=\"text-start\">1 x 5th</td> </tr> <tr> <td class=\"text-end\">2017/2018</td> <td class=\"text-start\">1 x 4th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2016/2017</td> <td class=\"text-start\">1 x 9th</td> <td class=\"text-start\">2 x 1st</td> </tr> <tr> <td class=\"text-end\">2015/2016</td> <td class=\"text-start\">1 x 2nd</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2013/2014</td> <td class=\"text-start\">1 x 11th</td> <td class=\"text-start\"></td> </tr> <tr> <td class=\"text-end\">2012/2013</td> <td class=\"text-start\">1 x 2nd</td> <td class=\"text-start\"></td> </tr> </tbody> </table> <table> <thead> <tr class=\"border-0\"> <th colspan=\"4\" class=\"text-start border-0\"><b>Ten Best World Cup Performances in Current Season</b></th> </tr> <tr> <th class=\"text-start text-end\" >Rank</th> <th class=\"text-start\" >Event</th> <th class=\"text-start\" >Year</th> <th class=\"text-start\" >Location</th> </tr> </thead> <tbody> <tr> <td class=\"text-start text-end\" > 22 </td> <td class=\"text-start\" > Men&amp;apos;s Freeski Slopestyle </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Laax, SUI </td> </tr> <tr> <td class=\"text-start text-end\" > 30 </td> <td class=\"text-start\" > Men&amp;apos;s Freeski Big Air </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Beijing, CHN </td> </tr> <tr> <td class=\"text-start text-end\" > 33 </td> <td class=\"text-start\" > Men&amp;apos;s Freeski Slopestyle </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Aspen, CO, USA </td> </tr> <tr> <td class=\"text-start text-end\" > 49 </td> <td class=\"text-start\" > Men&amp;apos;s Freeski Big Air </td> <td class=\"text-start\" > 2025/2026 </td> <td class=\"text-start\" > Secret Garden, CHN </td> </tr> </tbody> </table>  <br><p><i>Data provided by Sports Data Warehouse</i></p>",
+      "ScheduledUnits": [
+        {
+          "VenueCode": "LSP",
+          "VenueDescription": "Livigno Snow Park",
+          "VenueLongDescription": "Livigno Snow Park",
+          "LocationCode": "LSS",
+          "LocationDescription": "Livigno Snow Park-Slopestyle",
+          "LocationLongDescription": "Livigno Snow Park-Slopestyle",
+          "LocationShortDescription": "Livigno Snow Park-Slopestyle",
+          "EventUnitCode": "FRSMSS----------------QUAL000001--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Freeski Slopestyle Qual Run 1",
+          "UnitLongDescription": "Men's Freeski Slopestyle Qualification Run 1",
+          "UnitPrintDescription": "Qualification Run 1",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "SS----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000001--",
+          "StartDate": "2026-02-07T14:00:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        },
+        {
+          "VenueCode": "LSP",
+          "VenueDescription": "Livigno Snow Park",
+          "VenueLongDescription": "Livigno Snow Park",
+          "LocationCode": "LSS",
+          "LocationDescription": "Livigno Snow Park-Slopestyle",
+          "LocationLongDescription": "Livigno Snow Park-Slopestyle",
+          "LocationShortDescription": "Livigno Snow Park-Slopestyle",
+          "EventUnitCode": "FRSMSS----------------QUAL000002--",
+          "UnitNum": "",
+          "UnitDescription": "Men's Freeski Slopestyle Qual Run 2",
+          "UnitLongDescription": "Men's Freeski Slopestyle Qualification Run 2",
+          "UnitPrintDescription": "Qualification Run 2",
+          "IsFinal": false,
+          "DisciplineCode": "FRS",
+          "GenderCode": "M",
+          "EventCode": "SS----------------",
+          "PhaseCode": "QUAL",
+          "UnitCode": "000002--",
+          "StartDate": "2026-02-07T15:05:00+01:00",
+          "HideStartDate": false,
+          "Periods": {
+            "NumPeriods": 0
+          },
+          "EventStatus": "OFFICIAL",
+          "ScheduleStatus": "FINISHED",
+          "ODFResultStatus": "OFFICIAL"
+        }
+      ],
+      "Disciplines": [
+        {
+          "DisciplineCode": "FRS",
+          "Description": "Freestyle Skiing"
+        }
+      ],
+      "RegisteredEvent": [
+        {
+          "DisciplineCode": "FRS",
+          "DisciplineDescription": "Freestyle Skiing",
+          "GenderCode": "M",
+          "EventCode": "SS----------------",
+          "EventDescription": "Men's Freeski Slopestyle",
+          "EventLongDescription": "Men's Freeski Slopestyle",
+          "EventSortOrder": 13,
+          "ParticipantType": "INDV",
+          "IRM": "DNS",
+          "ResultType": "IRM",
+          "RankingAvailable": 1,
+          "Units": [
+            {
+              "VenueCode": "LSP",
+              "VenueDescription": "Livigno Snow Park",
+              "VenueLongDescription": "Livigno Snow Park",
+              "LocationCode": "LSS",
+              "LocationDescription": "Livigno Snow Park-Slopestyle",
+              "LocationLongDescription": "Livigno Snow Park-Slopestyle",
+              "LocationShortDescription": "Livigno Snow Park-Slopestyle",
+              "EventUnitCode": "FRSMSS----------------QUAL000001--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Freeski Slopestyle Qual Run 1",
+              "UnitLongDescription": "Men's Freeski Slopestyle Qualification Run 1",
+              "UnitPrintDescription": "Qualification Run 1",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000001--",
+              "UnitDateTime": "2026-02-07T14:01:21+01:00",
+              "IRM": "DNS",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            },
+            {
+              "VenueCode": "LSP",
+              "VenueDescription": "Livigno Snow Park",
+              "VenueLongDescription": "Livigno Snow Park",
+              "LocationCode": "LSS",
+              "LocationDescription": "Livigno Snow Park-Slopestyle",
+              "LocationLongDescription": "Livigno Snow Park-Slopestyle",
+              "LocationShortDescription": "Livigno Snow Park-Slopestyle",
+              "EventUnitCode": "FRSMSS----------------QUAL000002--",
+              "UnitNum": "",
+              "UnitDescription": "Men's Freeski Slopestyle Qual Run 2",
+              "UnitLongDescription": "Men's Freeski Slopestyle Qualification Run 2",
+              "UnitPrintDescription": "Qualification Run 2",
+              "IsFinal": false,
+              "PhaseCode": "QUAL",
+              "UnitCode": "000002--",
+              "UnitDateTime": "2026-02-07T15:06:13+01:00",
+              "IRM": "DNS",
+              "ResultType": "IRM",
+              "EventStatus": "OFFICIAL",
+              "ODFResultStatus": "OFFICIAL"
+            }
+          ],
+          "EventEntry": [
+            {
+              "Type": "IFRANK",
+              "Code": "SEED",
+              "Value": "59"
+            }
+          ]
+        }
+      ],
+      "AccreditationImage": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_IMAGE/OWG2026/DT_PIC/4417_HEADSHOT_1.png",
+      "AccreditationAudio": "https://wmr-static-assets.scd.dgplatform.net/wmr/static/_AUDIO/OWG2026/DT_AUDIO/4417_1.mp3"
+    }
+  ],
+  "URL": "https://www.olympics.com/en/milano-cortina-2026/results/athlete-details/4417"
+}
